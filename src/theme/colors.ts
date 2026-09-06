@@ -9,4 +9,5 @@ export const colors = {
   error: '#D64545',
   success: '#2E8B57',
   placeholder: '#9AA5B1',
+  logoBackground: '#F0EFEC',
 };

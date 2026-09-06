@@ -40,3 +40,17 @@ export async function registerUser(user: StoredUser): Promise<void> {
   users.push(user);
   await AsyncStorage.setItem(USERS_KEY, JSON.stringify(users));
 }
+
+const DEFAULT_USER: StoredUser = {
+  fullName: 'vutth',
+  username: 'vutth',
+  email: 'vutth@example.com',
+  password: '123456789',
+};
+
+export async function seedDefaultUser(): Promise<void> {
+  const taken = await isUsernameOrEmailTaken(DEFAULT_USER.username, DEFAULT_USER.email);
+  if (!taken) {
+    await registerUser(DEFAULT_USER);
+  }
+}

@@ -5,6 +5,7 @@ import {
   KeyboardAvoidingView,
   Platform,
   Pressable,
+  ScrollView,
   StyleSheet,
   Text,
   TextInput,
@@ -16,12 +17,11 @@ import { colors } from '../theme/colors';
 import { findUserByLogin } from '../storage/userStorage';
 
 type Props = {
-  banner?: string | null;
   onNavigateToRegister: () => void;
   onLoginSuccess: (fullName: string) => void;
 };
 
-export default function LoginScreen({ banner, onNavigateToRegister, onLoginSuccess }: Props) {
+export default function LoginScreen({ onNavigateToRegister, onLoginSuccess }: Props) {
   const [login, setLogin] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
@@ -52,9 +52,9 @@ export default function LoginScreen({ banner, onNavigateToRegister, onLoginSucce
   return (
     <KeyboardAvoidingView
       style={styles.flex}
-      behavior={Platform.OS === 'ios' ? 'padding' : undefined}
+      behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
     >
-      <View style={styles.container}>
+      <ScrollView contentContainerStyle={styles.container} keyboardShouldPersistTaps="handled">
         <Image
           source={require('../../design/logo-tron.jpg')}
           style={styles.logo}
@@ -64,12 +64,6 @@ export default function LoginScreen({ banner, onNavigateToRegister, onLoginSucce
         <Text style={styles.welcome}>
           Chào mừng bạn đến với <Text style={styles.welcomeBrand}>EngUt!</Text>
         </Text>
-
-        {banner ? (
-          <View style={styles.successBanner}>
-            <Text style={styles.successBannerText}>{banner}</Text>
-          </View>
-        ) : null}
 
         <View style={styles.inputWrapper}>
           <Ionicons name="person-outline" size={20} color={colors.placeholder} style={styles.inputIcon} />
@@ -132,7 +126,7 @@ export default function LoginScreen({ banner, onNavigateToRegister, onLoginSucce
             <Text style={styles.registerLink}>Đăng ký ngay</Text>
           </Pressable>
         </View>
-      </View>
+      </ScrollView>
     </KeyboardAvoidingView>
   );
 }
@@ -142,16 +136,19 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   container: {
-    flex: 1,
+    flexGrow: 1,
     backgroundColor: colors.background,
     alignItems: 'center',
     justifyContent: 'center',
     paddingHorizontal: 28,
+    paddingVertical: 40,
   },
   logo: {
     width: 160,
     height: 160,
     marginBottom: 24,
+    backgroundColor: colors.logoBackground,
+    borderRadius: 16,
   },
   welcome: {
     fontSize: 16,
@@ -182,19 +179,6 @@ const styles = StyleSheet.create({
     flex: 1,
     fontSize: 15,
     color: colors.text,
-  },
-  successBanner: {
-    width: '100%',
-    backgroundColor: '#E5F3EA',
-    borderRadius: 12,
-    paddingVertical: 10,
-    paddingHorizontal: 14,
-    marginBottom: 16,
-  },
-  successBannerText: {
-    color: colors.success,
-    fontSize: 13,
-    textAlign: 'center',
   },
   errorText: {
     width: '100%',

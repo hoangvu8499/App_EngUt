@@ -1,0 +1,5027 @@
+[
+  {
+    "topic": "Cơ thể con người",
+    "vocabularies": [
+      {
+        "vocabulary": "head",
+        "transcription": "/hed/",
+        "meaning": "đầu",
+        "sentenceEng": "Please keep your head still for the photo.",
+        "sentenceMeaning": "Vui lòng giữ yên đầu để chụp ảnh."
+      },
+      {
+        "vocabulary": "hair",
+        "transcription": "/heər/",
+        "meaning": "tóc",
+        "sentenceEng": "His hair turned gray at forty.",
+        "sentenceMeaning": "Tóc anh ấy bạc đi khi bốn mươi tuổi."
+      },
+      {
+        "vocabulary": "face",
+        "transcription": "/feɪs/",
+        "meaning": "khuôn mặt",
+        "sentenceEng": "Wash your face with cold water.",
+        "sentenceMeaning": "Hãy rửa mặt bằng nước lạnh."
+      },
+      {
+        "vocabulary": "eye",
+        "transcription": "/aɪ/",
+        "meaning": "mắt",
+        "sentenceEng": "Something got into my left eye.",
+        "sentenceMeaning": "Có gì đó bay vào mắt trái của tôi."
+      },
+      {
+        "vocabulary": "ear",
+        "transcription": "/ɪər/",
+        "meaning": "tai",
+        "sentenceEng": "The loud noise hurt my ears.",
+        "sentenceMeaning": "Tiếng ồn lớn làm đau tai tôi."
+      },
+      {
+        "vocabulary": "nose",
+        "transcription": "/nəʊz/",
+        "meaning": "mũi",
+        "sentenceEng": "The baby has a tiny round nose.",
+        "sentenceMeaning": "Em bé có chiếc mũi tròn nhỏ xíu."
+      },
+      {
+        "vocabulary": "mouth",
+        "transcription": "/maʊθ/",
+        "meaning": "miệng",
+        "sentenceEng": "Cover your mouth when you cough.",
+        "sentenceMeaning": "Hãy che miệng khi bạn ho."
+      },
+      {
+        "vocabulary": "tooth",
+        "transcription": "/tuːθ/",
+        "meaning": "răng",
+        "sentenceEng": "One of my back teeth is loose.",
+        "sentenceMeaning": "Một chiếc răng hàm của tôi bị lung lay."
+      },
+      {
+        "vocabulary": "tongue",
+        "transcription": "/tʌŋ/",
+        "meaning": "lưỡi",
+        "sentenceEng": "I burned my tongue on the hot soup.",
+        "sentenceMeaning": "Tôi bị bỏng lưỡi vì món súp nóng."
+      },
+      {
+        "vocabulary": "neck",
+        "transcription": "/nek/",
+        "meaning": "cổ",
+        "sentenceEng": "My neck is stiff from sleeping badly.",
+        "sentenceMeaning": "Cổ tôi bị cứng vì ngủ sai tư thế."
+      },
+      {
+        "vocabulary": "shoulder",
+        "transcription": "/ˈʃəʊldə(r)/",
+        "meaning": "vai",
+        "sentenceEng": "He carried the box on one shoulder.",
+        "sentenceMeaning": "Anh ấy vác cái hộp trên một bên vai."
+      },
+      {
+        "vocabulary": "arm",
+        "transcription": "/ɑːm/",
+        "meaning": "cánh tay",
+        "sentenceEng": "She held the baby in her arms.",
+        "sentenceMeaning": "Cô ấy ôm em bé trong vòng tay."
+      },
+      {
+        "vocabulary": "elbow",
+        "transcription": "/ˈelbəʊ/",
+        "meaning": "khuỷu tay",
+        "sentenceEng": "Don't put your elbows on the table.",
+        "sentenceMeaning": "Đừng chống khuỷu tay lên bàn."
+      },
+      {
+        "vocabulary": "hand",
+        "transcription": "/hænd/",
+        "meaning": "bàn tay",
+        "sentenceEng": "Wash your hands before eating.",
+        "sentenceMeaning": "Hãy rửa tay trước khi ăn."
+      },
+      {
+        "vocabulary": "finger",
+        "transcription": "/ˈfɪŋɡə(r)/",
+        "meaning": "ngón tay",
+        "sentenceEng": "He counted the days on his fingers.",
+        "sentenceMeaning": "Anh ấy đếm số ngày trên các ngón tay."
+      },
+      {
+        "vocabulary": "chest",
+        "transcription": "/tʃest/",
+        "meaning": "ngực",
+        "sentenceEng": "The runner was breathing hard, chest heaving.",
+        "sentenceMeaning": "Người chạy thở dốc, lồng ngực phập phồng."
+      },
+      {
+        "vocabulary": "heart",
+        "transcription": "/hɑːt/",
+        "meaning": "trái tim",
+        "sentenceEng": "Exercise keeps your heart strong.",
+        "sentenceMeaning": "Tập thể dục giúp trái tim khỏe mạnh."
+      },
+      {
+        "vocabulary": "stomach",
+        "transcription": "/ˈstʌmək/",
+        "meaning": "dạ dày, bụng",
+        "sentenceEng": "Don't take this medicine on an empty stomach.",
+        "sentenceMeaning": "Đừng uống thuốc này khi bụng đói."
+      },
+      {
+        "vocabulary": "back",
+        "transcription": "/bæk/",
+        "meaning": "lưng",
+        "sentenceEng": "He lay on his back and looked at the sky.",
+        "sentenceMeaning": "Anh ấy nằm ngửa và nhìn lên bầu trời."
+      },
+      {
+        "vocabulary": "waist",
+        "transcription": "/weɪst/",
+        "meaning": "eo",
+        "sentenceEng": "The dress is too tight at the waist.",
+        "sentenceMeaning": "Chiếc váy quá chật ở phần eo."
+      },
+      {
+        "vocabulary": "leg",
+        "transcription": "/leɡ/",
+        "meaning": "chân",
+        "sentenceEng": "My legs ache after the long walk.",
+        "sentenceMeaning": "Chân tôi mỏi sau chuyến đi bộ dài."
+      },
+      {
+        "vocabulary": "knee",
+        "transcription": "/niː/",
+        "meaning": "đầu gối",
+        "sentenceEng": "He knelt down on one knee.",
+        "sentenceMeaning": "Anh ấy quỳ xuống bằng một đầu gối."
+      },
+      {
+        "vocabulary": "foot",
+        "transcription": "/fʊt/",
+        "meaning": "bàn chân",
+        "sentenceEng": "These shoes hurt my right foot.",
+        "sentenceMeaning": "Đôi giày này làm đau bàn chân phải của tôi."
+      },
+      {
+        "vocabulary": "toe",
+        "transcription": "/təʊ/",
+        "meaning": "ngón chân",
+        "sentenceEng": "She wiggled her toes in the sand.",
+        "sentenceMeaning": "Cô ấy ngọ nguậy các ngón chân trong cát."
+      },
+      {
+        "vocabulary": "skin",
+        "transcription": "/skɪn/",
+        "meaning": "da",
+        "sentenceEng": "Sunscreen protects your skin.",
+        "sentenceMeaning": "Kem chống nắng bảo vệ làn da của bạn."
+      },
+      {
+        "vocabulary": "bone",
+        "transcription": "/bəʊn/",
+        "meaning": "xương",
+        "sentenceEng": "Milk helps children build strong bones.",
+        "sentenceMeaning": "Sữa giúp trẻ em có xương chắc khỏe."
+      },
+      {
+        "vocabulary": "blood",
+        "transcription": "/blʌd/",
+        "meaning": "máu",
+        "sentenceEng": "The nurse took a small sample of blood.",
+        "sentenceMeaning": "Y tá lấy một mẫu máu nhỏ."
+      },
+      {
+        "vocabulary": "brain",
+        "transcription": "/breɪn/",
+        "meaning": "não",
+        "sentenceEng": "Sleep gives the brain time to recover.",
+        "sentenceMeaning": "Giấc ngủ cho não thời gian phục hồi."
+      }
+    ]
+  },
+  {
+    "topic": "Ngoại hình",
+    "vocabularies": [
+      {
+        "vocabulary": "tall",
+        "transcription": "/tɔːl/",
+        "meaning": "cao",
+        "sentenceEng": "Her son is tall for his age.",
+        "sentenceMeaning": "Con trai cô ấy cao so với tuổi."
+      },
+      {
+        "vocabulary": "short",
+        "transcription": "/ʃɔːt/",
+        "meaning": "thấp",
+        "sentenceEng": "The shelf is too high for someone short.",
+        "sentenceMeaning": "Cái kệ quá cao với người thấp."
+      },
+      {
+        "vocabulary": "slim",
+        "transcription": "/slɪm/",
+        "meaning": "mảnh mai",
+        "sentenceEng": "He stayed slim by cycling to work.",
+        "sentenceMeaning": "Anh ấy giữ dáng mảnh mai nhờ đạp xe đi làm."
+      },
+      {
+        "vocabulary": "chubby",
+        "transcription": "/ˈtʃʌbi/",
+        "meaning": "mũm mĩm",
+        "sentenceEng": "The chubby toddler waved at us.",
+        "sentenceMeaning": "Đứa bé mũm mĩm vẫy tay với chúng tôi."
+      },
+      {
+        "vocabulary": "skinny",
+        "transcription": "/ˈskɪni/",
+        "meaning": "gầy gò",
+        "sentenceEng": "That jacket makes him look skinny.",
+        "sentenceMeaning": "Chiếc áo khoác đó làm anh ấy trông gầy gò."
+      },
+      {
+        "vocabulary": "muscular",
+        "transcription": "/ˈmʌskjələ(r)/",
+        "meaning": "cơ bắp",
+        "sentenceEng": "Years of swimming made him muscular.",
+        "sentenceMeaning": "Nhiều năm bơi lội khiến anh ấy cơ bắp."
+      },
+      {
+        "vocabulary": "overweight",
+        "transcription": "/ˌəʊvəˈweɪt/",
+        "meaning": "thừa cân",
+        "sentenceEng": "The doctor said he is slightly overweight.",
+        "sentenceMeaning": "Bác sĩ nói anh ấy hơi thừa cân."
+      },
+      {
+        "vocabulary": "attractive",
+        "transcription": "/əˈtræktɪv/",
+        "meaning": "hấp dẫn",
+        "sentenceEng": "She has an attractive smile.",
+        "sentenceMeaning": "Cô ấy có nụ cười hấp dẫn."
+      },
+      {
+        "vocabulary": "handsome",
+        "transcription": "/ˈhænsəm/",
+        "meaning": "đẹp trai",
+        "sentenceEng": "The actor looked handsome in a plain suit.",
+        "sentenceMeaning": "Nam diễn viên trông đẹp trai trong bộ vest giản dị."
+      },
+      {
+        "vocabulary": "beautiful",
+        "transcription": "/ˈbjuːtɪfl/",
+        "meaning": "xinh đẹp",
+        "sentenceEng": "Everyone said the bride looked beautiful.",
+        "sentenceMeaning": "Ai cũng nói cô dâu trông thật xinh đẹp."
+      },
+      {
+        "vocabulary": "good-looking",
+        "transcription": "/ˌɡʊd ˈlʊkɪŋ/",
+        "meaning": "ưa nhìn",
+        "sentenceEng": "Her brother is quite good-looking.",
+        "sentenceMeaning": "Anh trai cô ấy khá ưa nhìn."
+      },
+      {
+        "vocabulary": "pale",
+        "transcription": "/peɪl/",
+        "meaning": "nhợt nhạt",
+        "sentenceEng": "He turned pale when he heard the news.",
+        "sentenceMeaning": "Anh ấy tái nhợt khi nghe tin đó."
+      },
+      {
+        "vocabulary": "tanned",
+        "transcription": "/tænd/",
+        "meaning": "rám nắng",
+        "sentenceEng": "Two weeks in Da Nang left her tanned.",
+        "sentenceMeaning": "Hai tuần ở Đà Nẵng khiến cô ấy rám nắng."
+      },
+      {
+        "vocabulary": "freckles",
+        "transcription": "/ˈfreklz/",
+        "meaning": "tàn nhang",
+        "sentenceEng": "Freckles appear across her nose in summer.",
+        "sentenceMeaning": "Tàn nhang xuất hiện trên mũi cô ấy vào mùa hè."
+      },
+      {
+        "vocabulary": "curly hair",
+        "transcription": "/ˈkɜːli heə(r)/",
+        "meaning": "tóc xoăn",
+        "sentenceEng": "Her curly hair is hard to brush.",
+        "sentenceMeaning": "Tóc xoăn của cô ấy rất khó chải."
+      },
+      {
+        "vocabulary": "straight hair",
+        "transcription": "/streɪt heə(r)/",
+        "meaning": "tóc thẳng",
+        "sentenceEng": "He has thick straight hair.",
+        "sentenceMeaning": "Anh ấy có mái tóc thẳng và dày."
+      },
+      {
+        "vocabulary": "blond hair",
+        "transcription": "/blɒnd heə(r)/",
+        "meaning": "tóc vàng",
+        "sentenceEng": "The child has blond hair like his mother.",
+        "sentenceMeaning": "Đứa trẻ có mái tóc vàng giống mẹ."
+      },
+      {
+        "vocabulary": "bald",
+        "transcription": "/bɔːld/",
+        "meaning": "hói",
+        "sentenceEng": "My uncle went bald quite early.",
+        "sentenceMeaning": "Chú tôi bị hói khá sớm."
+      },
+      {
+        "vocabulary": "beard",
+        "transcription": "/bɪəd/",
+        "meaning": "râu quai nón",
+        "sentenceEng": "He trims his beard every Sunday.",
+        "sentenceMeaning": "Anh ấy tỉa râu vào mỗi Chủ nhật."
+      },
+      {
+        "vocabulary": "moustache",
+        "transcription": "/məˈstɑːʃ/",
+        "meaning": "ria mép",
+        "sentenceEng": "A thin moustache suits his face.",
+        "sentenceMeaning": "Bộ ria mép mỏng hợp với khuôn mặt anh ấy."
+      },
+      {
+        "vocabulary": "tattoo",
+        "transcription": "/təˈtuː/",
+        "meaning": "hình xăm",
+        "sentenceEng": "She got a small tattoo on her wrist.",
+        "sentenceMeaning": "Cô ấy xăm một hình nhỏ trên cổ tay."
+      },
+      {
+        "vocabulary": "piercing",
+        "transcription": "/ˈpɪəsɪŋ/",
+        "meaning": "khuyên (xỏ)",
+        "sentenceEng": "His ear piercing is barely visible.",
+        "sentenceMeaning": "Chiếc khuyên tai của anh ấy hầu như không thấy rõ."
+      },
+      {
+        "vocabulary": "elegant",
+        "transcription": "/ˈelɪɡənt/",
+        "meaning": "thanh lịch",
+        "sentenceEng": "She always dresses in an elegant way.",
+        "sentenceMeaning": "Cô ấy luôn ăn mặc theo cách thanh lịch."
+      },
+      {
+        "vocabulary": "fair skin",
+        "transcription": "/feə skɪn/",
+        "meaning": "da sáng",
+        "sentenceEng": "People with fair skin burn easily.",
+        "sentenceMeaning": "Người có da sáng dễ bị cháy nắng."
+      },
+      {
+        "vocabulary": "dark skin",
+        "transcription": "/dɑːk skɪn/",
+        "meaning": "da ngăm",
+        "sentenceEng": "The bright color suits her dark skin.",
+        "sentenceMeaning": "Màu sáng đó hợp với làn da ngăm của cô ấy."
+      },
+      {
+        "vocabulary": "wrinkles",
+        "transcription": "/ˈrɪŋklz/",
+        "meaning": "nếp nhăn",
+        "sentenceEng": "Fine wrinkles showed around his eyes.",
+        "sentenceMeaning": "Những nếp nhăn mảnh hiện quanh mắt anh ấy."
+      },
+      {
+        "vocabulary": "plump",
+        "transcription": "/plʌmp/",
+        "meaning": "đầy đặn",
+        "sentenceEng": "She has a plump, cheerful face.",
+        "sentenceMeaning": "Cô ấy có khuôn mặt đầy đặn, tươi vui."
+      },
+      {
+        "vocabulary": "well-built",
+        "transcription": "/ˌwel ˈbɪlt/",
+        "meaning": "vạm vỡ",
+        "sentenceEng": "The guard was tall and well-built.",
+        "sentenceMeaning": "Người bảo vệ cao và vạm vỡ."
+      }
+    ]
+  },
+  {
+    "topic": "Tính cách",
+    "vocabularies": [
+      {
+        "vocabulary": "kind",
+        "transcription": "/kaɪnd/",
+        "meaning": "tốt bụng",
+        "sentenceEng": "Our neighbour is kind to everyone.",
+        "sentenceMeaning": "Người hàng xóm của chúng tôi tốt bụng với mọi người."
+      },
+      {
+        "vocabulary": "honest",
+        "transcription": "/ˈɒnɪst/",
+        "meaning": "trung thực",
+        "sentenceEng": "An honest answer is better than a clever one.",
+        "sentenceMeaning": "Một câu trả lời trung thực tốt hơn một câu khôn khéo."
+      },
+      {
+        "vocabulary": "patient",
+        "transcription": "/ˈpeɪʃnt/",
+        "meaning": "kiên nhẫn",
+        "sentenceEng": "Teaching children requires you to be patient.",
+        "sentenceMeaning": "Dạy trẻ đòi hỏi bạn phải kiên nhẫn."
+      },
+      {
+        "vocabulary": "hard-working",
+        "transcription": "/ˌhɑːd ˈwɜːkɪŋ/",
+        "meaning": "chăm chỉ",
+        "sentenceEng": "She is the most hard-working member of the team.",
+        "sentenceMeaning": "Cô ấy là thành viên chăm chỉ nhất trong nhóm."
+      },
+      {
+        "vocabulary": "lazy",
+        "transcription": "/ˈleɪzi/",
+        "meaning": "lười biếng",
+        "sentenceEng": "He is lazy about answering emails.",
+        "sentenceMeaning": "Anh ấy lười trả lời email."
+      },
+      {
+        "vocabulary": "generous",
+        "transcription": "/ˈdʒenərəs/",
+        "meaning": "hào phóng",
+        "sentenceEng": "He is generous with his advice.",
+        "sentenceMeaning": "Anh ấy hào phóng trong việc cho lời khuyên."
+      },
+      {
+        "vocabulary": "selfish",
+        "transcription": "/ˈselfɪʃ/",
+        "meaning": "ích kỷ",
+        "sentenceEng": "It was selfish of him to take the last seat.",
+        "sentenceMeaning": "Anh ta thật ích kỷ khi giành chỗ cuối cùng."
+      },
+      {
+        "vocabulary": "confident",
+        "transcription": "/ˈkɒnfɪdənt/",
+        "meaning": "tự tin",
+        "sentenceEng": "She sounds confident when she presents.",
+        "sentenceMeaning": "Cô ấy nghe rất tự tin khi thuyết trình."
+      },
+      {
+        "vocabulary": "shy",
+        "transcription": "/ʃaɪ/",
+        "meaning": "nhút nhát",
+        "sentenceEng": "He was too shy to ask a question.",
+        "sentenceMeaning": "Cậu ấy quá nhút nhát để đặt câu hỏi."
+      },
+      {
+        "vocabulary": "polite",
+        "transcription": "/pəˈlaɪt/",
+        "meaning": "lịch sự",
+        "sentenceEng": "The staff here are always polite.",
+        "sentenceMeaning": "Nhân viên ở đây luôn lịch sự."
+      },
+      {
+        "vocabulary": "rude",
+        "transcription": "/ruːd/",
+        "meaning": "thô lỗ",
+        "sentenceEng": "Interrupting people is rude.",
+        "sentenceMeaning": "Ngắt lời người khác là thô lỗ."
+      },
+      {
+        "vocabulary": "friendly",
+        "transcription": "/ˈfrendli/",
+        "meaning": "thân thiện",
+        "sentenceEng": "The office has a friendly atmosphere.",
+        "sentenceMeaning": "Văn phòng có bầu không khí thân thiện."
+      },
+      {
+        "vocabulary": "reliable",
+        "transcription": "/rɪˈlaɪəbl/",
+        "meaning": "đáng tin cậy",
+        "sentenceEng": "We need a reliable person for this task.",
+        "sentenceMeaning": "Chúng tôi cần một người đáng tin cậy cho việc này."
+      },
+      {
+        "vocabulary": "stubborn",
+        "transcription": "/ˈstʌbən/",
+        "meaning": "bướng bỉnh",
+        "sentenceEng": "He is too stubborn to admit a mistake.",
+        "sentenceMeaning": "Anh ấy quá bướng bỉnh để thừa nhận sai lầm."
+      },
+      {
+        "vocabulary": "ambitious",
+        "transcription": "/æmˈbɪʃəs/",
+        "meaning": "tham vọng",
+        "sentenceEng": "She is ambitious about her career.",
+        "sentenceMeaning": "Cô ấy có nhiều tham vọng về sự nghiệp."
+      },
+      {
+        "vocabulary": "cheerful",
+        "transcription": "/ˈtʃɪəfl/",
+        "meaning": "vui vẻ",
+        "sentenceEng": "He greeted us in a cheerful voice.",
+        "sentenceMeaning": "Anh ấy chào chúng tôi bằng giọng vui vẻ."
+      },
+      {
+        "vocabulary": "serious",
+        "transcription": "/ˈsɪəriəs/",
+        "meaning": "nghiêm túc",
+        "sentenceEng": "She looks serious but jokes a lot.",
+        "sentenceMeaning": "Cô ấy trông nghiêm túc nhưng hay đùa."
+      },
+      {
+        "vocabulary": "careless",
+        "transcription": "/ˈkeələs/",
+        "meaning": "cẩu thả",
+        "sentenceEng": "A careless mistake cost us the contract.",
+        "sentenceMeaning": "Một lỗi cẩu thả khiến chúng tôi mất hợp đồng."
+      },
+      {
+        "vocabulary": "careful",
+        "transcription": "/ˈkeəfl/",
+        "meaning": "cẩn thận",
+        "sentenceEng": "Be careful with that glass door.",
+        "sentenceMeaning": "Hãy cẩn thận với cánh cửa kính đó."
+      },
+      {
+        "vocabulary": "brave",
+        "transcription": "/breɪv/",
+        "meaning": "dũng cảm",
+        "sentenceEng": "It was brave of her to speak up.",
+        "sentenceMeaning": "Cô ấy thật dũng cảm khi lên tiếng."
+      },
+      {
+        "vocabulary": "humble",
+        "transcription": "/ˈhʌmbl/",
+        "meaning": "khiêm tốn",
+        "sentenceEng": "He stayed humble after the promotion.",
+        "sentenceMeaning": "Anh ấy vẫn khiêm tốn sau khi được thăng chức."
+      },
+      {
+        "vocabulary": "arrogant",
+        "transcription": "/ˈærəɡənt/",
+        "meaning": "kiêu ngạo",
+        "sentenceEng": "Nobody likes an arrogant leader.",
+        "sentenceMeaning": "Không ai thích một người lãnh đạo kiêu ngạo."
+      },
+      {
+        "vocabulary": "creative",
+        "transcription": "/kriˈeɪtɪv/",
+        "meaning": "sáng tạo",
+        "sentenceEng": "The team needs a creative approach.",
+        "sentenceMeaning": "Nhóm cần một hướng tiếp cận sáng tạo."
+      },
+      {
+        "vocabulary": "optimistic",
+        "transcription": "/ˌɒptɪˈmɪstɪk/",
+        "meaning": "lạc quan",
+        "sentenceEng": "She stays optimistic even when it is hard.",
+        "sentenceMeaning": "Cô ấy vẫn lạc quan ngay cả khi khó khăn."
+      },
+      {
+        "vocabulary": "pessimistic",
+        "transcription": "/ˌpesɪˈmɪstɪk/",
+        "meaning": "bi quan",
+        "sentenceEng": "Try not to be pessimistic about the result.",
+        "sentenceMeaning": "Cố đừng bi quan về kết quả."
+      },
+      {
+        "vocabulary": "sociable",
+        "transcription": "/ˈsəʊʃəbl/",
+        "meaning": "hòa đồng",
+        "sentenceEng": "He is sociable and remembers every name.",
+        "sentenceMeaning": "Anh ấy hòa đồng và nhớ tên tất cả mọi người."
+      },
+      {
+        "vocabulary": "quiet",
+        "transcription": "/ˈkwaɪət/",
+        "meaning": "trầm tính",
+        "sentenceEng": "She is quiet but very observant.",
+        "sentenceMeaning": "Cô ấy trầm tính nhưng rất tinh ý."
+      },
+      {
+        "vocabulary": "generous-hearted",
+        "transcription": "/ˌdʒenərəs ˈhɑːtɪd/",
+        "meaning": "rộng lượng",
+        "sentenceEng": "He is generous-hearted with people who fail.",
+        "sentenceMeaning": "Anh ấy rộng lượng với những người thất bại."
+      }
+    ]
+  },
+  {
+    "topic": "Cảm xúc",
+    "vocabularies": [
+      {
+        "vocabulary": "happy",
+        "transcription": "/ˈhæpi/",
+        "meaning": "vui, hạnh phúc",
+        "sentenceEng": "I am happy that you came.",
+        "sentenceMeaning": "Tôi vui vì bạn đã đến."
+      },
+      {
+        "vocabulary": "sad",
+        "transcription": "/sæd/",
+        "meaning": "buồn",
+        "sentenceEng": "The ending of the film made me sad.",
+        "sentenceMeaning": "Kết phim khiến tôi buồn."
+      },
+      {
+        "vocabulary": "angry",
+        "transcription": "/ˈæŋɡri/",
+        "meaning": "tức giận",
+        "sentenceEng": "He gets angry when people are late.",
+        "sentenceMeaning": "Anh ấy tức giận khi mọi người đến muộn."
+      },
+      {
+        "vocabulary": "excited",
+        "transcription": "/ɪkˈsaɪtɪd/",
+        "meaning": "hào hứng",
+        "sentenceEng": "We are excited about the new project.",
+        "sentenceMeaning": "Chúng tôi hào hứng về dự án mới."
+      },
+      {
+        "vocabulary": "nervous",
+        "transcription": "/ˈnɜːvəs/",
+        "meaning": "hồi hộp, lo lắng",
+        "sentenceEng": "She felt nervous before the demo.",
+        "sentenceMeaning": "Cô ấy thấy hồi hộp trước buổi demo."
+      },
+      {
+        "vocabulary": "scared",
+        "transcription": "/skeəd/",
+        "meaning": "sợ hãi",
+        "sentenceEng": "The dog is scared of thunder.",
+        "sentenceMeaning": "Con chó sợ tiếng sấm."
+      },
+      {
+        "vocabulary": "surprised",
+        "transcription": "/səˈpraɪzd/",
+        "meaning": "ngạc nhiên",
+        "sentenceEng": "I was surprised by how fast it loaded.",
+        "sentenceMeaning": "Tôi ngạc nhiên vì nó tải nhanh đến vậy."
+      },
+      {
+        "vocabulary": "confused",
+        "transcription": "/kənˈfjuːzd/",
+        "meaning": "bối rối",
+        "sentenceEng": "The error message left me confused.",
+        "sentenceMeaning": "Thông báo lỗi khiến tôi bối rối."
+      },
+      {
+        "vocabulary": "bored",
+        "transcription": "/bɔːd/",
+        "meaning": "chán",
+        "sentenceEng": "The kids got bored after ten minutes.",
+        "sentenceMeaning": "Bọn trẻ chán sau mười phút."
+      },
+      {
+        "vocabulary": "tired",
+        "transcription": "/ˈtaɪəd/",
+        "meaning": "mệt mỏi",
+        "sentenceEng": "I am too tired to cook tonight.",
+        "sentenceMeaning": "Tôi quá mệt để nấu ăn tối nay."
+      },
+      {
+        "vocabulary": "relaxed",
+        "transcription": "/rɪˈlækst/",
+        "meaning": "thư giãn",
+        "sentenceEng": "He looks relaxed on weekends.",
+        "sentenceMeaning": "Anh ấy trông thư giãn vào cuối tuần."
+      },
+      {
+        "vocabulary": "lonely",
+        "transcription": "/ˈləʊnli/",
+        "meaning": "cô đơn",
+        "sentenceEng": "The first month abroad felt lonely.",
+        "sentenceMeaning": "Tháng đầu ở nước ngoài thật cô đơn."
+      },
+      {
+        "vocabulary": "proud",
+        "transcription": "/praʊd/",
+        "meaning": "tự hào",
+        "sentenceEng": "Her parents are proud of her.",
+        "sentenceMeaning": "Bố mẹ cô ấy tự hào về cô."
+      },
+      {
+        "vocabulary": "embarrassed",
+        "transcription": "/ɪmˈbærəst/",
+        "meaning": "xấu hổ",
+        "sentenceEng": "I was embarrassed by my typo.",
+        "sentenceMeaning": "Tôi xấu hổ vì lỗi đánh máy của mình."
+      },
+      {
+        "vocabulary": "frustrated",
+        "transcription": "/frʌˈstreɪtɪd/",
+        "meaning": "bực bội",
+        "sentenceEng": "He is frustrated with the slow process.",
+        "sentenceMeaning": "Anh ấy bực bội với quy trình chậm chạp."
+      },
+      {
+        "vocabulary": "hopeful",
+        "transcription": "/ˈhəʊpfl/",
+        "meaning": "hy vọng",
+        "sentenceEng": "We are hopeful about next quarter.",
+        "sentenceMeaning": "Chúng tôi hy vọng vào quý tới."
+      },
+      {
+        "vocabulary": "grateful",
+        "transcription": "/ˈɡreɪtfl/",
+        "meaning": "biết ơn",
+        "sentenceEng": "I am grateful for your patience.",
+        "sentenceMeaning": "Tôi biết ơn sự kiên nhẫn của bạn."
+      },
+      {
+        "vocabulary": "jealous",
+        "transcription": "/ˈdʒeləs/",
+        "meaning": "ghen tị",
+        "sentenceEng": "He was jealous of his friend's success.",
+        "sentenceMeaning": "Anh ấy ghen tị với thành công của bạn mình."
+      },
+      {
+        "vocabulary": "disappointed",
+        "transcription": "/ˌdɪsəˈpɔɪntɪd/",
+        "meaning": "thất vọng",
+        "sentenceEng": "She was disappointed by the delay.",
+        "sentenceMeaning": "Cô ấy thất vọng vì sự chậm trễ."
+      },
+      {
+        "vocabulary": "curious",
+        "transcription": "/ˈkjʊəriəs/",
+        "meaning": "tò mò",
+        "sentenceEng": "I am curious about how it works.",
+        "sentenceMeaning": "Tôi tò mò về cách nó hoạt động."
+      },
+      {
+        "vocabulary": "calm",
+        "transcription": "/kɑːm/",
+        "meaning": "bình tĩnh",
+        "sentenceEng": "Stay calm and read the log again.",
+        "sentenceMeaning": "Hãy bình tĩnh và đọc lại log."
+      },
+      {
+        "vocabulary": "anxious",
+        "transcription": "/ˈæŋkʃəs/",
+        "meaning": "bất an",
+        "sentenceEng": "He felt anxious waiting for the reply.",
+        "sentenceMeaning": "Anh ấy thấy bất an khi chờ hồi âm."
+      },
+      {
+        "vocabulary": "content",
+        "transcription": "/kənˈtent/",
+        "meaning": "hài lòng",
+        "sentenceEng": "She seems content with her new role.",
+        "sentenceMeaning": "Cô ấy có vẻ hài lòng với vai trò mới."
+      },
+      {
+        "vocabulary": "energetic",
+        "transcription": "/ˌenəˈdʒetɪk/",
+        "meaning": "tràn đầy năng lượng",
+        "sentenceEng": "The team felt energetic after the break.",
+        "sentenceMeaning": "Cả nhóm tràn đầy năng lượng sau kỳ nghỉ."
+      },
+      {
+        "vocabulary": "relieved",
+        "transcription": "/rɪˈliːvd/",
+        "meaning": "nhẹ nhõm",
+        "sentenceEng": "I felt relieved when the build passed.",
+        "sentenceMeaning": "Tôi thấy nhẹ nhõm khi bản build chạy được."
+      },
+      {
+        "vocabulary": "shocked",
+        "transcription": "/ʃɒkt/",
+        "meaning": "sốc",
+        "sentenceEng": "Everyone was shocked by the announcement.",
+        "sentenceMeaning": "Mọi người đều sốc vì thông báo đó."
+      },
+      {
+        "vocabulary": "miserable",
+        "transcription": "/ˈmɪzrəbl/",
+        "meaning": "khổ sở",
+        "sentenceEng": "He felt miserable during the whole trip.",
+        "sentenceMeaning": "Anh ấy thấy khổ sở suốt chuyến đi."
+      },
+      {
+        "vocabulary": "grumpy",
+        "transcription": "/ˈɡrʌmpi/",
+        "meaning": "cáu kỉnh",
+        "sentenceEng": "She is grumpy before her first coffee.",
+        "sentenceMeaning": "Cô ấy cáu kỉnh trước ly cà phê đầu tiên."
+      }
+    ]
+  },
+  {
+    "topic": "Gia đình",
+    "vocabularies": [
+      {
+        "vocabulary": "father",
+        "transcription": "/ˈfɑːðə(r)/",
+        "meaning": "bố, cha",
+        "sentenceEng": "My father retired last spring.",
+        "sentenceMeaning": "Bố tôi nghỉ hưu mùa xuân năm ngoái."
+      },
+      {
+        "vocabulary": "mother",
+        "transcription": "/ˈmʌðə(r)/",
+        "meaning": "mẹ",
+        "sentenceEng": "Her mother runs a small shop.",
+        "sentenceMeaning": "Mẹ cô ấy mở một cửa hàng nhỏ."
+      },
+      {
+        "vocabulary": "parents",
+        "transcription": "/ˈpeərənts/",
+        "meaning": "bố mẹ",
+        "sentenceEng": "My parents live in Hue.",
+        "sentenceMeaning": "Bố mẹ tôi sống ở Huế."
+      },
+      {
+        "vocabulary": "brother",
+        "transcription": "/ˈbrʌðə(r)/",
+        "meaning": "anh/em trai",
+        "sentenceEng": "My brother studies engineering.",
+        "sentenceMeaning": "Anh trai tôi học ngành kỹ thuật."
+      },
+      {
+        "vocabulary": "sister",
+        "transcription": "/ˈsɪstə(r)/",
+        "meaning": "chị/em gái",
+        "sentenceEng": "Her sister works in Singapore.",
+        "sentenceMeaning": "Chị gái cô ấy làm việc ở Singapore."
+      },
+      {
+        "vocabulary": "son",
+        "transcription": "/sʌn/",
+        "meaning": "con trai",
+        "sentenceEng": "Their son just started school.",
+        "sentenceMeaning": "Con trai họ vừa bắt đầu đi học."
+      },
+      {
+        "vocabulary": "daughter",
+        "transcription": "/ˈdɔːtə(r)/",
+        "meaning": "con gái",
+        "sentenceEng": "His daughter plays the violin.",
+        "sentenceMeaning": "Con gái anh ấy chơi violin."
+      },
+      {
+        "vocabulary": "grandfather",
+        "transcription": "/ˈɡrænfɑːðə(r)/",
+        "meaning": "ông",
+        "sentenceEng": "My grandfather taught me to fish.",
+        "sentenceMeaning": "Ông tôi dạy tôi câu cá."
+      },
+      {
+        "vocabulary": "grandmother",
+        "transcription": "/ˈɡrænmʌðə(r)/",
+        "meaning": "bà",
+        "sentenceEng": "My grandmother makes the best soup.",
+        "sentenceMeaning": "Bà tôi nấu món súp ngon nhất."
+      },
+      {
+        "vocabulary": "grandparents",
+        "transcription": "/ˈɡrænpeərənts/",
+        "meaning": "ông bà",
+        "sentenceEng": "We visit our grandparents at Tet.",
+        "sentenceMeaning": "Chúng tôi thăm ông bà vào dịp Tết."
+      },
+      {
+        "vocabulary": "grandchild",
+        "transcription": "/ˈɡræntʃaɪld/",
+        "meaning": "cháu",
+        "sentenceEng": "She has five grandchildren.",
+        "sentenceMeaning": "Bà ấy có năm đứa cháu."
+      },
+      {
+        "vocabulary": "uncle",
+        "transcription": "/ˈʌŋkl/",
+        "meaning": "chú, bác, cậu",
+        "sentenceEng": "My uncle drives a truck.",
+        "sentenceMeaning": "Chú tôi lái xe tải."
+      },
+      {
+        "vocabulary": "aunt",
+        "transcription": "/ɑːnt/",
+        "meaning": "cô, dì, bác gái",
+        "sentenceEng": "My aunt lives next door.",
+        "sentenceMeaning": "Dì tôi sống ngay cạnh nhà."
+      },
+      {
+        "vocabulary": "cousin",
+        "transcription": "/ˈkʌzn/",
+        "meaning": "anh/chị/em họ",
+        "sentenceEng": "My cousin is the same age as me.",
+        "sentenceMeaning": "Anh họ tôi bằng tuổi tôi."
+      },
+      {
+        "vocabulary": "nephew",
+        "transcription": "/ˈnefjuː/",
+        "meaning": "cháu trai",
+        "sentenceEng": "I taught my nephew to ride a bike.",
+        "sentenceMeaning": "Tôi dạy cháu trai đi xe đạp."
+      },
+      {
+        "vocabulary": "niece",
+        "transcription": "/niːs/",
+        "meaning": "cháu gái",
+        "sentenceEng": "My niece drew a picture for me.",
+        "sentenceMeaning": "Cháu gái tôi vẽ tặng tôi một bức tranh."
+      },
+      {
+        "vocabulary": "husband",
+        "transcription": "/ˈhʌzbənd/",
+        "meaning": "chồng",
+        "sentenceEng": "Her husband cooks every evening.",
+        "sentenceMeaning": "Chồng cô ấy nấu ăn mỗi tối."
+      },
+      {
+        "vocabulary": "wife",
+        "transcription": "/waɪf/",
+        "meaning": "vợ",
+        "sentenceEng": "His wife teaches at a primary school.",
+        "sentenceMeaning": "Vợ anh ấy dạy ở trường tiểu học."
+      },
+      {
+        "vocabulary": "children",
+        "transcription": "/ˈtʃɪldrən/",
+        "meaning": "con cái",
+        "sentenceEng": "They have two children.",
+        "sentenceMeaning": "Họ có hai người con."
+      },
+      {
+        "vocabulary": "family",
+        "transcription": "/ˈfæməli/",
+        "meaning": "gia đình",
+        "sentenceEng": "Our family eats dinner together.",
+        "sentenceMeaning": "Gia đình tôi ăn tối cùng nhau."
+      },
+      {
+        "vocabulary": "stepfather",
+        "transcription": "/ˈstepfɑːðə(r)/",
+        "meaning": "cha dượng",
+        "sentenceEng": "His stepfather taught him to drive.",
+        "sentenceMeaning": "Cha dượng dạy anh ấy lái xe."
+      },
+      {
+        "vocabulary": "stepmother",
+        "transcription": "/ˈstepmʌðə(r)/",
+        "meaning": "mẹ kế",
+        "sentenceEng": "Her stepmother is a nurse.",
+        "sentenceMeaning": "Mẹ kế của cô ấy là y tá."
+      },
+      {
+        "vocabulary": "twin",
+        "transcription": "/twɪn/",
+        "meaning": "sinh đôi",
+        "sentenceEng": "The twins were born in March.",
+        "sentenceMeaning": "Cặp sinh đôi chào đời vào tháng Ba."
+      },
+      {
+        "vocabulary": "relative",
+        "transcription": "/ˈrelətɪv/",
+        "meaning": "họ hàng",
+        "sentenceEng": "Many relatives came to the wedding.",
+        "sentenceMeaning": "Nhiều họ hàng đến dự đám cưới."
+      },
+      {
+        "vocabulary": "in-laws",
+        "transcription": "/ˈɪn lɔːz/",
+        "meaning": "gia đình bên vợ/chồng",
+        "sentenceEng": "We spend Tet with my in-laws.",
+        "sentenceMeaning": "Chúng tôi ăn Tết với gia đình bên vợ."
+      },
+      {
+        "vocabulary": "single",
+        "transcription": "/ˈsɪŋɡl/",
+        "meaning": "độc thân",
+        "sentenceEng": "He is still single at thirty-five.",
+        "sentenceMeaning": "Anh ấy vẫn độc thân ở tuổi ba mươi lăm."
+      },
+      {
+        "vocabulary": "married",
+        "transcription": "/ˈmærid/",
+        "meaning": "đã kết hôn",
+        "sentenceEng": "They have been married for ten years.",
+        "sentenceMeaning": "Họ đã kết hôn được mười năm."
+      },
+      {
+        "vocabulary": "divorce",
+        "transcription": "/dɪˈvɔːs/",
+        "meaning": "ly hôn",
+        "sentenceEng": "The divorce was settled quietly.",
+        "sentenceMeaning": "Việc ly hôn được giải quyết êm thấm."
+      }
+    ]
+  },
+  {
+    "topic": "Sở thích",
+    "vocabularies": [
+      {
+        "vocabulary": "reading",
+        "transcription": "/ˈriːdɪŋ/",
+        "meaning": "đọc sách",
+        "sentenceEng": "Reading before bed helps me sleep.",
+        "sentenceMeaning": "Đọc sách trước khi ngủ giúp tôi dễ ngủ."
+      },
+      {
+        "vocabulary": "cooking",
+        "transcription": "/ˈkʊkɪŋ/",
+        "meaning": "nấu ăn",
+        "sentenceEng": "Cooking is how he relaxes after work.",
+        "sentenceMeaning": "Nấu ăn là cách anh ấy thư giãn sau giờ làm."
+      },
+      {
+        "vocabulary": "gardening",
+        "transcription": "/ˈɡɑːdnɪŋ/",
+        "meaning": "làm vườn",
+        "sentenceEng": "Gardening takes patience.",
+        "sentenceMeaning": "Làm vườn cần sự kiên nhẫn."
+      },
+      {
+        "vocabulary": "painting",
+        "transcription": "/ˈpeɪntɪŋ/",
+        "meaning": "vẽ tranh",
+        "sentenceEng": "She took up painting last year.",
+        "sentenceMeaning": "Cô ấy bắt đầu vẽ tranh từ năm ngoái."
+      },
+      {
+        "vocabulary": "drawing",
+        "transcription": "/ˈdrɔːɪŋ/",
+        "meaning": "vẽ",
+        "sentenceEng": "He fills notebooks with drawings.",
+        "sentenceMeaning": "Anh ấy vẽ kín các cuốn sổ."
+      },
+      {
+        "vocabulary": "singing",
+        "transcription": "/ˈsɪŋɪŋ/",
+        "meaning": "hát",
+        "sentenceEng": "Singing in the shower counts as practice.",
+        "sentenceMeaning": "Hát trong lúc tắm cũng tính là luyện tập."
+      },
+      {
+        "vocabulary": "dancing",
+        "transcription": "/ˈdɑːnsɪŋ/",
+        "meaning": "nhảy múa",
+        "sentenceEng": "Dancing is her way of exercising.",
+        "sentenceMeaning": "Nhảy là cách cô ấy tập thể dục."
+      },
+      {
+        "vocabulary": "traveling",
+        "transcription": "/ˈtrævəlɪŋ/",
+        "meaning": "du lịch",
+        "sentenceEng": "Traveling alone taught him a lot.",
+        "sentenceMeaning": "Du lịch một mình dạy anh ấy nhiều điều."
+      },
+      {
+        "vocabulary": "photography",
+        "transcription": "/fəˈtɒɡrəfi/",
+        "meaning": "nhiếp ảnh",
+        "sentenceEng": "Photography became a serious hobby for him.",
+        "sentenceMeaning": "Nhiếp ảnh trở thành sở thích nghiêm túc của anh ấy."
+      },
+      {
+        "vocabulary": "watching movies",
+        "transcription": "/ˈwɒtʃɪŋ ˈmuːviz/",
+        "meaning": "xem phim",
+        "sentenceEng": "Watching movies is our Friday routine.",
+        "sentenceMeaning": "Xem phim là thói quen thứ Sáu của chúng tôi."
+      },
+      {
+        "vocabulary": "playing games",
+        "transcription": "/ˈpleɪɪŋ ɡeɪmz/",
+        "meaning": "chơi game",
+        "sentenceEng": "He limits playing games to an hour a day.",
+        "sentenceMeaning": "Anh ấy giới hạn chơi game một tiếng mỗi ngày."
+      },
+      {
+        "vocabulary": "listening to music",
+        "transcription": "/ˈlɪsnɪŋ tə ˈmjuːzɪk/",
+        "meaning": "nghe nhạc",
+        "sentenceEng": "I code better while listening to music.",
+        "sentenceMeaning": "Tôi code tốt hơn khi nghe nhạc."
+      },
+      {
+        "vocabulary": "writing",
+        "transcription": "/ˈraɪtɪŋ/",
+        "meaning": "viết lách",
+        "sentenceEng": "Writing a blog improved his thinking.",
+        "sentenceMeaning": "Viết blog giúp anh ấy tư duy tốt hơn."
+      },
+      {
+        "vocabulary": "hiking",
+        "transcription": "/ˈhaɪkɪŋ/",
+        "meaning": "đi bộ đường dài",
+        "sentenceEng": "Hiking on Son Tra is popular here.",
+        "sentenceMeaning": "Đi bộ đường dài ở Sơn Trà rất phổ biến ở đây."
+      },
+      {
+        "vocabulary": "cycling",
+        "transcription": "/ˈsaɪklɪŋ/",
+        "meaning": "đạp xe",
+        "sentenceEng": "Cycling to the office saves money.",
+        "sentenceMeaning": "Đạp xe đến văn phòng giúp tiết kiệm tiền."
+      },
+      {
+        "vocabulary": "swimming",
+        "transcription": "/ˈswɪmɪŋ/",
+        "meaning": "bơi lội",
+        "sentenceEng": "Swimming is easy on the knees.",
+        "sentenceMeaning": "Bơi lội nhẹ nhàng cho đầu gối."
+      },
+      {
+        "vocabulary": "fishing",
+        "transcription": "/ˈfɪʃɪŋ/",
+        "meaning": "câu cá",
+        "sentenceEng": "Fishing requires sitting still for hours.",
+        "sentenceMeaning": "Câu cá đòi hỏi ngồi yên hàng giờ."
+      },
+      {
+        "vocabulary": "playing guitar",
+        "transcription": "/ˈpleɪɪŋ ɡɪˈtɑː(r)/",
+        "meaning": "chơi guitar",
+        "sentenceEng": "He learned playing guitar from videos.",
+        "sentenceMeaning": "Anh ấy học chơi guitar qua video."
+      },
+      {
+        "vocabulary": "playing piano",
+        "transcription": "/ˈpleɪɪŋ piˈænəʊ/",
+        "meaning": "chơi piano",
+        "sentenceEng": "Playing piano requires daily practice.",
+        "sentenceMeaning": "Chơi piano đòi hỏi luyện tập hằng ngày."
+      },
+      {
+        "vocabulary": "baking",
+        "transcription": "/ˈbeɪkɪŋ/",
+        "meaning": "làm bánh",
+        "sentenceEng": "Baking bread at home is cheaper.",
+        "sentenceMeaning": "Làm bánh mì ở nhà rẻ hơn."
+      },
+      {
+        "vocabulary": "knitting",
+        "transcription": "/ˈnɪtɪŋ/",
+        "meaning": "đan len",
+        "sentenceEng": "Knitting keeps her hands busy.",
+        "sentenceMeaning": "Đan len giúp tay bà ấy luôn bận rộn."
+      },
+      {
+        "vocabulary": "collecting stamps",
+        "transcription": "/kəˈlektɪŋ stæmps/",
+        "meaning": "sưu tầm tem",
+        "sentenceEng": "Collecting stamps is an old hobby.",
+        "sentenceMeaning": "Sưu tầm tem là một sở thích xưa cũ."
+      },
+      {
+        "vocabulary": "playing chess",
+        "transcription": "/ˈpleɪɪŋ tʃes/",
+        "meaning": "chơi cờ",
+        "sentenceEng": "Playing chess sharpens your planning.",
+        "sentenceMeaning": "Chơi cờ giúp rèn khả năng lên kế hoạch."
+      },
+      {
+        "vocabulary": "camping",
+        "transcription": "/ˈkæmpɪŋ/",
+        "meaning": "cắm trại",
+        "sentenceEng": "Camping is better in the dry season.",
+        "sentenceMeaning": "Cắm trại thích hợp hơn vào mùa khô."
+      },
+      {
+        "vocabulary": "yoga",
+        "transcription": "/ˈjəʊɡə/",
+        "meaning": "tập yoga",
+        "sentenceEng": "Yoga helped his back pain.",
+        "sentenceMeaning": "Yoga giúp giảm đau lưng cho anh ấy."
+      },
+      {
+        "vocabulary": "martial arts",
+        "transcription": "/ˈmɑːʃl ɑːts/",
+        "meaning": "võ thuật",
+        "sentenceEng": "He trains in martial arts twice a week.",
+        "sentenceMeaning": "Anh ấy tập võ hai lần một tuần."
+      },
+      {
+        "vocabulary": "volunteering",
+        "transcription": "/ˌvɒlənˈtɪərɪŋ/",
+        "meaning": "làm tình nguyện",
+        "sentenceEng": "Volunteering gave her new friends.",
+        "sentenceMeaning": "Làm tình nguyện giúp cô ấy có thêm bạn mới."
+      },
+      {
+        "vocabulary": "gaming",
+        "transcription": "/ˈɡeɪmɪŋ/",
+        "meaning": "chơi trò chơi điện tử",
+        "sentenceEng": "Gaming online connects him with old friends.",
+        "sentenceMeaning": "Chơi game online kết nối anh ấy với bạn cũ."
+      }
+    ]
+  },
+  {
+    "topic": "Quần áo và thời trang",
+    "vocabularies": [
+      {
+        "vocabulary": "shirt",
+        "transcription": "/ʃɜːt/",
+        "meaning": "áo sơ mi",
+        "sentenceEng": "This shirt needs ironing.",
+        "sentenceMeaning": "Chiếc áo sơ mi này cần ủi."
+      },
+      {
+        "vocabulary": "T-shirt",
+        "transcription": "/ˈtiː ʃɜːt/",
+        "meaning": "áo thun",
+        "sentenceEng": "A plain T-shirt goes with anything.",
+        "sentenceMeaning": "Một chiếc áo thun trơn hợp với mọi thứ."
+      },
+      {
+        "vocabulary": "pants",
+        "transcription": "/pænts/",
+        "meaning": "quần dài",
+        "sentenceEng": "These pants are a bit loose.",
+        "sentenceMeaning": "Chiếc quần này hơi rộng."
+      },
+      {
+        "vocabulary": "jeans",
+        "transcription": "/dʒiːnz/",
+        "meaning": "quần bò",
+        "sentenceEng": "My jeans faded after many washes.",
+        "sentenceMeaning": "Quần bò của tôi bạc màu sau nhiều lần giặt."
+      },
+      {
+        "vocabulary": "skirt",
+        "transcription": "/skɜːt/",
+        "meaning": "chân váy",
+        "sentenceEng": "She chose a long skirt for the trip.",
+        "sentenceMeaning": "Cô ấy chọn chân váy dài cho chuyến đi."
+      },
+      {
+        "vocabulary": "dress",
+        "transcription": "/dres/",
+        "meaning": "váy liền",
+        "sentenceEng": "The dress needs to be shortened.",
+        "sentenceMeaning": "Chiếc váy cần được cắt ngắn."
+      },
+      {
+        "vocabulary": "jacket",
+        "transcription": "/ˈdʒækɪt/",
+        "meaning": "áo khoác",
+        "sentenceEng": "Take a light jacket for the evening.",
+        "sentenceMeaning": "Mang theo áo khoác mỏng cho buổi tối."
+      },
+      {
+        "vocabulary": "coat",
+        "transcription": "/kəʊt/",
+        "meaning": "áo khoác dài",
+        "sentenceEng": "A wool coat is too warm for Da Nang.",
+        "sentenceMeaning": "Áo khoác len quá ấm với Đà Nẵng."
+      },
+      {
+        "vocabulary": "sweater",
+        "transcription": "/ˈswetə(r)/",
+        "meaning": "áo len",
+        "sentenceEng": "This sweater shrank in the wash.",
+        "sentenceMeaning": "Chiếc áo len này co lại sau khi giặt."
+      },
+      {
+        "vocabulary": "hoodie",
+        "transcription": "/ˈhʊdi/",
+        "meaning": "áo hoodie",
+        "sentenceEng": "He wears the same hoodie every weekend.",
+        "sentenceMeaning": "Anh ấy mặc cùng một chiếc hoodie mỗi cuối tuần."
+      },
+      {
+        "vocabulary": "shorts",
+        "transcription": "/ʃɔːts/",
+        "meaning": "quần đùi",
+        "sentenceEng": "Shorts are fine for the beach.",
+        "sentenceMeaning": "Quần đùi thì hợp với đi biển."
+      },
+      {
+        "vocabulary": "socks",
+        "transcription": "/sɒks/",
+        "meaning": "tất, vớ",
+        "sentenceEng": "One of my socks went missing again.",
+        "sentenceMeaning": "Một chiếc tất của tôi lại biến mất."
+      },
+      {
+        "vocabulary": "shoes",
+        "transcription": "/ʃuːz/",
+        "meaning": "giày",
+        "sentenceEng": "Leave your shoes at the door.",
+        "sentenceMeaning": "Hãy để giày ở cửa."
+      },
+      {
+        "vocabulary": "sneakers",
+        "transcription": "/ˈsniːkəz/",
+        "meaning": "giày thể thao",
+        "sentenceEng": "White sneakers get dirty quickly.",
+        "sentenceMeaning": "Giày thể thao trắng nhanh bẩn."
+      },
+      {
+        "vocabulary": "sandals",
+        "transcription": "/ˈsændlz/",
+        "meaning": "dép quai hậu",
+        "sentenceEng": "Sandals are practical in this heat.",
+        "sentenceMeaning": "Dép quai hậu tiện lợi trong cái nóng này."
+      },
+      {
+        "vocabulary": "boots",
+        "transcription": "/buːts/",
+        "meaning": "giày bốt",
+        "sentenceEng": "Boots are useful in the rainy season.",
+        "sentenceMeaning": "Giày bốt hữu ích vào mùa mưa."
+      },
+      {
+        "vocabulary": "hat",
+        "transcription": "/hæt/",
+        "meaning": "mũ",
+        "sentenceEng": "Wear a hat if you go out at noon.",
+        "sentenceMeaning": "Đội mũ nếu bạn ra ngoài lúc trưa."
+      },
+      {
+        "vocabulary": "cap",
+        "transcription": "/kæp/",
+        "meaning": "mũ lưỡi trai",
+        "sentenceEng": "He wore a cap to hide his hair.",
+        "sentenceMeaning": "Anh ấy đội mũ lưỡi trai để che tóc."
+      },
+      {
+        "vocabulary": "scarf",
+        "transcription": "/skɑːf/",
+        "meaning": "khăn quàng",
+        "sentenceEng": "She tied a silk scarf around her neck.",
+        "sentenceMeaning": "Cô ấy quàng chiếc khăn lụa quanh cổ."
+      },
+      {
+        "vocabulary": "gloves",
+        "transcription": "/ɡlʌvz/",
+        "meaning": "găng tay",
+        "sentenceEng": "Bring gloves if you ride at night.",
+        "sentenceMeaning": "Mang găng tay nếu bạn chạy xe ban đêm."
+      },
+      {
+        "vocabulary": "tie",
+        "transcription": "/taɪ/",
+        "meaning": "cà vạt",
+        "sentenceEng": "He loosened his tie after the meeting.",
+        "sentenceMeaning": "Anh ấy nới lỏng cà vạt sau cuộc họp."
+      },
+      {
+        "vocabulary": "belt",
+        "transcription": "/belt/",
+        "meaning": "thắt lưng",
+        "sentenceEng": "The belt is one hole too tight.",
+        "sentenceMeaning": "Chiếc thắt lưng chật hơn một lỗ."
+      },
+      {
+        "vocabulary": "sunglasses",
+        "transcription": "/ˈsʌnɡlɑːsɪz/",
+        "meaning": "kính râm",
+        "sentenceEng": "Don't forget your sunglasses.",
+        "sentenceMeaning": "Đừng quên kính râm của bạn."
+      },
+      {
+        "vocabulary": "handbag",
+        "transcription": "/ˈhændbæɡ/",
+        "meaning": "túi xách",
+        "sentenceEng": "Her handbag holds far too much.",
+        "sentenceMeaning": "Túi xách của cô ấy đựng quá nhiều thứ."
+      },
+      {
+        "vocabulary": "backpack",
+        "transcription": "/ˈbækpæk/",
+        "meaning": "ba lô",
+        "sentenceEng": "A light backpack is best for commuting.",
+        "sentenceMeaning": "Ba lô nhẹ là tốt nhất để đi làm."
+      },
+      {
+        "vocabulary": "pajamas",
+        "transcription": "/pəˈdʒɑːməz/",
+        "meaning": "đồ ngủ",
+        "sentenceEng": "He answered the door in pajamas.",
+        "sentenceMeaning": "Anh ấy ra mở cửa trong bộ đồ ngủ."
+      },
+      {
+        "vocabulary": "uniform",
+        "transcription": "/ˈjuːnɪfɔːm/",
+        "meaning": "đồng phục",
+        "sentenceEng": "The uniform is navy blue.",
+        "sentenceMeaning": "Đồng phục có màu xanh hải quân."
+      },
+      {
+        "vocabulary": "suit",
+        "transcription": "/suːt/",
+        "meaning": "bộ vest",
+        "sentenceEng": "He bought a suit for the interview.",
+        "sentenceMeaning": "Anh ấy mua một bộ vest cho buổi phỏng vấn."
+      }
+    ]
+  },
+  {
+    "topic": "Mua sắm",
+    "vocabularies": [
+      {
+        "vocabulary": "buy",
+        "transcription": "/baɪ/",
+        "meaning": "mua",
+        "sentenceEng": "I need to buy a new charger.",
+        "sentenceMeaning": "Tôi cần mua một cục sạc mới."
+      },
+      {
+        "vocabulary": "sell",
+        "transcription": "/sel/",
+        "meaning": "bán",
+        "sentenceEng": "They sell fruit near the market gate.",
+        "sentenceMeaning": "Họ bán trái cây gần cổng chợ."
+      },
+      {
+        "vocabulary": "shop",
+        "transcription": "/ʃɒp/",
+        "meaning": "cửa hàng; mua sắm",
+        "sentenceEng": "The shop closes at nine.",
+        "sentenceMeaning": "Cửa hàng đóng cửa lúc chín giờ."
+      },
+      {
+        "vocabulary": "mall",
+        "transcription": "/mɔːl/",
+        "meaning": "trung tâm thương mại",
+        "sentenceEng": "The mall is crowded on Sundays.",
+        "sentenceMeaning": "Trung tâm thương mại đông vào Chủ nhật."
+      },
+      {
+        "vocabulary": "price",
+        "transcription": "/praɪs/",
+        "meaning": "giá",
+        "sentenceEng": "The price includes delivery.",
+        "sentenceMeaning": "Giá đã bao gồm phí giao hàng."
+      },
+      {
+        "vocabulary": "discount",
+        "transcription": "/ˈdɪskaʊnt/",
+        "meaning": "giảm giá",
+        "sentenceEng": "Members get a small discount.",
+        "sentenceMeaning": "Thành viên được giảm giá nhẹ."
+      },
+      {
+        "vocabulary": "sale",
+        "transcription": "/seɪl/",
+        "meaning": "đợt giảm giá",
+        "sentenceEng": "The winter sale starts next week.",
+        "sentenceMeaning": "Đợt giảm giá mùa đông bắt đầu tuần tới."
+      },
+      {
+        "vocabulary": "bargain",
+        "transcription": "/ˈbɑːɡɪn/",
+        "meaning": "món hời; mặc cả",
+        "sentenceEng": "At that price it was a bargain.",
+        "sentenceMeaning": "Với giá đó thì đúng là món hời."
+      },
+      {
+        "vocabulary": "cash",
+        "transcription": "/kæʃ/",
+        "meaning": "tiền mặt",
+        "sentenceEng": "Some stalls only take cash.",
+        "sentenceMeaning": "Một số quầy chỉ nhận tiền mặt."
+      },
+      {
+        "vocabulary": "receipt",
+        "transcription": "/rɪˈsiːt/",
+        "meaning": "hóa đơn",
+        "sentenceEng": "Keep the receipt for the warranty.",
+        "sentenceMeaning": "Giữ hóa đơn để bảo hành."
+      },
+      {
+        "vocabulary": "credit card",
+        "transcription": "/ˈkredɪt kɑːd/",
+        "meaning": "thẻ tín dụng",
+        "sentenceEng": "My credit card was declined.",
+        "sentenceMeaning": "Thẻ tín dụng của tôi bị từ chối."
+      },
+      {
+        "vocabulary": "checkout",
+        "transcription": "/ˈtʃekaʊt/",
+        "meaning": "quầy thanh toán",
+        "sentenceEng": "There was a long line at the checkout.",
+        "sentenceMeaning": "Có hàng dài ở quầy thanh toán."
+      },
+      {
+        "vocabulary": "try on",
+        "transcription": "/traɪ ɒn/",
+        "meaning": "thử đồ",
+        "sentenceEng": "May I try on the next size?",
+        "sentenceMeaning": "Tôi thử size kế tiếp được không?"
+      },
+      {
+        "vocabulary": "size",
+        "transcription": "/saɪz/",
+        "meaning": "cỡ",
+        "sentenceEng": "This size runs a bit small.",
+        "sentenceMeaning": "Cỡ này hơi nhỏ so với thực tế."
+      },
+      {
+        "vocabulary": "fit",
+        "transcription": "/fɪt/",
+        "meaning": "vừa vặn",
+        "sentenceEng": "The jacket fits across the shoulders.",
+        "sentenceMeaning": "Chiếc áo khoác vừa vặn ở phần vai."
+      },
+      {
+        "vocabulary": "refund",
+        "transcription": "/ˈriːfʌnd/",
+        "meaning": "hoàn tiền",
+        "sentenceEng": "They offered a full refund.",
+        "sentenceMeaning": "Họ đề nghị hoàn tiền toàn bộ."
+      },
+      {
+        "vocabulary": "exchange",
+        "transcription": "/ɪksˈtʃeɪndʒ/",
+        "meaning": "đổi hàng",
+        "sentenceEng": "Can I exchange this for another color?",
+        "sentenceMeaning": "Tôi đổi cái này sang màu khác được không?"
+      },
+      {
+        "vocabulary": "return",
+        "transcription": "/rɪˈtɜːn/",
+        "meaning": "trả lại",
+        "sentenceEng": "You can return items within seven days.",
+        "sentenceMeaning": "Bạn có thể trả hàng trong vòng bảy ngày."
+      },
+      {
+        "vocabulary": "expensive",
+        "transcription": "/ɪkˈspensɪv/",
+        "meaning": "đắt",
+        "sentenceEng": "Imported brands are expensive here.",
+        "sentenceMeaning": "Các thương hiệu nhập khẩu đắt ở đây."
+      },
+      {
+        "vocabulary": "cheap",
+        "transcription": "/tʃiːp/",
+        "meaning": "rẻ",
+        "sentenceEng": "Cheap cables break quickly.",
+        "sentenceMeaning": "Cáp rẻ tiền nhanh hỏng."
+      },
+      {
+        "vocabulary": "customer",
+        "transcription": "/ˈkʌstəmə(r)/",
+        "meaning": "khách hàng",
+        "sentenceEng": "A customer asked for the manager.",
+        "sentenceMeaning": "Một khách hàng yêu cầu gặp quản lý."
+      },
+      {
+        "vocabulary": "shop assistant",
+        "transcription": "/ʃɒp əˈsɪstənt/",
+        "meaning": "nhân viên bán hàng",
+        "sentenceEng": "The shop assistant checked the stock.",
+        "sentenceMeaning": "Nhân viên bán hàng kiểm tra kho."
+      },
+      {
+        "vocabulary": "online shopping",
+        "transcription": "/ˈɒnlaɪn ˈʃɒpɪŋ/",
+        "meaning": "mua sắm trực tuyến",
+        "sentenceEng": "Online shopping saves me time.",
+        "sentenceMeaning": "Mua sắm trực tuyến giúp tôi tiết kiệm thời gian."
+      },
+      {
+        "vocabulary": "delivery",
+        "transcription": "/dɪˈlɪvəri/",
+        "meaning": "giao hàng",
+        "sentenceEng": "Delivery takes two working days.",
+        "sentenceMeaning": "Giao hàng mất hai ngày làm việc."
+      },
+      {
+        "vocabulary": "changing room",
+        "transcription": "/ˈtʃeɪndʒɪŋ ruːm/",
+        "meaning": "phòng thử đồ",
+        "sentenceEng": "The changing room is occupied.",
+        "sentenceMeaning": "Phòng thử đồ đang có người."
+      },
+      {
+        "vocabulary": "queue",
+        "transcription": "/kjuː/",
+        "meaning": "hàng chờ; xếp hàng",
+        "sentenceEng": "We queued for twenty minutes.",
+        "sentenceMeaning": "Chúng tôi xếp hàng hai mươi phút."
+      },
+      {
+        "vocabulary": "label",
+        "transcription": "/ˈleɪbl/",
+        "meaning": "nhãn",
+        "sentenceEng": "The label lists the material.",
+        "sentenceMeaning": "Nhãn ghi rõ chất liệu."
+      },
+      {
+        "vocabulary": "product",
+        "transcription": "/ˈprɒdʌkt/",
+        "meaning": "sản phẩm",
+        "sentenceEng": "This product sells out fast.",
+        "sentenceMeaning": "Sản phẩm này bán hết rất nhanh."
+      }
+    ]
+  },
+  {
+    "topic": "Du lịch",
+    "vocabularies": [
+      {
+        "vocabulary": "travel",
+        "transcription": "/ˈtrævl/",
+        "meaning": "du lịch, đi lại",
+        "sentenceEng": "We travel by train when we can.",
+        "sentenceMeaning": "Chúng tôi đi tàu khi có thể."
+      },
+      {
+        "vocabulary": "trip",
+        "transcription": "/trɪp/",
+        "meaning": "chuyến đi",
+        "sentenceEng": "The trip lasted four days.",
+        "sentenceMeaning": "Chuyến đi kéo dài bốn ngày."
+      },
+      {
+        "vocabulary": "journey",
+        "transcription": "/ˈdʒɜːni/",
+        "meaning": "hành trình",
+        "sentenceEng": "The journey north was long but scenic.",
+        "sentenceMeaning": "Hành trình lên phía bắc dài nhưng đẹp."
+      },
+      {
+        "vocabulary": "tour",
+        "transcription": "/tʊə(r)/",
+        "meaning": "chuyến tham quan",
+        "sentenceEng": "We joined a walking tour of the old town.",
+        "sentenceMeaning": "Chúng tôi tham gia tour đi bộ quanh phố cổ."
+      },
+      {
+        "vocabulary": "tourist",
+        "transcription": "/ˈtʊərɪst/",
+        "meaning": "khách du lịch",
+        "sentenceEng": "Tourists fill the beach in July.",
+        "sentenceMeaning": "Khách du lịch kín bãi biển vào tháng Bảy."
+      },
+      {
+        "vocabulary": "destination",
+        "transcription": "/ˌdestɪˈneɪʃn/",
+        "meaning": "điểm đến",
+        "sentenceEng": "Hoi An is a favorite destination.",
+        "sentenceMeaning": "Hội An là điểm đến được ưa thích."
+      },
+      {
+        "vocabulary": "sightseeing",
+        "transcription": "/ˈsaɪtsiːɪŋ/",
+        "meaning": "tham quan",
+        "sentenceEng": "We did some sightseeing in the morning.",
+        "sentenceMeaning": "Chúng tôi đi tham quan vào buổi sáng."
+      },
+      {
+        "vocabulary": "luggage",
+        "transcription": "/ˈlʌɡɪdʒ/",
+        "meaning": "hành lý",
+        "sentenceEng": "My luggage arrived a day late.",
+        "sentenceMeaning": "Hành lý của tôi đến muộn một ngày."
+      },
+      {
+        "vocabulary": "passport",
+        "transcription": "/ˈpɑːspɔːt/",
+        "meaning": "hộ chiếu",
+        "sentenceEng": "Check that your passport is still valid.",
+        "sentenceMeaning": "Kiểm tra xem hộ chiếu còn hiệu lực không."
+      },
+      {
+        "vocabulary": "visa",
+        "transcription": "/ˈviːzə/",
+        "meaning": "thị thực",
+        "sentenceEng": "The visa took three weeks to process.",
+        "sentenceMeaning": "Thị thực mất ba tuần để xử lý."
+      },
+      {
+        "vocabulary": "flight",
+        "transcription": "/flaɪt/",
+        "meaning": "chuyến bay",
+        "sentenceEng": "Our flight leaves at dawn.",
+        "sentenceMeaning": "Chuyến bay của chúng tôi khởi hành lúc rạng sáng."
+      },
+      {
+        "vocabulary": "airport",
+        "transcription": "/ˈeəpɔːt/",
+        "meaning": "sân bay",
+        "sentenceEng": "The airport is close to the city.",
+        "sentenceMeaning": "Sân bay gần thành phố."
+      },
+      {
+        "vocabulary": "boarding pass",
+        "transcription": "/ˈbɔːdɪŋ pɑːs/",
+        "meaning": "thẻ lên máy bay",
+        "sentenceEng": "Show your boarding pass at the gate.",
+        "sentenceMeaning": "Xuất trình thẻ lên máy bay tại cổng."
+      },
+      {
+        "vocabulary": "hotel",
+        "transcription": "/həʊˈtel/",
+        "meaning": "khách sạn",
+        "sentenceEng": "The hotel offers free breakfast.",
+        "sentenceMeaning": "Khách sạn có bữa sáng miễn phí."
+      },
+      {
+        "vocabulary": "hostel",
+        "transcription": "/ˈhɒstl/",
+        "meaning": "nhà nghỉ tập thể",
+        "sentenceEng": "A hostel is cheaper for solo travelers.",
+        "sentenceMeaning": "Nhà nghỉ tập thể rẻ hơn cho người đi một mình."
+      },
+      {
+        "vocabulary": "resort",
+        "transcription": "/rɪˈzɔːt/",
+        "meaning": "khu nghỉ dưỡng",
+        "sentenceEng": "The resort sits right on the sand.",
+        "sentenceMeaning": "Khu nghỉ dưỡng nằm ngay trên bãi cát."
+      },
+      {
+        "vocabulary": "itinerary",
+        "transcription": "/aɪˈtɪnərəri/",
+        "meaning": "lịch trình",
+        "sentenceEng": "Send me the itinerary before we book.",
+        "sentenceMeaning": "Gửi tôi lịch trình trước khi đặt chỗ."
+      },
+      {
+        "vocabulary": "booking",
+        "transcription": "/ˈbʊkɪŋ/",
+        "meaning": "việc đặt chỗ",
+        "sentenceEng": "I confirmed the booking by email.",
+        "sentenceMeaning": "Tôi xác nhận đặt chỗ qua email."
+      },
+      {
+        "vocabulary": "guide",
+        "transcription": "/ɡaɪd/",
+        "meaning": "hướng dẫn viên",
+        "sentenceEng": "The guide explained the local customs.",
+        "sentenceMeaning": "Hướng dẫn viên giải thích phong tục địa phương."
+      },
+      {
+        "vocabulary": "cruise",
+        "transcription": "/kruːz/",
+        "meaning": "chuyến du thuyền",
+        "sentenceEng": "The cruise stops at three islands.",
+        "sentenceMeaning": "Chuyến du thuyền dừng ở ba hòn đảo."
+      },
+      {
+        "vocabulary": "beach",
+        "transcription": "/biːtʃ/",
+        "meaning": "bãi biển",
+        "sentenceEng": "The beach is quiet before sunrise.",
+        "sentenceMeaning": "Bãi biển yên tĩnh trước bình minh."
+      },
+      {
+        "vocabulary": "souvenir",
+        "transcription": "/ˌsuːvəˈnɪə(r)/",
+        "meaning": "quà lưu niệm",
+        "sentenceEng": "I picked up a small souvenir.",
+        "sentenceMeaning": "Tôi mua một món quà lưu niệm nhỏ."
+      },
+      {
+        "vocabulary": "map",
+        "transcription": "/mæp/",
+        "meaning": "bản đồ",
+        "sentenceEng": "An offline map helps when data fails.",
+        "sentenceMeaning": "Bản đồ ngoại tuyến hữu ích khi mất mạng."
+      },
+      {
+        "vocabulary": "travel agency",
+        "transcription": "/ˈtrævl ˈeɪdʒənsi/",
+        "meaning": "công ty du lịch",
+        "sentenceEng": "A travel agency handled the paperwork.",
+        "sentenceMeaning": "Một công ty du lịch lo giấy tờ."
+      },
+      {
+        "vocabulary": "local",
+        "transcription": "/ˈləʊkl/",
+        "meaning": "người địa phương",
+        "sentenceEng": "A local pointed us to a better route.",
+        "sentenceMeaning": "Một người địa phương chỉ chúng tôi lối đi tốt hơn."
+      },
+      {
+        "vocabulary": "budget",
+        "transcription": "/ˈbʌdʒɪt/",
+        "meaning": "ngân sách",
+        "sentenceEng": "We kept the trip within budget.",
+        "sentenceMeaning": "Chúng tôi giữ chuyến đi trong ngân sách."
+      },
+      {
+        "vocabulary": "travel insurance",
+        "transcription": "/ˈtrævl ɪnˈʃʊərəns/",
+        "meaning": "bảo hiểm du lịch",
+        "sentenceEng": "Travel insurance covers lost luggage.",
+        "sentenceMeaning": "Bảo hiểm du lịch chi trả cho hành lý thất lạc."
+      },
+      {
+        "vocabulary": "check-in",
+        "transcription": "/ˈtʃek ɪn/",
+        "meaning": "làm thủ tục",
+        "sentenceEng": "Check-in opens two hours early.",
+        "sentenceMeaning": "Thủ tục nhận phòng mở sớm hai tiếng."
+      }
+    ]
+  },
+  {
+    "topic": "Trường học",
+    "vocabularies": [
+      {
+        "vocabulary": "school",
+        "transcription": "/skuːl/",
+        "meaning": "trường học",
+        "sentenceEng": "The school reopens in September.",
+        "sentenceMeaning": "Trường mở cửa trở lại vào tháng Chín."
+      },
+      {
+        "vocabulary": "classroom",
+        "transcription": "/ˈklɑːsruːm/",
+        "meaning": "lớp học",
+        "sentenceEng": "The classroom has thirty desks.",
+        "sentenceMeaning": "Lớp học có ba mươi bàn."
+      },
+      {
+        "vocabulary": "teacher",
+        "transcription": "/ˈtiːtʃə(r)/",
+        "meaning": "giáo viên",
+        "sentenceEng": "The teacher explained it twice.",
+        "sentenceMeaning": "Giáo viên giải thích hai lần."
+      },
+      {
+        "vocabulary": "student",
+        "transcription": "/ˈstjuːdnt/",
+        "meaning": "học sinh, sinh viên",
+        "sentenceEng": "Each student presents once a term.",
+        "sentenceMeaning": "Mỗi sinh viên thuyết trình một lần mỗi kỳ."
+      },
+      {
+        "vocabulary": "principal",
+        "transcription": "/ˈprɪnsəpl/",
+        "meaning": "hiệu trưởng",
+        "sentenceEng": "The principal announced the schedule.",
+        "sentenceMeaning": "Hiệu trưởng công bố lịch học."
+      },
+      {
+        "vocabulary": "subject",
+        "transcription": "/ˈsʌbdʒɪkt/",
+        "meaning": "môn học",
+        "sentenceEng": "Which subject do you find hardest?",
+        "sentenceMeaning": "Bạn thấy môn nào khó nhất?"
+      },
+      {
+        "vocabulary": "maths",
+        "transcription": "/mæθs/",
+        "meaning": "toán",
+        "sentenceEng": "Maths was never my strong point.",
+        "sentenceMeaning": "Toán chưa bao giờ là thế mạnh của tôi."
+      },
+      {
+        "vocabulary": "science",
+        "transcription": "/ˈsaɪəns/",
+        "meaning": "khoa học",
+        "sentenceEng": "Science class includes lab work.",
+        "sentenceMeaning": "Lớp khoa học có phần thực hành."
+      },
+      {
+        "vocabulary": "history",
+        "transcription": "/ˈhɪstri/",
+        "meaning": "lịch sử",
+        "sentenceEng": "History lessons cover the whole century.",
+        "sentenceMeaning": "Các bài lịch sử bao quát cả thế kỷ."
+      },
+      {
+        "vocabulary": "literature",
+        "transcription": "/ˈlɪtrətʃə(r)/",
+        "meaning": "văn học",
+        "sentenceEng": "We read three novels in literature.",
+        "sentenceMeaning": "Chúng tôi đọc ba cuốn tiểu thuyết trong môn văn học."
+      },
+      {
+        "vocabulary": "homework",
+        "transcription": "/ˈhəʊmwɜːk/",
+        "meaning": "bài tập về nhà",
+        "sentenceEng": "The homework is due on Friday.",
+        "sentenceMeaning": "Bài tập về nhà phải nộp vào thứ Sáu."
+      },
+      {
+        "vocabulary": "exam",
+        "transcription": "/ɪɡˈzæm/",
+        "meaning": "kỳ thi",
+        "sentenceEng": "The exam lasts two hours.",
+        "sentenceMeaning": "Kỳ thi kéo dài hai tiếng."
+      },
+      {
+        "vocabulary": "test",
+        "transcription": "/test/",
+        "meaning": "bài kiểm tra",
+        "sentenceEng": "We have a short test every Monday.",
+        "sentenceMeaning": "Chúng tôi có bài kiểm tra ngắn mỗi thứ Hai."
+      },
+      {
+        "vocabulary": "score",
+        "transcription": "/skɔː(r)/",
+        "meaning": "điểm số",
+        "sentenceEng": "Her score improved a lot.",
+        "sentenceMeaning": "Điểm của cô ấy cải thiện nhiều."
+      },
+      {
+        "vocabulary": "grade",
+        "transcription": "/ɡreɪd/",
+        "meaning": "lớp; điểm",
+        "sentenceEng": "He moved up a grade this year.",
+        "sentenceMeaning": "Cậu ấy lên một lớp năm nay."
+      },
+      {
+        "vocabulary": "textbook",
+        "transcription": "/ˈtekstbʊk/",
+        "meaning": "sách giáo khoa",
+        "sentenceEng": "The textbook has a digital version.",
+        "sentenceMeaning": "Sách giáo khoa có bản điện tử."
+      },
+      {
+        "vocabulary": "notebook",
+        "transcription": "/ˈnəʊtbʊk/",
+        "meaning": "vở ghi",
+        "sentenceEng": "I lost my notebook on the bus.",
+        "sentenceMeaning": "Tôi làm mất vở ghi trên xe buýt."
+      },
+      {
+        "vocabulary": "pencil",
+        "transcription": "/ˈpensl/",
+        "meaning": "bút chì",
+        "sentenceEng": "Use a pencil for the diagram.",
+        "sentenceMeaning": "Dùng bút chì để vẽ sơ đồ."
+      },
+      {
+        "vocabulary": "pen",
+        "transcription": "/pen/",
+        "meaning": "bút mực",
+        "sentenceEng": "Sign the form in blue pen.",
+        "sentenceMeaning": "Ký vào mẫu đơn bằng bút mực xanh."
+      },
+      {
+        "vocabulary": "ruler",
+        "transcription": "/ˈruːlə(r)/",
+        "meaning": "thước kẻ",
+        "sentenceEng": "Measure the margin with a ruler.",
+        "sentenceMeaning": "Đo lề bằng thước kẻ."
+      },
+      {
+        "vocabulary": "eraser",
+        "transcription": "/ɪˈreɪzə(r)/",
+        "meaning": "cục tẩy",
+        "sentenceEng": "May I borrow your eraser?",
+        "sentenceMeaning": "Tôi mượn cục tẩy của bạn được không?"
+      },
+      {
+        "vocabulary": "blackboard",
+        "transcription": "/ˈblækbɔːd/",
+        "meaning": "bảng đen",
+        "sentenceEng": "The formula is still on the blackboard.",
+        "sentenceMeaning": "Công thức vẫn còn trên bảng đen."
+      },
+      {
+        "vocabulary": "desk",
+        "transcription": "/desk/",
+        "meaning": "bàn học",
+        "sentenceEng": "His desk is by the window.",
+        "sentenceMeaning": "Bàn của cậu ấy ở cạnh cửa sổ."
+      },
+      {
+        "vocabulary": "library",
+        "transcription": "/ˈlaɪbrəri/",
+        "meaning": "thư viện",
+        "sentenceEng": "The library stays open until ten.",
+        "sentenceMeaning": "Thư viện mở đến mười giờ."
+      },
+      {
+        "vocabulary": "lesson",
+        "transcription": "/ˈlesn/",
+        "meaning": "bài học",
+        "sentenceEng": "Today's lesson covers passive voice.",
+        "sentenceMeaning": "Bài học hôm nay về câu bị động."
+      },
+      {
+        "vocabulary": "break",
+        "transcription": "/breɪk/",
+        "meaning": "giờ giải lao",
+        "sentenceEng": "We chat during the morning break.",
+        "sentenceMeaning": "Chúng tôi trò chuyện trong giờ giải lao buổi sáng."
+      },
+      {
+        "vocabulary": "uniform",
+        "transcription": "/ˈjuːnɪfɔːm/",
+        "meaning": "đồng phục",
+        "sentenceEng": "The school uniform changed this year.",
+        "sentenceMeaning": "Đồng phục nhà trường thay đổi năm nay."
+      },
+      {
+        "vocabulary": "assignment",
+        "transcription": "/əˈsaɪnmənt/",
+        "meaning": "bài tập lớn",
+        "sentenceEng": "The assignment counts for thirty percent.",
+        "sentenceMeaning": "Bài tập lớn chiếm ba mươi phần trăm."
+      }
+    ]
+  },
+  {
+    "topic": "Bạn bè",
+    "vocabularies": [
+      {
+        "vocabulary": "friend",
+        "transcription": "/frend/",
+        "meaning": "bạn",
+        "sentenceEng": "A friend called me late last night.",
+        "sentenceMeaning": "Một người bạn gọi cho tôi khuya hôm qua."
+      },
+      {
+        "vocabulary": "best friend",
+        "transcription": "/best frend/",
+        "meaning": "bạn thân nhất",
+        "sentenceEng": "My best friend moved abroad in May.",
+        "sentenceMeaning": "Bạn thân nhất của tôi chuyển ra nước ngoài hồi tháng Năm."
+      },
+      {
+        "vocabulary": "buddy",
+        "transcription": "/ˈbʌdi/",
+        "meaning": "bạn thân (thân mật)",
+        "sentenceEng": "He met his old buddy at the airport.",
+        "sentenceMeaning": "Anh ấy gặp lại người bạn cũ ở sân bay."
+      },
+      {
+        "vocabulary": "mate",
+        "transcription": "/meɪt/",
+        "meaning": "bạn (Anh-Anh)",
+        "sentenceEng": "We were mates back in college.",
+        "sentenceMeaning": "Chúng tôi là bạn hồi đại học."
+      },
+      {
+        "vocabulary": "pal",
+        "transcription": "/pæl/",
+        "meaning": "bạn (thân mật)",
+        "sentenceEng": "He is an old pal from my hometown.",
+        "sentenceMeaning": "Anh ấy là bạn cũ ở quê tôi."
+      },
+      {
+        "vocabulary": "classmate",
+        "transcription": "/ˈklɑːsmeɪt/",
+        "meaning": "bạn cùng lớp",
+        "sentenceEng": "Two classmates joined the same company.",
+        "sentenceMeaning": "Hai bạn cùng lớp vào cùng một công ty."
+      },
+      {
+        "vocabulary": "roommate",
+        "transcription": "/ˈruːmeɪt/",
+        "meaning": "bạn cùng phòng",
+        "sentenceEng": "My roommate works the night shift.",
+        "sentenceMeaning": "Bạn cùng phòng tôi làm ca đêm."
+      },
+      {
+        "vocabulary": "teammate",
+        "transcription": "/ˈtiːmmeɪt/",
+        "meaning": "đồng đội",
+        "sentenceEng": "A good teammate shares credit.",
+        "sentenceMeaning": "Một đồng đội tốt biết chia sẻ công lao."
+      },
+      {
+        "vocabulary": "colleague",
+        "transcription": "/ˈkɒliːɡ/",
+        "meaning": "đồng nghiệp",
+        "sentenceEng": "A colleague reviewed my code.",
+        "sentenceMeaning": "Một đồng nghiệp đã review code của tôi."
+      },
+      {
+        "vocabulary": "acquaintance",
+        "transcription": "/əˈkweɪntəns/",
+        "meaning": "người quen",
+        "sentenceEng": "He is an acquaintance, not a close friend.",
+        "sentenceMeaning": "Anh ấy là người quen, không phải bạn thân."
+      },
+      {
+        "vocabulary": "companion",
+        "transcription": "/kəmˈpæniən/",
+        "meaning": "người bạn đồng hành",
+        "sentenceEng": "She was a cheerful companion on the road.",
+        "sentenceMeaning": "Cô ấy là người bạn đồng hành vui vẻ trên đường."
+      },
+      {
+        "vocabulary": "close friend",
+        "transcription": "/kləʊs frend/",
+        "meaning": "bạn thân",
+        "sentenceEng": "Only a close friend would say that.",
+        "sentenceMeaning": "Chỉ có bạn thân mới nói vậy."
+      },
+      {
+        "vocabulary": "loyal",
+        "transcription": "/ˈlɔɪəl/",
+        "meaning": "trung thành",
+        "sentenceEng": "He stayed loyal through the hard years.",
+        "sentenceMeaning": "Anh ấy vẫn trung thành qua những năm khó khăn."
+      },
+      {
+        "vocabulary": "trustworthy",
+        "transcription": "/ˈtrʌstwɜːði/",
+        "meaning": "đáng tin",
+        "sentenceEng": "Pick someone trustworthy to hold the keys.",
+        "sentenceMeaning": "Chọn người đáng tin để giữ chìa khóa."
+      },
+      {
+        "vocabulary": "supportive",
+        "transcription": "/səˈpɔːtɪv/",
+        "meaning": "hay ủng hộ",
+        "sentenceEng": "Her friends were supportive after the layoff.",
+        "sentenceMeaning": "Bạn bè cô ấy đã ủng hộ sau khi cô bị cho thôi việc."
+      },
+      {
+        "vocabulary": "reliable",
+        "transcription": "/rɪˈlaɪəbl/",
+        "meaning": "đáng tin cậy",
+        "sentenceEng": "He is reliable about showing up on time.",
+        "sentenceMeaning": "Anh ấy đáng tin cậy trong việc đến đúng giờ."
+      },
+      {
+        "vocabulary": "caring",
+        "transcription": "/ˈkeərɪŋ/",
+        "meaning": "biết quan tâm",
+        "sentenceEng": "She is caring without being intrusive.",
+        "sentenceMeaning": "Cô ấy quan tâm mà không xâm phạm riêng tư."
+      },
+      {
+        "vocabulary": "generous",
+        "transcription": "/ˈdʒenərəs/",
+        "meaning": "hào phóng",
+        "sentenceEng": "He was generous with his time.",
+        "sentenceMeaning": "Anh ấy hào phóng với thời gian của mình."
+      },
+      {
+        "vocabulary": "funny",
+        "transcription": "/ˈfʌni/",
+        "meaning": "hài hước",
+        "sentenceEng": "Her funny stories lightened the mood.",
+        "sentenceMeaning": "Những câu chuyện hài hước của cô ấy làm không khí nhẹ đi."
+      },
+      {
+        "vocabulary": "talkative",
+        "transcription": "/ˈtɔːkətɪv/",
+        "meaning": "hay nói",
+        "sentenceEng": "He is talkative once he relaxes.",
+        "sentenceMeaning": "Anh ấy hay nói khi đã thoải mái."
+      },
+      {
+        "vocabulary": "cheerful",
+        "transcription": "/ˈtʃɪəfl/",
+        "meaning": "vui vẻ",
+        "sentenceEng": "A cheerful greeting starts the day well.",
+        "sentenceMeaning": "Lời chào vui vẻ mở đầu ngày mới thật tốt."
+      },
+      {
+        "vocabulary": "helpful",
+        "transcription": "/ˈhelpfl/",
+        "meaning": "hay giúp đỡ",
+        "sentenceEng": "She was helpful when I moved house.",
+        "sentenceMeaning": "Cô ấy đã giúp đỡ khi tôi chuyển nhà."
+      },
+      {
+        "vocabulary": "outgoing",
+        "transcription": "/ˈaʊtɡəʊɪŋ/",
+        "meaning": "hướng ngoại",
+        "sentenceEng": "His outgoing nature makes networking easy.",
+        "sentenceMeaning": "Tính hướng ngoại giúp anh ấy dễ mở rộng quan hệ."
+      },
+      {
+        "vocabulary": "respectful",
+        "transcription": "/rɪˈspektfl/",
+        "meaning": "tôn trọng",
+        "sentenceEng": "They stayed respectful even when disagreeing.",
+        "sentenceMeaning": "Họ vẫn tôn trọng nhau ngay cả khi bất đồng."
+      },
+      {
+        "vocabulary": "get along",
+        "transcription": "/ɡet əˈlɒŋ/",
+        "meaning": "hòa hợp",
+        "sentenceEng": "The two of them get along well.",
+        "sentenceMeaning": "Hai người họ hòa hợp với nhau."
+      },
+      {
+        "vocabulary": "hang out",
+        "transcription": "/hæŋ aʊt/",
+        "meaning": "đi chơi cùng",
+        "sentenceEng": "We hang out at the same coffee shop.",
+        "sentenceMeaning": "Chúng tôi hay đi chơi ở cùng một quán cà phê."
+      },
+      {
+        "vocabulary": "catch up",
+        "transcription": "/kætʃ ʌp/",
+        "meaning": "hàn huyên",
+        "sentenceEng": "Let's catch up next weekend.",
+        "sentenceMeaning": "Cuối tuần tới mình hàn huyên nhé."
+      },
+      {
+        "vocabulary": "fall out",
+        "transcription": "/fɔːl aʊt/",
+        "meaning": "giận nhau",
+        "sentenceEng": "They fell out over a small thing.",
+        "sentenceMeaning": "Họ giận nhau vì một chuyện nhỏ."
+      }
+    ]
+  },
+  {
+    "topic": "Thời tiết",
+    "vocabularies": [
+      {
+        "vocabulary": "sunny",
+        "transcription": "/ˈsʌni/",
+        "meaning": "nắng",
+        "sentenceEng": "It should be sunny all weekend.",
+        "sentenceMeaning": "Cuối tuần này chắc sẽ nắng."
+      },
+      {
+        "vocabulary": "cloudy",
+        "transcription": "/ˈklaʊdi/",
+        "meaning": "nhiều mây",
+        "sentenceEng": "The sky stayed cloudy all afternoon.",
+        "sentenceMeaning": "Trời nhiều mây suốt buổi chiều."
+      },
+      {
+        "vocabulary": "rainy",
+        "transcription": "/ˈreɪni/",
+        "meaning": "mưa",
+        "sentenceEng": "Rainy days slow down the traffic.",
+        "sentenceMeaning": "Ngày mưa làm giao thông chậm lại."
+      },
+      {
+        "vocabulary": "windy",
+        "transcription": "/ˈwɪndi/",
+        "meaning": "gió lớn",
+        "sentenceEng": "It gets windy near the coast.",
+        "sentenceMeaning": "Trời nhiều gió khi gần bờ biển."
+      },
+      {
+        "vocabulary": "stormy",
+        "transcription": "/ˈstɔːmi/",
+        "meaning": "có bão",
+        "sentenceEng": "The sea turns stormy in October.",
+        "sentenceMeaning": "Biển động vào tháng Mười."
+      },
+      {
+        "vocabulary": "snowy",
+        "transcription": "/ˈsnəʊi/",
+        "meaning": "có tuyết",
+        "sentenceEng": "Snowy roads are dangerous.",
+        "sentenceMeaning": "Đường có tuyết rất nguy hiểm."
+      },
+      {
+        "vocabulary": "hot",
+        "transcription": "/hɒt/",
+        "meaning": "nóng",
+        "sentenceEng": "It is too hot to walk at noon.",
+        "sentenceMeaning": "Trời quá nóng để đi bộ lúc trưa."
+      },
+      {
+        "vocabulary": "cold",
+        "transcription": "/kəʊld/",
+        "meaning": "lạnh",
+        "sentenceEng": "The mornings are cold in December.",
+        "sentenceMeaning": "Buổi sáng tháng Mười Hai trời lạnh."
+      },
+      {
+        "vocabulary": "warm",
+        "transcription": "/wɔːm/",
+        "meaning": "ấm",
+        "sentenceEng": "The water stays warm until November.",
+        "sentenceMeaning": "Nước biển vẫn ấm đến tháng Mười Một."
+      },
+      {
+        "vocabulary": "cool",
+        "transcription": "/kuːl/",
+        "meaning": "mát",
+        "sentenceEng": "The evening turned cool after the rain.",
+        "sentenceMeaning": "Buổi tối trở nên mát sau cơn mưa."
+      },
+      {
+        "vocabulary": "foggy",
+        "transcription": "/ˈfɒɡi/",
+        "meaning": "có sương mù",
+        "sentenceEng": "The pass is foggy early in the morning.",
+        "sentenceMeaning": "Đèo có sương mù vào sáng sớm."
+      },
+      {
+        "vocabulary": "humid",
+        "transcription": "/ˈhjuːmɪd/",
+        "meaning": "ẩm",
+        "sentenceEng": "The air is humid before a storm.",
+        "sentenceMeaning": "Không khí ẩm trước cơn bão."
+      },
+      {
+        "vocabulary": "dry",
+        "transcription": "/draɪ/",
+        "meaning": "khô",
+        "sentenceEng": "The dry season runs from February.",
+        "sentenceMeaning": "Mùa khô bắt đầu từ tháng Hai."
+      },
+      {
+        "vocabulary": "thunder",
+        "transcription": "/ˈθʌndə(r)/",
+        "meaning": "sấm",
+        "sentenceEng": "Thunder woke the whole street.",
+        "sentenceMeaning": "Tiếng sấm đánh thức cả con phố."
+      },
+      {
+        "vocabulary": "lightning",
+        "transcription": "/ˈlaɪtnɪŋ/",
+        "meaning": "sét",
+        "sentenceEng": "Unplug your devices during lightning.",
+        "sentenceMeaning": "Rút phích cắm thiết bị khi có sét."
+      },
+      {
+        "vocabulary": "breeze",
+        "transcription": "/briːz/",
+        "meaning": "gió nhẹ",
+        "sentenceEng": "A sea breeze cooled the terrace.",
+        "sentenceMeaning": "Làn gió biển làm mát sân thượng."
+      },
+      {
+        "vocabulary": "hail",
+        "transcription": "/heɪl/",
+        "meaning": "mưa đá",
+        "sentenceEng": "Hail damaged several roofs.",
+        "sentenceMeaning": "Mưa đá làm hỏng vài mái nhà."
+      },
+      {
+        "vocabulary": "drizzle",
+        "transcription": "/ˈdrɪzl/",
+        "meaning": "mưa phùn",
+        "sentenceEng": "A fine drizzle fell all morning.",
+        "sentenceMeaning": "Mưa phùn rơi suốt buổi sáng."
+      },
+      {
+        "vocabulary": "shower",
+        "transcription": "/ˈʃaʊə(r)/",
+        "meaning": "mưa rào",
+        "sentenceEng": "A quick shower cleared the dust.",
+        "sentenceMeaning": "Cơn mưa rào nhanh làm sạch bụi."
+      },
+      {
+        "vocabulary": "temperature",
+        "transcription": "/ˈtemprətʃə(r)/",
+        "meaning": "nhiệt độ",
+        "sentenceEng": "The temperature drops at night.",
+        "sentenceMeaning": "Nhiệt độ giảm vào ban đêm."
+      },
+      {
+        "vocabulary": "degree",
+        "transcription": "/dɪˈɡriː/",
+        "meaning": "độ",
+        "sentenceEng": "It reached thirty-six degrees today.",
+        "sentenceMeaning": "Hôm nay lên tới ba mươi sáu độ."
+      },
+      {
+        "vocabulary": "forecast",
+        "transcription": "/ˈfɔːkɑːst/",
+        "meaning": "dự báo",
+        "sentenceEng": "The forecast mentions heavy rain.",
+        "sentenceMeaning": "Dự báo có mưa lớn."
+      },
+      {
+        "vocabulary": "climate",
+        "transcription": "/ˈklaɪmət/",
+        "meaning": "khí hậu",
+        "sentenceEng": "This region has a tropical climate.",
+        "sentenceMeaning": "Vùng này có khí hậu nhiệt đới."
+      },
+      {
+        "vocabulary": "heatwave",
+        "transcription": "/ˈhiːtweɪv/",
+        "meaning": "đợt nắng nóng",
+        "sentenceEng": "The heatwave lasted five days.",
+        "sentenceMeaning": "Đợt nắng nóng kéo dài năm ngày."
+      },
+      {
+        "vocabulary": "typhoon",
+        "transcription": "/taɪˈfuːn/",
+        "meaning": "bão nhiệt đới",
+        "sentenceEng": "The typhoon changed direction overnight.",
+        "sentenceMeaning": "Cơn bão đổi hướng qua đêm."
+      },
+      {
+        "vocabulary": "frost",
+        "transcription": "/frɒst/",
+        "meaning": "sương giá",
+        "sentenceEng": "Frost covered the fields at dawn.",
+        "sentenceMeaning": "Sương giá phủ đồng ruộng lúc rạng đông."
+      },
+      {
+        "vocabulary": "flood",
+        "transcription": "/flʌd/",
+        "meaning": "lũ lụt",
+        "sentenceEng": "The flood closed two main roads.",
+        "sentenceMeaning": "Lũ lụt làm đóng hai tuyến đường chính."
+      },
+      {
+        "vocabulary": "rainbow",
+        "transcription": "/ˈreɪnbəʊ/",
+        "meaning": "cầu vồng",
+        "sentenceEng": "A rainbow appeared over the bay.",
+        "sentenceMeaning": "Một cầu vồng hiện ra trên vịnh."
+      }
+    ]
+  },
+  {
+    "topic": "Môi trường",
+    "vocabularies": [
+      {
+        "vocabulary": "environment",
+        "transcription": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "sentenceEng": "Small habits affect the environment.",
+        "sentenceMeaning": "Những thói quen nhỏ ảnh hưởng đến môi trường."
+      },
+      {
+        "vocabulary": "pollution",
+        "transcription": "/pəˈluːʃn/",
+        "meaning": "ô nhiễm",
+        "sentenceEng": "Pollution levels rise during rush hour.",
+        "sentenceMeaning": "Mức ô nhiễm tăng vào giờ cao điểm."
+      },
+      {
+        "vocabulary": "deforestation",
+        "transcription": "/ˌdiːfɒrɪˈsteɪʃn/",
+        "meaning": "phá rừng",
+        "sentenceEng": "Deforestation reduces rainfall in the region.",
+        "sentenceMeaning": "Phá rừng làm giảm lượng mưa trong vùng."
+      },
+      {
+        "vocabulary": "climate change",
+        "transcription": "/ˈklaɪmət tʃeɪndʒ/",
+        "meaning": "biến đổi khí hậu",
+        "sentenceEng": "Climate change affects farming schedules.",
+        "sentenceMeaning": "Biến đổi khí hậu ảnh hưởng đến lịch canh tác."
+      },
+      {
+        "vocabulary": "global warming",
+        "transcription": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+        "meaning": "nóng lên toàn cầu",
+        "sentenceEng": "Global warming raises sea levels.",
+        "sentenceMeaning": "Sự nóng lên toàn cầu làm mực nước biển dâng."
+      },
+      {
+        "vocabulary": "greenhouse effect",
+        "transcription": "/ˈɡriːnhaʊs ɪfekt/",
+        "meaning": "hiệu ứng nhà kính",
+        "sentenceEng": "The greenhouse effect traps heat.",
+        "sentenceMeaning": "Hiệu ứng nhà kính giữ nhiệt lại."
+      },
+      {
+        "vocabulary": "renewable energy",
+        "transcription": "/rɪˈnjuːəbl ˈenədʒi/",
+        "meaning": "năng lượng tái tạo",
+        "sentenceEng": "Renewable energy is getting cheaper.",
+        "sentenceMeaning": "Năng lượng tái tạo đang rẻ dần."
+      },
+      {
+        "vocabulary": "solar power",
+        "transcription": "/ˈsəʊlə paʊə(r)/",
+        "meaning": "điện mặt trời",
+        "sentenceEng": "Solar power suits sunny regions.",
+        "sentenceMeaning": "Điện mặt trời hợp với vùng nhiều nắng."
+      },
+      {
+        "vocabulary": "wind energy",
+        "transcription": "/wɪnd ˈenədʒi/",
+        "meaning": "năng lượng gió",
+        "sentenceEng": "Wind energy powers the coastal towns.",
+        "sentenceMeaning": "Năng lượng gió cấp điện cho các thị trấn ven biển."
+      },
+      {
+        "vocabulary": "fossil fuels",
+        "transcription": "/ˈfɒsl fjuːəlz/",
+        "meaning": "nhiên liệu hóa thạch",
+        "sentenceEng": "Fossil fuels still dominate the grid.",
+        "sentenceMeaning": "Nhiên liệu hóa thạch vẫn chiếm ưu thế trong lưới điện."
+      },
+      {
+        "vocabulary": "emissions",
+        "transcription": "/ɪˈmɪʃnz/",
+        "meaning": "khí thải",
+        "sentenceEng": "The factory cut its emissions by half.",
+        "sentenceMeaning": "Nhà máy cắt giảm một nửa khí thải."
+      },
+      {
+        "vocabulary": "carbon footprint",
+        "transcription": "/ˈkɑːbən ˈfʊtprɪnt/",
+        "meaning": "dấu chân carbon",
+        "sentenceEng": "Working from home lowers my carbon footprint.",
+        "sentenceMeaning": "Làm việc tại nhà giảm dấu chân carbon của tôi."
+      },
+      {
+        "vocabulary": "sustainability",
+        "transcription": "/səˌsteɪnəˈbɪləti/",
+        "meaning": "tính bền vững",
+        "sentenceEng": "Sustainability is now part of the plan.",
+        "sentenceMeaning": "Tính bền vững giờ là một phần của kế hoạch."
+      },
+      {
+        "vocabulary": "recycle",
+        "transcription": "/ˌriːˈsaɪkl/",
+        "meaning": "tái chế",
+        "sentenceEng": "We recycle paper and glass separately.",
+        "sentenceMeaning": "Chúng tôi tái chế giấy và thủy tinh riêng."
+      },
+      {
+        "vocabulary": "reusable",
+        "transcription": "/ˌriːˈjuːzəbl/",
+        "meaning": "tái sử dụng được",
+        "sentenceEng": "Bring a reusable bottle to the office.",
+        "sentenceMeaning": "Mang bình tái sử dụng đến văn phòng."
+      },
+      {
+        "vocabulary": "biodegradable",
+        "transcription": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+        "meaning": "phân hủy sinh học",
+        "sentenceEng": "Biodegradable packaging costs a little more.",
+        "sentenceMeaning": "Bao bì phân hủy sinh học đắt hơn chút ít."
+      },
+      {
+        "vocabulary": "waste",
+        "transcription": "/weɪst/",
+        "meaning": "rác thải",
+        "sentenceEng": "Food waste is a big problem in cities.",
+        "sentenceMeaning": "Rác thải thực phẩm là vấn đề lớn ở đô thị."
+      },
+      {
+        "vocabulary": "landfill",
+        "transcription": "/ˈlændfɪl/",
+        "meaning": "bãi chôn lấp",
+        "sentenceEng": "The landfill is nearly full.",
+        "sentenceMeaning": "Bãi chôn lấp sắp đầy."
+      },
+      {
+        "vocabulary": "ecosystem",
+        "transcription": "/ˈiːkəʊsɪstəm/",
+        "meaning": "hệ sinh thái",
+        "sentenceEng": "A single species can shift an ecosystem.",
+        "sentenceMeaning": "Một loài đơn lẻ có thể làm thay đổi hệ sinh thái."
+      },
+      {
+        "vocabulary": "biodiversity",
+        "transcription": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+        "meaning": "đa dạng sinh học",
+        "sentenceEng": "The reserve protects local biodiversity.",
+        "sentenceMeaning": "Khu bảo tồn bảo vệ đa dạng sinh học địa phương."
+      },
+      {
+        "vocabulary": "conservation",
+        "transcription": "/ˌkɒnsəˈveɪʃn/",
+        "meaning": "bảo tồn",
+        "sentenceEng": "Conservation work needs steady funding.",
+        "sentenceMeaning": "Công tác bảo tồn cần nguồn tài trợ ổn định."
+      },
+      {
+        "vocabulary": "habitat",
+        "transcription": "/ˈhæbɪtæt/",
+        "meaning": "môi trường sống",
+        "sentenceEng": "Construction destroyed the birds' habitat.",
+        "sentenceMeaning": "Việc xây dựng phá hủy môi trường sống của loài chim."
+      },
+      {
+        "vocabulary": "natural resources",
+        "transcription": "/ˈnætʃrəl rɪˈsɔːsɪz/",
+        "meaning": "tài nguyên thiên nhiên",
+        "sentenceEng": "Natural resources are not unlimited.",
+        "sentenceMeaning": "Tài nguyên thiên nhiên không phải là vô hạn."
+      },
+      {
+        "vocabulary": "organic",
+        "transcription": "/ɔːˈɡænɪk/",
+        "meaning": "hữu cơ",
+        "sentenceEng": "Organic vegetables cost more at the market.",
+        "sentenceMeaning": "Rau hữu cơ đắt hơn ở chợ."
+      },
+      {
+        "vocabulary": "contaminate",
+        "transcription": "/kənˈtæmɪneɪt/",
+        "meaning": "làm nhiễm bẩn",
+        "sentenceEng": "Runoff can contaminate the river.",
+        "sentenceMeaning": "Nước chảy tràn có thể làm nhiễm bẩn dòng sông."
+      },
+      {
+        "vocabulary": "drought",
+        "transcription": "/draʊt/",
+        "meaning": "hạn hán",
+        "sentenceEng": "The drought hurt the rice harvest.",
+        "sentenceMeaning": "Hạn hán ảnh hưởng đến vụ lúa."
+      },
+      {
+        "vocabulary": "extinct",
+        "transcription": "/ɪkˈstɪŋkt/",
+        "meaning": "tuyệt chủng",
+        "sentenceEng": "That species went extinct decades ago.",
+        "sentenceMeaning": "Loài đó đã tuyệt chủng từ nhiều thập kỷ trước."
+      },
+      {
+        "vocabulary": "plastic waste",
+        "transcription": "/ˈplæstɪk weɪst/",
+        "meaning": "rác nhựa",
+        "sentenceEng": "Plastic waste ends up in the ocean.",
+        "sentenceMeaning": "Rác nhựa trôi ra đại dương."
+      }
+    ]
+  },
+  {
+    "topic": "Con vật nuôi",
+    "vocabularies": [
+      {
+        "vocabulary": "dog",
+        "transcription": "/dɒɡ/",
+        "meaning": "con chó",
+        "sentenceEng": "The dog waits by the gate every evening.",
+        "sentenceMeaning": "Con chó chờ ở cổng mỗi tối."
+      },
+      {
+        "vocabulary": "cat",
+        "transcription": "/kæt/",
+        "meaning": "con mèo",
+        "sentenceEng": "The cat sleeps on the keyboard.",
+        "sentenceMeaning": "Con mèo ngủ trên bàn phím."
+      },
+      {
+        "vocabulary": "puppy",
+        "transcription": "/ˈpʌpi/",
+        "meaning": "chó con",
+        "sentenceEng": "The puppy chewed my shoe.",
+        "sentenceMeaning": "Con chó con gặm mất chiếc giày của tôi."
+      },
+      {
+        "vocabulary": "kitten",
+        "transcription": "/ˈkɪtn/",
+        "meaning": "mèo con",
+        "sentenceEng": "The kitten is only six weeks old.",
+        "sentenceMeaning": "Con mèo con mới sáu tuần tuổi."
+      },
+      {
+        "vocabulary": "hamster",
+        "transcription": "/ˈhæmstə(r)/",
+        "meaning": "chuột hamster",
+        "sentenceEng": "The hamster runs on its wheel at night.",
+        "sentenceMeaning": "Con hamster chạy trên bánh xe vào ban đêm."
+      },
+      {
+        "vocabulary": "rabbit",
+        "transcription": "/ˈræbɪt/",
+        "meaning": "con thỏ",
+        "sentenceEng": "The rabbit needs fresh hay daily.",
+        "sentenceMeaning": "Con thỏ cần cỏ khô tươi mỗi ngày."
+      },
+      {
+        "vocabulary": "parrot",
+        "transcription": "/ˈpærət/",
+        "meaning": "con vẹt",
+        "sentenceEng": "The parrot copies the doorbell.",
+        "sentenceMeaning": "Con vẹt bắt chước tiếng chuông cửa."
+      },
+      {
+        "vocabulary": "goldfish",
+        "transcription": "/ˈɡəʊldfɪʃ/",
+        "meaning": "cá vàng",
+        "sentenceEng": "The goldfish tank needs cleaning.",
+        "sentenceMeaning": "Bể cá vàng cần được vệ sinh."
+      },
+      {
+        "vocabulary": "turtle",
+        "transcription": "/ˈtɜːtl/",
+        "meaning": "con rùa",
+        "sentenceEng": "The turtle hides when strangers come.",
+        "sentenceMeaning": "Con rùa trốn khi có người lạ."
+      },
+      {
+        "vocabulary": "guinea pig",
+        "transcription": "/ˈɡɪni pɪɡ/",
+        "meaning": "chuột lang",
+        "sentenceEng": "A guinea pig squeaks when it is hungry.",
+        "sentenceMeaning": "Chuột lang kêu chít chít khi đói."
+      },
+      {
+        "vocabulary": "lizard",
+        "transcription": "/ˈlɪzəd/",
+        "meaning": "thằn lằn",
+        "sentenceEng": "The lizard needs a warm lamp.",
+        "sentenceMeaning": "Con thằn lằn cần đèn sưởi."
+      },
+      {
+        "vocabulary": "snake",
+        "transcription": "/sneɪk/",
+        "meaning": "con rắn",
+        "sentenceEng": "Keeping a snake requires a permit here.",
+        "sentenceMeaning": "Nuôi rắn ở đây cần giấy phép."
+      },
+      {
+        "vocabulary": "canary",
+        "transcription": "/kəˈneəri/",
+        "meaning": "chim hoàng yến",
+        "sentenceEng": "The canary sings at sunrise.",
+        "sentenceMeaning": "Chim hoàng yến hót lúc bình minh."
+      },
+      {
+        "vocabulary": "duck",
+        "transcription": "/dʌk/",
+        "meaning": "con vịt",
+        "sentenceEng": "The ducks swim in the pond behind the house.",
+        "sentenceMeaning": "Đàn vịt bơi trong ao sau nhà."
+      },
+      {
+        "vocabulary": "chicken",
+        "transcription": "/ˈtʃɪkɪn/",
+        "meaning": "con gà",
+        "sentenceEng": "They keep chickens for eggs.",
+        "sentenceMeaning": "Họ nuôi gà để lấy trứng."
+      },
+      {
+        "vocabulary": "rooster",
+        "transcription": "/ˈruːstə(r)/",
+        "meaning": "gà trống",
+        "sentenceEng": "The rooster wakes the village.",
+        "sentenceMeaning": "Con gà trống đánh thức cả làng."
+      },
+      {
+        "vocabulary": "goat",
+        "transcription": "/ɡəʊt/",
+        "meaning": "con dê",
+        "sentenceEng": "The goat eats almost anything.",
+        "sentenceMeaning": "Con dê ăn gần như mọi thứ."
+      },
+      {
+        "vocabulary": "pig",
+        "transcription": "/pɪɡ/",
+        "meaning": "con lợn",
+        "sentenceEng": "Pigs are cleaner than people think.",
+        "sentenceMeaning": "Lợn sạch hơn người ta vẫn nghĩ."
+      },
+      {
+        "vocabulary": "horse",
+        "transcription": "/hɔːs/",
+        "meaning": "con ngựa",
+        "sentenceEng": "The horse is kept in a small stable.",
+        "sentenceMeaning": "Con ngựa được nuôi trong chuồng nhỏ."
+      },
+      {
+        "vocabulary": "cow",
+        "transcription": "/kaʊ/",
+        "meaning": "con bò",
+        "sentenceEng": "The cow gives milk twice a day.",
+        "sentenceMeaning": "Con bò cho sữa hai lần một ngày."
+      },
+      {
+        "vocabulary": "buffalo",
+        "transcription": "/ˈbʌfələʊ/",
+        "meaning": "con trâu",
+        "sentenceEng": "The buffalo rests in the mud.",
+        "sentenceMeaning": "Con trâu nghỉ trong bùn."
+      },
+      {
+        "vocabulary": "sheep",
+        "transcription": "/ʃiːp/",
+        "meaning": "con cừu",
+        "sentenceEng": "The sheep graze on the hillside.",
+        "sentenceMeaning": "Đàn cừu gặm cỏ trên sườn đồi."
+      },
+      {
+        "vocabulary": "pet",
+        "transcription": "/pet/",
+        "meaning": "thú cưng",
+        "sentenceEng": "A pet is a long commitment.",
+        "sentenceMeaning": "Thú cưng là một cam kết lâu dài."
+      },
+      {
+        "vocabulary": "cage",
+        "transcription": "/keɪdʒ/",
+        "meaning": "lồng",
+        "sentenceEng": "Clean the cage twice a week.",
+        "sentenceMeaning": "Vệ sinh lồng hai lần một tuần."
+      },
+      {
+        "vocabulary": "leash",
+        "transcription": "/liːʃ/",
+        "meaning": "dây dắt",
+        "sentenceEng": "Keep the dog on a leash in the park.",
+        "sentenceMeaning": "Giữ chó bằng dây dắt trong công viên."
+      },
+      {
+        "vocabulary": "vet",
+        "transcription": "/vet/",
+        "meaning": "bác sĩ thú y",
+        "sentenceEng": "The vet gave the cat a vaccination.",
+        "sentenceMeaning": "Bác sĩ thú y tiêm phòng cho con mèo."
+      },
+      {
+        "vocabulary": "feed",
+        "transcription": "/fiːd/",
+        "meaning": "cho ăn",
+        "sentenceEng": "I feed the fish once a day.",
+        "sentenceMeaning": "Tôi cho cá ăn một lần mỗi ngày."
+      },
+      {
+        "vocabulary": "adopt",
+        "transcription": "/əˈdɒpt/",
+        "meaning": "nhận nuôi",
+        "sentenceEng": "They adopted a dog from the shelter.",
+        "sentenceMeaning": "Họ nhận nuôi một con chó từ trại cứu hộ."
+      }
+    ]
+  },
+  {
+    "topic": "Món ăn và thực phẩm",
+    "vocabularies": [
+      {
+        "vocabulary": "bread",
+        "transcription": "/bred/",
+        "meaning": "bánh mì",
+        "sentenceEng": "The bread is still warm.",
+        "sentenceMeaning": "Bánh mì vẫn còn ấm."
+      },
+      {
+        "vocabulary": "rice",
+        "transcription": "/raɪs/",
+        "meaning": "cơm, gạo",
+        "sentenceEng": "We cook rice every evening.",
+        "sentenceMeaning": "Chúng tôi nấu cơm mỗi tối."
+      },
+      {
+        "vocabulary": "noodles",
+        "transcription": "/ˈnuːdlz/",
+        "meaning": "mì, bún",
+        "sentenceEng": "Noodles are the fastest lunch.",
+        "sentenceMeaning": "Mì là bữa trưa nhanh nhất."
+      },
+      {
+        "vocabulary": "meat",
+        "transcription": "/miːt/",
+        "meaning": "thịt",
+        "sentenceEng": "He cut down on red meat.",
+        "sentenceMeaning": "Anh ấy giảm ăn thịt đỏ."
+      },
+      {
+        "vocabulary": "fish",
+        "transcription": "/fɪʃ/",
+        "meaning": "cá",
+        "sentenceEng": "Fresh fish arrives at dawn.",
+        "sentenceMeaning": "Cá tươi về lúc rạng sáng."
+      },
+      {
+        "vocabulary": "pork",
+        "transcription": "/pɔːk/",
+        "meaning": "thịt lợn",
+        "sentenceEng": "Pork is the most common meat here.",
+        "sentenceMeaning": "Thịt lợn là loại thịt phổ biến nhất ở đây."
+      },
+      {
+        "vocabulary": "beef",
+        "transcription": "/biːf/",
+        "meaning": "thịt bò",
+        "sentenceEng": "The beef needs to marinate overnight.",
+        "sentenceMeaning": "Thịt bò cần ướp qua đêm."
+      },
+      {
+        "vocabulary": "egg",
+        "transcription": "/eɡ/",
+        "meaning": "trứng",
+        "sentenceEng": "Two eggs make a quick breakfast.",
+        "sentenceMeaning": "Hai quả trứng là bữa sáng nhanh gọn."
+      },
+      {
+        "vocabulary": "milk",
+        "transcription": "/mɪlk/",
+        "meaning": "sữa",
+        "sentenceEng": "Keep the milk in the fridge door.",
+        "sentenceMeaning": "Để sữa ở cánh cửa tủ lạnh."
+      },
+      {
+        "vocabulary": "cheese",
+        "transcription": "/tʃiːz/",
+        "meaning": "phô mai",
+        "sentenceEng": "Cheese melts better when grated.",
+        "sentenceMeaning": "Phô mai chảy dễ hơn khi bào nhỏ."
+      },
+      {
+        "vocabulary": "butter",
+        "transcription": "/ˈbʌtə(r)/",
+        "meaning": "bơ",
+        "sentenceEng": "Spread a thin layer of butter.",
+        "sentenceMeaning": "Phết một lớp bơ mỏng."
+      },
+      {
+        "vocabulary": "salad",
+        "transcription": "/ˈsæləd/",
+        "meaning": "salad",
+        "sentenceEng": "A salad balances a heavy meal.",
+        "sentenceMeaning": "Món salad cân bằng bữa ăn nhiều dầu mỡ."
+      },
+      {
+        "vocabulary": "soup",
+        "transcription": "/suːp/",
+        "meaning": "súp, canh",
+        "sentenceEng": "The soup thickens as it cools.",
+        "sentenceMeaning": "Súp đặc lại khi nguội."
+      },
+      {
+        "vocabulary": "pizza",
+        "transcription": "/ˈpiːtsə/",
+        "meaning": "bánh pizza",
+        "sentenceEng": "The pizza arrived cold.",
+        "sentenceMeaning": "Bánh pizza đến nơi thì nguội rồi."
+      },
+      {
+        "vocabulary": "sausage",
+        "transcription": "/ˈsɒsɪdʒ/",
+        "meaning": "xúc xích",
+        "sentenceEng": "Grill the sausage on low heat.",
+        "sentenceMeaning": "Nướng xúc xích ở lửa nhỏ."
+      },
+      {
+        "vocabulary": "apple",
+        "transcription": "/ˈæpl/",
+        "meaning": "táo",
+        "sentenceEng": "An apple keeps well in the bag.",
+        "sentenceMeaning": "Quả táo để trong túi lâu hỏng."
+      },
+      {
+        "vocabulary": "banana",
+        "transcription": "/bəˈnɑːnə/",
+        "meaning": "chuối",
+        "sentenceEng": "Bananas ripen quickly in this heat.",
+        "sentenceMeaning": "Chuối chín nhanh trong cái nóng này."
+      },
+      {
+        "vocabulary": "orange",
+        "transcription": "/ˈɒrɪndʒ/",
+        "meaning": "cam",
+        "sentenceEng": "This orange is sweeter than expected.",
+        "sentenceMeaning": "Quả cam này ngọt hơn dự đoán."
+      },
+      {
+        "vocabulary": "watermelon",
+        "transcription": "/ˈwɔːtəmelən/",
+        "meaning": "dưa hấu",
+        "sentenceEng": "Watermelon is best served cold.",
+        "sentenceMeaning": "Dưa hấu ngon nhất khi ăn lạnh."
+      },
+      {
+        "vocabulary": "mango",
+        "transcription": "/ˈmæŋɡəʊ/",
+        "meaning": "xoài",
+        "sentenceEng": "Green mango is eaten with salt here.",
+        "sentenceMeaning": "Xoài xanh ở đây được ăn với muối."
+      },
+      {
+        "vocabulary": "grapes",
+        "transcription": "/ɡreɪps/",
+        "meaning": "nho",
+        "sentenceEng": "Wash the grapes before serving.",
+        "sentenceMeaning": "Rửa nho trước khi dọn ra."
+      },
+      {
+        "vocabulary": "carrot",
+        "transcription": "/ˈkærət/",
+        "meaning": "cà rốt",
+        "sentenceEng": "Slice the carrot thinly.",
+        "sentenceMeaning": "Thái cà rốt thật mỏng."
+      },
+      {
+        "vocabulary": "potato",
+        "transcription": "/pəˈteɪtəʊ/",
+        "meaning": "khoai tây",
+        "sentenceEng": "Boil the potatoes for fifteen minutes.",
+        "sentenceMeaning": "Luộc khoai tây trong mười lăm phút."
+      },
+      {
+        "vocabulary": "onion",
+        "transcription": "/ˈʌnjən/",
+        "meaning": "hành tây",
+        "sentenceEng": "Fry the onion until golden.",
+        "sentenceMeaning": "Phi hành tây đến khi vàng."
+      },
+      {
+        "vocabulary": "tomato",
+        "transcription": "/təˈmɑːtəʊ/",
+        "meaning": "cà chua",
+        "sentenceEng": "The tomato sauce needs more salt.",
+        "sentenceMeaning": "Sốt cà chua cần thêm muối."
+      },
+      {
+        "vocabulary": "ice cream",
+        "transcription": "/ˈaɪs kriːm/",
+        "meaning": "kem",
+        "sentenceEng": "The ice cream melted on the way home.",
+        "sentenceMeaning": "Kem chảy trên đường về nhà."
+      },
+      {
+        "vocabulary": "chocolate",
+        "transcription": "/ˈtʃɒklət/",
+        "meaning": "sô cô la",
+        "sentenceEng": "Dark chocolate is less sweet.",
+        "sentenceMeaning": "Sô cô la đen ít ngọt hơn."
+      },
+      {
+        "vocabulary": "cake",
+        "transcription": "/keɪk/",
+        "meaning": "bánh ngọt",
+        "sentenceEng": "She baked a cake for the office.",
+        "sentenceMeaning": "Cô ấy làm bánh cho văn phòng."
+      }
+    ]
+  },
+  {
+    "topic": "Thức uống",
+    "vocabularies": [
+      {
+        "vocabulary": "water",
+        "transcription": "/ˈwɔːtə(r)/",
+        "meaning": "nước",
+        "sentenceEng": "Drink water before you feel thirsty.",
+        "sentenceMeaning": "Hãy uống nước trước khi thấy khát."
+      },
+      {
+        "vocabulary": "mineral water",
+        "transcription": "/ˈmɪnərəl ˈwɔːtə(r)/",
+        "meaning": "nước khoáng",
+        "sentenceEng": "A bottle of mineral water, please.",
+        "sentenceMeaning": "Cho tôi một chai nước khoáng."
+      },
+      {
+        "vocabulary": "juice",
+        "transcription": "/dʒuːs/",
+        "meaning": "nước ép",
+        "sentenceEng": "Fresh juice has no added sugar.",
+        "sentenceMeaning": "Nước ép tươi không có đường thêm vào."
+      },
+      {
+        "vocabulary": "orange juice",
+        "transcription": "/ˈɒrɪndʒ dʒuːs/",
+        "meaning": "nước cam",
+        "sentenceEng": "Orange juice is served with breakfast.",
+        "sentenceMeaning": "Nước cam được phục vụ cùng bữa sáng."
+      },
+      {
+        "vocabulary": "coconut water",
+        "transcription": "/ˈkəʊkənʌt ˈwɔːtə(r)/",
+        "meaning": "nước dừa",
+        "sentenceEng": "Coconut water is cheap along the coast.",
+        "sentenceMeaning": "Nước dừa rẻ dọc bờ biển."
+      },
+      {
+        "vocabulary": "milk",
+        "transcription": "/mɪlk/",
+        "meaning": "sữa",
+        "sentenceEng": "Warm milk helps some people sleep.",
+        "sentenceMeaning": "Sữa ấm giúp một số người dễ ngủ."
+      },
+      {
+        "vocabulary": "soy milk",
+        "transcription": "/sɔɪ mɪlk/",
+        "meaning": "sữa đậu nành",
+        "sentenceEng": "Soy milk is sold on most street corners.",
+        "sentenceMeaning": "Sữa đậu nành bán ở hầu hết các góc phố."
+      },
+      {
+        "vocabulary": "coffee",
+        "transcription": "/ˈkɒfi/",
+        "meaning": "cà phê",
+        "sentenceEng": "Vietnamese coffee is strong and slow to brew.",
+        "sentenceMeaning": "Cà phê Việt Nam đậm và pha chậm."
+      },
+      {
+        "vocabulary": "iced coffee",
+        "transcription": "/aɪst ˈkɒfi/",
+        "meaning": "cà phê đá",
+        "sentenceEng": "Iced coffee is the default order here.",
+        "sentenceMeaning": "Cà phê đá là món gọi mặc định ở đây."
+      },
+      {
+        "vocabulary": "tea",
+        "transcription": "/tiː/",
+        "meaning": "trà",
+        "sentenceEng": "Tea is offered to every guest.",
+        "sentenceMeaning": "Trà được mời cho mọi vị khách."
+      },
+      {
+        "vocabulary": "green tea",
+        "transcription": "/ɡriːn tiː/",
+        "meaning": "trà xanh",
+        "sentenceEng": "Green tea is served free at many shops.",
+        "sentenceMeaning": "Trà xanh được phục vụ miễn phí ở nhiều quán."
+      },
+      {
+        "vocabulary": "black tea",
+        "transcription": "/blæk tiː/",
+        "meaning": "trà đen",
+        "sentenceEng": "Black tea is stronger than green tea.",
+        "sentenceMeaning": "Trà đen đậm hơn trà xanh."
+      },
+      {
+        "vocabulary": "herbal tea",
+        "transcription": "/ˈhɜːbl tiː/",
+        "meaning": "trà thảo mộc",
+        "sentenceEng": "Herbal tea contains no caffeine.",
+        "sentenceMeaning": "Trà thảo mộc không chứa caffeine."
+      },
+      {
+        "vocabulary": "bubble tea",
+        "transcription": "/ˈbʌbl tiː/",
+        "meaning": "trà sữa trân châu",
+        "sentenceEng": "Bubble tea shops are everywhere now.",
+        "sentenceMeaning": "Quán trà sữa giờ ở khắp nơi."
+      },
+      {
+        "vocabulary": "smoothie",
+        "transcription": "/ˈsmuːði/",
+        "meaning": "sinh tố",
+        "sentenceEng": "A mango smoothie costs very little.",
+        "sentenceMeaning": "Một ly sinh tố xoài giá rất rẻ."
+      },
+      {
+        "vocabulary": "milkshake",
+        "transcription": "/ˈmɪlkʃeɪk/",
+        "meaning": "sữa lắc",
+        "sentenceEng": "The milkshake was too thick to drink.",
+        "sentenceMeaning": "Ly sữa lắc quá đặc để uống."
+      },
+      {
+        "vocabulary": "soft drink",
+        "transcription": "/sɒft drɪŋk/",
+        "meaning": "nước ngọt",
+        "sentenceEng": "Soft drinks are full of sugar.",
+        "sentenceMeaning": "Nước ngọt chứa rất nhiều đường."
+      },
+      {
+        "vocabulary": "soda",
+        "transcription": "/ˈsəʊdə/",
+        "meaning": "nước có ga",
+        "sentenceEng": "Soda loses its fizz quickly.",
+        "sentenceMeaning": "Nước có ga nhanh bay hơi."
+      },
+      {
+        "vocabulary": "lemonade",
+        "transcription": "/ˌleməˈneɪd/",
+        "meaning": "nước chanh",
+        "sentenceEng": "Homemade lemonade tastes cleaner.",
+        "sentenceMeaning": "Nước chanh tự pha có vị thanh hơn."
+      },
+      {
+        "vocabulary": "energy drink",
+        "transcription": "/ˈenədʒi drɪŋk/",
+        "meaning": "nước tăng lực",
+        "sentenceEng": "Avoid energy drinks late at night.",
+        "sentenceMeaning": "Tránh nước tăng lực vào đêm khuya."
+      },
+      {
+        "vocabulary": "beer",
+        "transcription": "/bɪə(r)/",
+        "meaning": "bia",
+        "sentenceEng": "Local beer is cheaper than imported.",
+        "sentenceMeaning": "Bia nội rẻ hơn bia nhập."
+      },
+      {
+        "vocabulary": "wine",
+        "transcription": "/waɪn/",
+        "meaning": "rượu vang",
+        "sentenceEng": "The wine should breathe for a while.",
+        "sentenceMeaning": "Rượu vang nên để thoáng một lát."
+      },
+      {
+        "vocabulary": "red wine",
+        "transcription": "/red waɪn/",
+        "meaning": "vang đỏ",
+        "sentenceEng": "Red wine goes well with beef.",
+        "sentenceMeaning": "Vang đỏ hợp với thịt bò."
+      },
+      {
+        "vocabulary": "white wine",
+        "transcription": "/waɪt waɪn/",
+        "meaning": "vang trắng",
+        "sentenceEng": "White wine is served chilled.",
+        "sentenceMeaning": "Vang trắng được phục vụ lạnh."
+      },
+      {
+        "vocabulary": "cocktail",
+        "transcription": "/ˈkɒkteɪl/",
+        "meaning": "cocktail",
+        "sentenceEng": "The bar makes one signature cocktail.",
+        "sentenceMeaning": "Quán bar có một loại cocktail đặc trưng."
+      },
+      {
+        "vocabulary": "champagne",
+        "transcription": "/ʃæmˈpeɪn/",
+        "meaning": "sâm banh",
+        "sentenceEng": "They opened champagne after the deal closed.",
+        "sentenceMeaning": "Họ khai sâm banh sau khi chốt hợp đồng."
+      },
+      {
+        "vocabulary": "ice",
+        "transcription": "/aɪs/",
+        "meaning": "đá",
+        "sentenceEng": "Could I get it without ice?",
+        "sentenceMeaning": "Cho tôi loại không đá được không?"
+      },
+      {
+        "vocabulary": "straw",
+        "transcription": "/strɔː/",
+        "meaning": "ống hút",
+        "sentenceEng": "Paper straws get soggy fast.",
+        "sentenceMeaning": "Ống hút giấy nhanh mềm nhũn."
+      }
+    ]
+  },
+  {
+    "topic": "Màu sắc",
+    "vocabularies": [
+      {
+        "vocabulary": "red",
+        "transcription": "/red/",
+        "meaning": "màu đỏ",
+        "sentenceEng": "The warning label is printed in red.",
+        "sentenceMeaning": "Nhãn cảnh báo được in màu đỏ."
+      },
+      {
+        "vocabulary": "blue",
+        "transcription": "/bluː/",
+        "meaning": "màu xanh dương",
+        "sentenceEng": "He picked a deep blue for the header.",
+        "sentenceMeaning": "Anh ấy chọn màu xanh dương đậm cho phần đầu trang."
+      },
+      {
+        "vocabulary": "green",
+        "transcription": "/ɡriːn/",
+        "meaning": "màu xanh lá",
+        "sentenceEng": "The success message is green.",
+        "sentenceMeaning": "Thông báo thành công có màu xanh lá."
+      },
+      {
+        "vocabulary": "yellow",
+        "transcription": "/ˈjeləʊ/",
+        "meaning": "màu vàng",
+        "sentenceEng": "Yellow stands out against dark backgrounds.",
+        "sentenceMeaning": "Màu vàng nổi bật trên nền tối."
+      },
+      {
+        "vocabulary": "black",
+        "transcription": "/blæk/",
+        "meaning": "màu đen",
+        "sentenceEng": "The text is black on white.",
+        "sentenceMeaning": "Chữ đen trên nền trắng."
+      },
+      {
+        "vocabulary": "white",
+        "transcription": "/waɪt/",
+        "meaning": "màu trắng",
+        "sentenceEng": "White walls make the room look bigger.",
+        "sentenceMeaning": "Tường trắng làm căn phòng trông rộng hơn."
+      },
+      {
+        "vocabulary": "pink",
+        "transcription": "/pɪŋk/",
+        "meaning": "màu hồng",
+        "sentenceEng": "She chose pink for the packaging.",
+        "sentenceMeaning": "Cô ấy chọn màu hồng cho bao bì."
+      },
+      {
+        "vocabulary": "orange",
+        "transcription": "/ˈɒrɪndʒ/",
+        "meaning": "màu cam",
+        "sentenceEng": "The button turns orange on hover.",
+        "sentenceMeaning": "Nút chuyển sang màu cam khi rê chuột."
+      },
+      {
+        "vocabulary": "purple",
+        "transcription": "/ˈpɜːpl/",
+        "meaning": "màu tím",
+        "sentenceEng": "Purple is used sparingly in the design.",
+        "sentenceMeaning": "Màu tím được dùng tiết chế trong thiết kế."
+      },
+      {
+        "vocabulary": "brown",
+        "transcription": "/braʊn/",
+        "meaning": "màu nâu",
+        "sentenceEng": "The furniture is dark brown.",
+        "sentenceMeaning": "Đồ nội thất màu nâu sẫm."
+      },
+      {
+        "vocabulary": "grey",
+        "transcription": "/ɡreɪ/",
+        "meaning": "màu xám",
+        "sentenceEng": "Disabled fields appear grey.",
+        "sentenceMeaning": "Các trường bị vô hiệu hóa hiện màu xám."
+      },
+      {
+        "vocabulary": "light",
+        "transcription": "/laɪt/",
+        "meaning": "nhạt (màu)",
+        "sentenceEng": "A light blue is easier on the eyes.",
+        "sentenceMeaning": "Màu xanh nhạt dễ chịu cho mắt hơn."
+      },
+      {
+        "vocabulary": "dark",
+        "transcription": "/dɑːk/",
+        "meaning": "đậm (màu)",
+        "sentenceEng": "Dark mode saves battery on some screens.",
+        "sentenceMeaning": "Chế độ tối tiết kiệm pin trên một số màn hình."
+      },
+      {
+        "vocabulary": "gold",
+        "transcription": "/ɡəʊld/",
+        "meaning": "màu vàng kim",
+        "sentenceEng": "The logo has a thin gold border.",
+        "sentenceMeaning": "Logo có viền vàng kim mảnh."
+      },
+      {
+        "vocabulary": "silver",
+        "transcription": "/ˈsɪlvə(r)/",
+        "meaning": "màu bạc",
+        "sentenceEng": "The laptop comes in silver only.",
+        "sentenceMeaning": "Chiếc laptop chỉ có màu bạc."
+      },
+      {
+        "vocabulary": "beige",
+        "transcription": "/beɪʒ/",
+        "meaning": "màu be",
+        "sentenceEng": "Beige works as a neutral background.",
+        "sentenceMeaning": "Màu be dùng làm nền trung tính rất hợp."
+      },
+      {
+        "vocabulary": "navy",
+        "transcription": "/ˈneɪvi/",
+        "meaning": "xanh hải quân",
+        "sentenceEng": "Navy is the primary brand color.",
+        "sentenceMeaning": "Xanh hải quân là màu chủ đạo của thương hiệu."
+      },
+      {
+        "vocabulary": "turquoise",
+        "transcription": "/ˈtɜːkwɔɪz/",
+        "meaning": "màu ngọc lam",
+        "sentenceEng": "The sea looks turquoise at noon.",
+        "sentenceMeaning": "Biển có màu ngọc lam vào buổi trưa."
+      },
+      {
+        "vocabulary": "burgundy",
+        "transcription": "/ˈbɜːɡəndi/",
+        "meaning": "màu đỏ rượu",
+        "sentenceEng": "Burgundy suits the winter collection.",
+        "sentenceMeaning": "Màu đỏ rượu hợp với bộ sưu tập mùa đông."
+      },
+      {
+        "vocabulary": "lavender",
+        "transcription": "/ˈlævəndə(r)/",
+        "meaning": "màu oải hương",
+        "sentenceEng": "Lavender is a soft, calm color.",
+        "sentenceMeaning": "Oải hương là màu dịu và êm."
+      },
+      {
+        "vocabulary": "coral",
+        "transcription": "/ˈkɒrəl/",
+        "meaning": "màu san hô",
+        "sentenceEng": "Coral works well as an accent.",
+        "sentenceMeaning": "Màu san hô hợp làm màu nhấn."
+      },
+      {
+        "vocabulary": "magenta",
+        "transcription": "/məˈdʒentə/",
+        "meaning": "màu hồng sen",
+        "sentenceEng": "Magenta prints brighter than it looks.",
+        "sentenceMeaning": "Màu hồng sen in ra sáng hơn khi nhìn."
+      },
+      {
+        "vocabulary": "peach",
+        "transcription": "/piːtʃ/",
+        "meaning": "màu đào",
+        "sentenceEng": "Peach softens the whole palette.",
+        "sentenceMeaning": "Màu đào làm dịu cả bảng màu."
+      },
+      {
+        "vocabulary": "mint",
+        "transcription": "/mɪnt/",
+        "meaning": "màu xanh bạc hà",
+        "sentenceEng": "Mint pairs nicely with grey.",
+        "sentenceMeaning": "Màu xanh bạc hà hợp với màu xám."
+      },
+      {
+        "vocabulary": "olive",
+        "transcription": "/ˈɒlɪv/",
+        "meaning": "màu ô liu",
+        "sentenceEng": "Olive is common in outdoor gear.",
+        "sentenceMeaning": "Màu ô liu phổ biến trong đồ dã ngoại."
+      },
+      {
+        "vocabulary": "crimson",
+        "transcription": "/ˈkrɪmzn/",
+        "meaning": "màu đỏ thẫm",
+        "sentenceEng": "Crimson is deeper than plain red.",
+        "sentenceMeaning": "Đỏ thẫm sâu hơn đỏ thường."
+      },
+      {
+        "vocabulary": "ivory",
+        "transcription": "/ˈaɪvəri/",
+        "meaning": "màu ngà",
+        "sentenceEng": "Ivory paper feels more expensive.",
+        "sentenceMeaning": "Giấy màu ngà cho cảm giác cao cấp hơn."
+      },
+      {
+        "vocabulary": "transparent",
+        "transcription": "/trænsˈpærənt/",
+        "meaning": "trong suốt",
+        "sentenceEng": "The case is transparent.",
+        "sentenceMeaning": "Chiếc ốp lưng trong suốt."
+      }
+    ]
+  },
+  {
+    "topic": "Công việc và nghề nghiệp",
+    "vocabularies": [
+      {
+        "vocabulary": "doctor",
+        "transcription": "/ˈdɒktə(r)/",
+        "meaning": "bác sĩ",
+        "sentenceEng": "The doctor sees patients until noon.",
+        "sentenceMeaning": "Bác sĩ khám bệnh đến trưa."
+      },
+      {
+        "vocabulary": "nurse",
+        "transcription": "/nɜːs/",
+        "meaning": "y tá",
+        "sentenceEng": "The nurse changed the dressing.",
+        "sentenceMeaning": "Y tá thay băng."
+      },
+      {
+        "vocabulary": "engineer",
+        "transcription": "/ˌendʒɪˈnɪə(r)/",
+        "meaning": "kỹ sư",
+        "sentenceEng": "He works as a backend engineer.",
+        "sentenceMeaning": "Anh ấy làm kỹ sư backend."
+      },
+      {
+        "vocabulary": "teacher",
+        "transcription": "/ˈtiːtʃə(r)/",
+        "meaning": "giáo viên",
+        "sentenceEng": "The teacher marks papers on weekends.",
+        "sentenceMeaning": "Giáo viên chấm bài vào cuối tuần."
+      },
+      {
+        "vocabulary": "lawyer",
+        "transcription": "/ˈlɔːjə(r)/",
+        "meaning": "luật sư",
+        "sentenceEng": "The lawyer reviewed the contract.",
+        "sentenceMeaning": "Luật sư đã xem lại hợp đồng."
+      },
+      {
+        "vocabulary": "accountant",
+        "transcription": "/əˈkaʊntənt/",
+        "meaning": "kế toán",
+        "sentenceEng": "The accountant closed the books.",
+        "sentenceMeaning": "Kế toán đã chốt sổ."
+      },
+      {
+        "vocabulary": "architect",
+        "transcription": "/ˈɑːkɪtekt/",
+        "meaning": "kiến trúc sư",
+        "sentenceEng": "The architect revised the floor plan.",
+        "sentenceMeaning": "Kiến trúc sư sửa lại mặt bằng."
+      },
+      {
+        "vocabulary": "chef",
+        "transcription": "/ʃef/",
+        "meaning": "đầu bếp",
+        "sentenceEng": "The chef changes the menu monthly.",
+        "sentenceMeaning": "Đầu bếp đổi thực đơn hằng tháng."
+      },
+      {
+        "vocabulary": "waiter",
+        "transcription": "/ˈweɪtə(r)/",
+        "meaning": "phục vụ bàn",
+        "sentenceEng": "The waiter took our order quickly.",
+        "sentenceMeaning": "Người phục vụ ghi món rất nhanh."
+      },
+      {
+        "vocabulary": "police officer",
+        "transcription": "/pəˈliːs ˈɒfɪsə(r)/",
+        "meaning": "cảnh sát",
+        "sentenceEng": "A police officer directed the traffic.",
+        "sentenceMeaning": "Một cảnh sát điều tiết giao thông."
+      },
+      {
+        "vocabulary": "firefighter",
+        "transcription": "/ˈfaɪəfaɪtə(r)/",
+        "meaning": "lính cứu hỏa",
+        "sentenceEng": "The firefighter reached the third floor.",
+        "sentenceMeaning": "Lính cứu hỏa lên đến tầng ba."
+      },
+      {
+        "vocabulary": "pilot",
+        "transcription": "/ˈpaɪlət/",
+        "meaning": "phi công",
+        "sentenceEng": "The pilot announced a short delay.",
+        "sentenceMeaning": "Phi công thông báo hoãn ngắn."
+      },
+      {
+        "vocabulary": "flight attendant",
+        "transcription": "/flaɪt əˈtendənt/",
+        "meaning": "tiếp viên hàng không",
+        "sentenceEng": "A flight attendant brought extra water.",
+        "sentenceMeaning": "Tiếp viên mang thêm nước."
+      },
+      {
+        "vocabulary": "developer",
+        "transcription": "/dɪˈveləpə(r)/",
+        "meaning": "lập trình viên",
+        "sentenceEng": "The developer fixed the bug overnight.",
+        "sentenceMeaning": "Lập trình viên sửa lỗi qua đêm."
+      },
+      {
+        "vocabulary": "designer",
+        "transcription": "/dɪˈzaɪnə(r)/",
+        "meaning": "nhà thiết kế",
+        "sentenceEng": "The designer sent three mockups.",
+        "sentenceMeaning": "Nhà thiết kế gửi ba bản mockup."
+      },
+      {
+        "vocabulary": "manager",
+        "transcription": "/ˈmænɪdʒə(r)/",
+        "meaning": "quản lý",
+        "sentenceEng": "The manager approved the budget.",
+        "sentenceMeaning": "Quản lý duyệt ngân sách."
+      },
+      {
+        "vocabulary": "salary",
+        "transcription": "/ˈsæləri/",
+        "meaning": "lương",
+        "sentenceEng": "The salary is paid on the fifth.",
+        "sentenceMeaning": "Lương được trả vào ngày mùng năm."
+      },
+      {
+        "vocabulary": "interview",
+        "transcription": "/ˈɪntəvjuː/",
+        "meaning": "phỏng vấn",
+        "sentenceEng": "The interview lasted an hour.",
+        "sentenceMeaning": "Buổi phỏng vấn kéo dài một tiếng."
+      },
+      {
+        "vocabulary": "resume",
+        "transcription": "/ˈrezjuːmeɪ/",
+        "meaning": "sơ yếu lý lịch",
+        "sentenceEng": "Keep your resume to two pages.",
+        "sentenceMeaning": "Giữ CV trong hai trang."
+      },
+      {
+        "vocabulary": "apply",
+        "transcription": "/əˈplaɪ/",
+        "meaning": "nộp đơn",
+        "sentenceEng": "She applied for a remote position.",
+        "sentenceMeaning": "Cô ấy nộp đơn cho vị trí làm từ xa."
+      },
+      {
+        "vocabulary": "hire",
+        "transcription": "/ˈhaɪə(r)/",
+        "meaning": "tuyển dụng",
+        "sentenceEng": "They hired two engineers last month.",
+        "sentenceMeaning": "Họ tuyển hai kỹ sư tháng trước."
+      },
+      {
+        "vocabulary": "promotion",
+        "transcription": "/prəˈməʊʃn/",
+        "meaning": "thăng chức",
+        "sentenceEng": "He got a promotion after two years.",
+        "sentenceMeaning": "Anh ấy được thăng chức sau hai năm."
+      },
+      {
+        "vocabulary": "resign",
+        "transcription": "/rɪˈzaɪn/",
+        "meaning": "từ chức, nghỉ việc",
+        "sentenceEng": "She resigned with one month's notice.",
+        "sentenceMeaning": "Cô ấy nghỉ việc và báo trước một tháng."
+      },
+      {
+        "vocabulary": "overtime",
+        "transcription": "/ˈəʊvətaɪm/",
+        "meaning": "làm thêm giờ",
+        "sentenceEng": "Overtime is paid at a higher rate.",
+        "sentenceMeaning": "Làm thêm giờ được trả cao hơn."
+      },
+      {
+        "vocabulary": "deadline",
+        "transcription": "/ˈdedlaɪn/",
+        "meaning": "hạn chót",
+        "sentenceEng": "The deadline moved to Friday.",
+        "sentenceMeaning": "Hạn chót dời sang thứ Sáu."
+      },
+      {
+        "vocabulary": "colleague",
+        "transcription": "/ˈkɒliːɡ/",
+        "meaning": "đồng nghiệp",
+        "sentenceEng": "A colleague covered my shift.",
+        "sentenceMeaning": "Một đồng nghiệp làm thay ca của tôi."
+      },
+      {
+        "vocabulary": "career",
+        "transcription": "/kəˈrɪə(r)/",
+        "meaning": "sự nghiệp",
+        "sentenceEng": "He changed career at thirty.",
+        "sentenceMeaning": "Anh ấy đổi nghề ở tuổi ba mươi."
+      },
+      {
+        "vocabulary": "freelance",
+        "transcription": "/ˈfriːlɑːns/",
+        "meaning": "làm tự do",
+        "sentenceEng": "She works freelance for two clients.",
+        "sentenceMeaning": "Cô ấy làm tự do cho hai khách hàng."
+      }
+    ]
+  },
+  {
+    "topic": "Kinh doanh",
+    "vocabularies": [
+      {
+        "vocabulary": "company",
+        "transcription": "/ˈkʌmpəni/",
+        "meaning": "công ty",
+        "sentenceEng": "The company opened a second office.",
+        "sentenceMeaning": "Công ty mở văn phòng thứ hai."
+      },
+      {
+        "vocabulary": "business",
+        "transcription": "/ˈbɪznəs/",
+        "meaning": "việc kinh doanh",
+        "sentenceEng": "Business improved after the redesign.",
+        "sentenceMeaning": "Việc kinh doanh khởi sắc sau khi thiết kế lại."
+      },
+      {
+        "vocabulary": "customer",
+        "transcription": "/ˈkʌstəmə(r)/",
+        "meaning": "khách hàng",
+        "sentenceEng": "Customer feedback shaped the roadmap.",
+        "sentenceMeaning": "Phản hồi khách hàng định hình lộ trình sản phẩm."
+      },
+      {
+        "vocabulary": "client",
+        "transcription": "/ˈklaɪənt/",
+        "meaning": "khách hàng (doanh nghiệp)",
+        "sentenceEng": "The client asked for a demo.",
+        "sentenceMeaning": "Khách hàng yêu cầu một bản demo."
+      },
+      {
+        "vocabulary": "contract",
+        "transcription": "/ˈkɒntrækt/",
+        "meaning": "hợp đồng",
+        "sentenceEng": "Both sides signed the contract.",
+        "sentenceMeaning": "Hai bên đã ký hợp đồng."
+      },
+      {
+        "vocabulary": "negotiate",
+        "transcription": "/nɪˈɡəʊʃieɪt/",
+        "meaning": "đàm phán",
+        "sentenceEng": "We negotiated a longer payment term.",
+        "sentenceMeaning": "Chúng tôi đàm phán được kỳ hạn thanh toán dài hơn."
+      },
+      {
+        "vocabulary": "deal",
+        "transcription": "/diːl/",
+        "meaning": "thỏa thuận",
+        "sentenceEng": "The deal fell through at the last minute.",
+        "sentenceMeaning": "Thỏa thuận đổ bể vào phút chót."
+      },
+      {
+        "vocabulary": "profit",
+        "transcription": "/ˈprɒfɪt/",
+        "meaning": "lợi nhuận",
+        "sentenceEng": "Profit rose in the second quarter.",
+        "sentenceMeaning": "Lợi nhuận tăng trong quý hai."
+      },
+      {
+        "vocabulary": "loss",
+        "transcription": "/lɒs/",
+        "meaning": "khoản lỗ",
+        "sentenceEng": "The branch reported a small loss.",
+        "sentenceMeaning": "Chi nhánh báo lỗ nhẹ."
+      },
+      {
+        "vocabulary": "revenue",
+        "transcription": "/ˈrevənjuː/",
+        "meaning": "doanh thu",
+        "sentenceEng": "Revenue doubled after the launch.",
+        "sentenceMeaning": "Doanh thu tăng gấp đôi sau khi ra mắt."
+      },
+      {
+        "vocabulary": "invest",
+        "transcription": "/ɪnˈvest/",
+        "meaning": "đầu tư",
+        "sentenceEng": "They invested in better servers.",
+        "sentenceMeaning": "Họ đầu tư vào máy chủ tốt hơn."
+      },
+      {
+        "vocabulary": "market",
+        "transcription": "/ˈmɑːkɪt/",
+        "meaning": "thị trường",
+        "sentenceEng": "The market is crowded already.",
+        "sentenceMeaning": "Thị trường đã khá chật chội."
+      },
+      {
+        "vocabulary": "competitor",
+        "transcription": "/kəmˈpetɪtə(r)/",
+        "meaning": "đối thủ cạnh tranh",
+        "sentenceEng": "Our competitor released a similar feature.",
+        "sentenceMeaning": "Đối thủ của chúng tôi ra tính năng tương tự."
+      },
+      {
+        "vocabulary": "supplier",
+        "transcription": "/səˈplaɪə(r)/",
+        "meaning": "nhà cung cấp",
+        "sentenceEng": "The supplier raised its prices.",
+        "sentenceMeaning": "Nhà cung cấp tăng giá."
+      },
+      {
+        "vocabulary": "invoice",
+        "transcription": "/ˈɪnvɔɪs/",
+        "meaning": "hóa đơn",
+        "sentenceEng": "Send the invoice by end of month.",
+        "sentenceMeaning": "Gửi hóa đơn trước cuối tháng."
+      },
+      {
+        "vocabulary": "budget",
+        "transcription": "/ˈbʌdʒɪt/",
+        "meaning": "ngân sách",
+        "sentenceEng": "The budget was cut by ten percent.",
+        "sentenceMeaning": "Ngân sách bị cắt mười phần trăm."
+      },
+      {
+        "vocabulary": "meeting",
+        "transcription": "/ˈmiːtɪŋ/",
+        "meaning": "cuộc họp",
+        "sentenceEng": "The meeting was moved online.",
+        "sentenceMeaning": "Cuộc họp được chuyển sang trực tuyến."
+      },
+      {
+        "vocabulary": "presentation",
+        "transcription": "/ˌpreznˈteɪʃn/",
+        "meaning": "bài thuyết trình",
+        "sentenceEng": "His presentation ran over time.",
+        "sentenceMeaning": "Bài thuyết trình của anh ấy quá giờ."
+      },
+      {
+        "vocabulary": "proposal",
+        "transcription": "/prəˈpəʊzl/",
+        "meaning": "đề xuất",
+        "sentenceEng": "They rejected the first proposal.",
+        "sentenceMeaning": "Họ từ chối đề xuất đầu tiên."
+      },
+      {
+        "vocabulary": "partnership",
+        "transcription": "/ˈpɑːtnəʃɪp/",
+        "meaning": "quan hệ đối tác",
+        "sentenceEng": "The partnership lasted five years.",
+        "sentenceMeaning": "Quan hệ đối tác kéo dài năm năm."
+      },
+      {
+        "vocabulary": "startup",
+        "transcription": "/ˈstɑːtʌp/",
+        "meaning": "công ty khởi nghiệp",
+        "sentenceEng": "The startup raised its first round.",
+        "sentenceMeaning": "Công ty khởi nghiệp gọi được vòng vốn đầu tiên."
+      },
+      {
+        "vocabulary": "stakeholder",
+        "transcription": "/ˈsteɪkhəʊldə(r)/",
+        "meaning": "bên liên quan",
+        "sentenceEng": "Every stakeholder reviewed the plan.",
+        "sentenceMeaning": "Mọi bên liên quan đều xem xét kế hoạch."
+      },
+      {
+        "vocabulary": "target",
+        "transcription": "/ˈtɑːɡɪt/",
+        "meaning": "mục tiêu",
+        "sentenceEng": "We missed the quarterly target.",
+        "sentenceMeaning": "Chúng tôi không đạt mục tiêu quý."
+      },
+      {
+        "vocabulary": "strategy",
+        "transcription": "/ˈstrætədʒi/",
+        "meaning": "chiến lược",
+        "sentenceEng": "The strategy shifted toward retention.",
+        "sentenceMeaning": "Chiến lược chuyển hướng sang giữ chân người dùng."
+      },
+      {
+        "vocabulary": "launch",
+        "transcription": "/lɔːntʃ/",
+        "meaning": "ra mắt",
+        "sentenceEng": "The launch is set for March.",
+        "sentenceMeaning": "Buổi ra mắt được ấn định vào tháng Ba."
+      },
+      {
+        "vocabulary": "brand",
+        "transcription": "/brænd/",
+        "meaning": "thương hiệu",
+        "sentenceEng": "The brand feels dated now.",
+        "sentenceMeaning": "Thương hiệu giờ có vẻ cũ kỹ."
+      },
+      {
+        "vocabulary": "expand",
+        "transcription": "/ɪkˈspænd/",
+        "meaning": "mở rộng",
+        "sentenceEng": "They plan to expand into Thailand.",
+        "sentenceMeaning": "Họ dự định mở rộng sang Thái Lan."
+      },
+      {
+        "vocabulary": "bankrupt",
+        "transcription": "/ˈbæŋkrʌpt/",
+        "meaning": "phá sản",
+        "sentenceEng": "The firm went bankrupt last winter.",
+        "sentenceMeaning": "Công ty phá sản mùa đông năm ngoái."
+      }
+    ]
+  },
+  {
+    "topic": "Chào hỏi và giới thiệu bản thân",
+    "vocabularies": [
+      {
+        "vocabulary": "hello",
+        "transcription": "/həˈləʊ/",
+        "meaning": "xin chào",
+        "sentenceEng": "Hello, is this the right room?",
+        "sentenceMeaning": "Xin chào, đây có phải đúng phòng không?"
+      },
+      {
+        "vocabulary": "hi",
+        "transcription": "/haɪ/",
+        "meaning": "chào (thân mật)",
+        "sentenceEng": "Hi, I sit two desks over.",
+        "sentenceMeaning": "Chào, mình ngồi cách đây hai bàn."
+      },
+      {
+        "vocabulary": "good morning",
+        "transcription": "/ɡʊd ˈmɔːnɪŋ/",
+        "meaning": "chào buổi sáng",
+        "sentenceEng": "Good morning, everyone.",
+        "sentenceMeaning": "Chào buổi sáng cả nhà."
+      },
+      {
+        "vocabulary": "good evening",
+        "transcription": "/ɡʊd ˈiːvnɪŋ/",
+        "meaning": "chào buổi tối",
+        "sentenceEng": "Good evening, thanks for staying late.",
+        "sentenceMeaning": "Chào buổi tối, cảm ơn mọi người đã ở lại muộn."
+      },
+      {
+        "vocabulary": "goodbye",
+        "transcription": "/ˌɡʊdˈbaɪ/",
+        "meaning": "tạm biệt",
+        "sentenceEng": "Goodbye, see you on Monday.",
+        "sentenceMeaning": "Tạm biệt, hẹn gặp thứ Hai."
+      },
+      {
+        "vocabulary": "see you later",
+        "transcription": "/siː juː ˈleɪtə(r)/",
+        "meaning": "hẹn gặp lại",
+        "sentenceEng": "See you later at the standup.",
+        "sentenceMeaning": "Hẹn gặp lại ở buổi standup."
+      },
+      {
+        "vocabulary": "nice to meet you",
+        "transcription": "/naɪs tə miːt juː/",
+        "meaning": "rất vui được gặp bạn",
+        "sentenceEng": "Nice to meet you at last.",
+        "sentenceMeaning": "Rất vui cuối cùng cũng được gặp bạn."
+      },
+      {
+        "vocabulary": "introduce",
+        "transcription": "/ˌɪntrəˈdjuːs/",
+        "meaning": "giới thiệu",
+        "sentenceEng": "Let me introduce our new teammate.",
+        "sentenceMeaning": "Để tôi giới thiệu thành viên mới của nhóm."
+      },
+      {
+        "vocabulary": "name",
+        "transcription": "/neɪm/",
+        "meaning": "tên",
+        "sentenceEng": "My name is spelled with one L.",
+        "sentenceMeaning": "Tên tôi viết với một chữ L."
+      },
+      {
+        "vocabulary": "age",
+        "transcription": "/eɪdʒ/",
+        "meaning": "tuổi",
+        "sentenceEng": "She never mentions her age.",
+        "sentenceMeaning": "Cô ấy không bao giờ nhắc đến tuổi."
+      },
+      {
+        "vocabulary": "hometown",
+        "transcription": "/ˈhəʊmtaʊn/",
+        "meaning": "quê nhà",
+        "sentenceEng": "My hometown is a small coastal town.",
+        "sentenceMeaning": "Quê tôi là một thị trấn ven biển nhỏ."
+      },
+      {
+        "vocabulary": "nationality",
+        "transcription": "/ˌnæʃəˈnæləti/",
+        "meaning": "quốc tịch",
+        "sentenceEng": "Please state your nationality on the form.",
+        "sentenceMeaning": "Vui lòng ghi quốc tịch vào mẫu đơn."
+      },
+      {
+        "vocabulary": "occupation",
+        "transcription": "/ˌɒkjuˈpeɪʃn/",
+        "meaning": "nghề nghiệp",
+        "sentenceEng": "Occupation is the third field.",
+        "sentenceMeaning": "Nghề nghiệp là ô thứ ba."
+      },
+      {
+        "vocabulary": "hobby",
+        "transcription": "/ˈhɒbi/",
+        "meaning": "sở thích",
+        "sentenceEng": "My main hobby is photography.",
+        "sentenceMeaning": "Sở thích chính của tôi là nhiếp ảnh."
+      },
+      {
+        "vocabulary": "How are you?",
+        "transcription": "/haʊ ɑː juː/",
+        "meaning": "bạn khỏe không?",
+        "sentenceEng": "How are you after the move?",
+        "sentenceMeaning": "Bạn thế nào sau khi chuyển nhà?"
+      },
+      {
+        "vocabulary": "I'm fine, thanks",
+        "transcription": "/aɪm faɪn θæŋks/",
+        "meaning": "tôi khỏe, cảm ơn",
+        "sentenceEng": "I'm fine, thanks, just a bit busy.",
+        "sentenceMeaning": "Tôi khỏe, cảm ơn, chỉ hơi bận thôi."
+      },
+      {
+        "vocabulary": "Where are you from?",
+        "transcription": "/weər ɑː juː frɒm/",
+        "meaning": "bạn đến từ đâu?",
+        "sentenceEng": "Where are you from originally?",
+        "sentenceMeaning": "Ban đầu bạn đến từ đâu?"
+      },
+      {
+        "vocabulary": "What do you do?",
+        "transcription": "/wɒt duː juː duː/",
+        "meaning": "bạn làm nghề gì?",
+        "sentenceEng": "What do you do for a living?",
+        "sentenceMeaning": "Bạn làm nghề gì để kiếm sống?"
+      },
+      {
+        "vocabulary": "excuse me",
+        "transcription": "/ɪkˈskjuːz miː/",
+        "meaning": "xin lỗi (làm phiền)",
+        "sentenceEng": "Excuse me, is this seat taken?",
+        "sentenceMeaning": "Xin lỗi, ghế này có ai ngồi chưa?"
+      },
+      {
+        "vocabulary": "sorry",
+        "transcription": "/ˈsɒri/",
+        "meaning": "xin lỗi",
+        "sentenceEng": "Sorry, I misread your message.",
+        "sentenceMeaning": "Xin lỗi, tôi đọc nhầm tin nhắn của bạn."
+      },
+      {
+        "vocabulary": "thank you",
+        "transcription": "/θæŋk juː/",
+        "meaning": "cảm ơn",
+        "sentenceEng": "Thank you for the quick reply.",
+        "sentenceMeaning": "Cảm ơn bạn đã trả lời nhanh."
+      },
+      {
+        "vocabulary": "you're welcome",
+        "transcription": "/jɔː ˈwelkəm/",
+        "meaning": "không có gì",
+        "sentenceEng": "You're welcome, happy to help.",
+        "sentenceMeaning": "Không có gì, tôi vui được giúp."
+      },
+      {
+        "vocabulary": "please",
+        "transcription": "/pliːz/",
+        "meaning": "làm ơn",
+        "sentenceEng": "Could you resend it, please?",
+        "sentenceMeaning": "Bạn gửi lại giúp tôi được không?"
+      },
+      {
+        "vocabulary": "greet",
+        "transcription": "/ɡriːt/",
+        "meaning": "chào hỏi",
+        "sentenceEng": "He greets every guest by name.",
+        "sentenceMeaning": "Anh ấy chào từng vị khách bằng tên."
+      },
+      {
+        "vocabulary": "handshake",
+        "transcription": "/ˈhændʃeɪk/",
+        "meaning": "cái bắt tay",
+        "sentenceEng": "A firm handshake makes a good impression.",
+        "sentenceMeaning": "Cái bắt tay chắc tạo ấn tượng tốt."
+      },
+      {
+        "vocabulary": "small talk",
+        "transcription": "/smɔːl tɔːk/",
+        "meaning": "chuyện xã giao",
+        "sentenceEng": "Small talk helps break the ice.",
+        "sentenceMeaning": "Chuyện xã giao giúp phá băng."
+      },
+      {
+        "vocabulary": "acquainted",
+        "transcription": "/əˈkweɪntɪd/",
+        "meaning": "quen biết",
+        "sentenceEng": "We got acquainted at a conference.",
+        "sentenceMeaning": "Chúng tôi quen nhau ở một hội thảo."
+      },
+      {
+        "vocabulary": "catch your name",
+        "transcription": "/kætʃ jɔː neɪm/",
+        "meaning": "nghe rõ tên",
+        "sentenceEng": "Sorry, I didn't catch your name.",
+        "sentenceMeaning": "Xin lỗi, tôi chưa nghe rõ tên bạn."
+      }
+    ]
+  },
+  {
+    "topic": "Nghệ thuật",
+    "vocabularies": [
+      {
+        "vocabulary": "art",
+        "transcription": "/ɑːt/",
+        "meaning": "nghệ thuật",
+        "sentenceEng": "Art classes are free on Saturdays.",
+        "sentenceMeaning": "Các lớp nghệ thuật miễn phí vào thứ Bảy."
+      },
+      {
+        "vocabulary": "artist",
+        "transcription": "/ˈɑːtɪst/",
+        "meaning": "nghệ sĩ",
+        "sentenceEng": "The artist works mostly at night.",
+        "sentenceMeaning": "Người nghệ sĩ chủ yếu làm việc vào ban đêm."
+      },
+      {
+        "vocabulary": "painting",
+        "transcription": "/ˈpeɪntɪŋ/",
+        "meaning": "bức tranh",
+        "sentenceEng": "The painting hangs in the main hall.",
+        "sentenceMeaning": "Bức tranh treo ở sảnh chính."
+      },
+      {
+        "vocabulary": "drawing",
+        "transcription": "/ˈdrɔːɪŋ/",
+        "meaning": "bức vẽ",
+        "sentenceEng": "Her drawing won a small prize.",
+        "sentenceMeaning": "Bức vẽ của cô ấy đoạt một giải nhỏ."
+      },
+      {
+        "vocabulary": "sculpture",
+        "transcription": "/ˈskʌlptʃə(r)/",
+        "meaning": "tác phẩm điêu khắc",
+        "sentenceEng": "The sculpture is made of recycled metal.",
+        "sentenceMeaning": "Tác phẩm điêu khắc làm từ kim loại tái chế."
+      },
+      {
+        "vocabulary": "gallery",
+        "transcription": "/ˈɡæləri/",
+        "meaning": "phòng trưng bày",
+        "sentenceEng": "The gallery opens at ten.",
+        "sentenceMeaning": "Phòng trưng bày mở cửa lúc mười giờ."
+      },
+      {
+        "vocabulary": "exhibition",
+        "transcription": "/ˌeksɪˈbɪʃn/",
+        "meaning": "triển lãm",
+        "sentenceEng": "The exhibition runs for three weeks.",
+        "sentenceMeaning": "Triển lãm kéo dài ba tuần."
+      },
+      {
+        "vocabulary": "museum",
+        "transcription": "/mjuˈziːəm/",
+        "meaning": "bảo tàng",
+        "sentenceEng": "The museum is free on the first Sunday.",
+        "sentenceMeaning": "Bảo tàng miễn phí vào Chủ nhật đầu tháng."
+      },
+      {
+        "vocabulary": "canvas",
+        "transcription": "/ˈkænvəs/",
+        "meaning": "vải toan",
+        "sentenceEng": "He stretched a new canvas.",
+        "sentenceMeaning": "Anh ấy căng một tấm toan mới."
+      },
+      {
+        "vocabulary": "brush",
+        "transcription": "/brʌʃ/",
+        "meaning": "cọ vẽ",
+        "sentenceEng": "Clean the brush right after use.",
+        "sentenceMeaning": "Rửa cọ ngay sau khi dùng."
+      },
+      {
+        "vocabulary": "portrait",
+        "transcription": "/ˈpɔːtreɪt/",
+        "meaning": "chân dung",
+        "sentenceEng": "The portrait took four sittings.",
+        "sentenceMeaning": "Bức chân dung mất bốn buổi ngồi mẫu."
+      },
+      {
+        "vocabulary": "landscape",
+        "transcription": "/ˈlændskeɪp/",
+        "meaning": "tranh phong cảnh",
+        "sentenceEng": "She prefers painting landscapes.",
+        "sentenceMeaning": "Cô ấy thích vẽ tranh phong cảnh hơn."
+      },
+      {
+        "vocabulary": "abstract",
+        "transcription": "/ˈæbstrækt/",
+        "meaning": "trừu tượng",
+        "sentenceEng": "Abstract work is harder to sell.",
+        "sentenceMeaning": "Tác phẩm trừu tượng khó bán hơn."
+      },
+      {
+        "vocabulary": "photography",
+        "transcription": "/fəˈtɒɡrəfi/",
+        "meaning": "nhiếp ảnh",
+        "sentenceEng": "Photography is treated as fine art here.",
+        "sentenceMeaning": "Nhiếp ảnh được coi là mỹ thuật ở đây."
+      },
+      {
+        "vocabulary": "music",
+        "transcription": "/ˈmjuːzɪk/",
+        "meaning": "âm nhạc",
+        "sentenceEng": "Live music starts at eight.",
+        "sentenceMeaning": "Nhạc sống bắt đầu lúc tám giờ."
+      },
+      {
+        "vocabulary": "concert",
+        "transcription": "/ˈkɒnsət/",
+        "meaning": "buổi hòa nhạc",
+        "sentenceEng": "The concert sold out in a day.",
+        "sentenceMeaning": "Buổi hòa nhạc bán hết vé trong một ngày."
+      },
+      {
+        "vocabulary": "orchestra",
+        "transcription": "/ˈɔːkɪstrə/",
+        "meaning": "dàn nhạc",
+        "sentenceEng": "The orchestra rehearses on Tuesdays.",
+        "sentenceMeaning": "Dàn nhạc tập vào thứ Ba."
+      },
+      {
+        "vocabulary": "instrument",
+        "transcription": "/ˈɪnstrəmənt/",
+        "meaning": "nhạc cụ",
+        "sentenceEng": "He plays three instruments.",
+        "sentenceMeaning": "Anh ấy chơi ba loại nhạc cụ."
+      },
+      {
+        "vocabulary": "theatre",
+        "transcription": "/ˈθɪətə(r)/",
+        "meaning": "nhà hát",
+        "sentenceEng": "The theatre was built in 1930.",
+        "sentenceMeaning": "Nhà hát được xây năm 1930."
+      },
+      {
+        "vocabulary": "play",
+        "transcription": "/pleɪ/",
+        "meaning": "vở kịch",
+        "sentenceEng": "The play has only two actors.",
+        "sentenceMeaning": "Vở kịch chỉ có hai diễn viên."
+      },
+      {
+        "vocabulary": "actor",
+        "transcription": "/ˈæktə(r)/",
+        "meaning": "diễn viên",
+        "sentenceEng": "The actor forgot one line.",
+        "sentenceMeaning": "Diễn viên quên một câu thoại."
+      },
+      {
+        "vocabulary": "audience",
+        "transcription": "/ˈɔːdiəns/",
+        "meaning": "khán giả",
+        "sentenceEng": "The audience clapped for a full minute.",
+        "sentenceMeaning": "Khán giả vỗ tay suốt một phút."
+      },
+      {
+        "vocabulary": "performance",
+        "transcription": "/pəˈfɔːməns/",
+        "meaning": "buổi biểu diễn",
+        "sentenceEng": "The evening performance is longer.",
+        "sentenceMeaning": "Buổi biểu diễn tối dài hơn."
+      },
+      {
+        "vocabulary": "dance",
+        "transcription": "/dɑːns/",
+        "meaning": "điệu nhảy, múa",
+        "sentenceEng": "The dance tells a village story.",
+        "sentenceMeaning": "Điệu múa kể một câu chuyện làng quê."
+      },
+      {
+        "vocabulary": "literature",
+        "transcription": "/ˈlɪtrətʃə(r)/",
+        "meaning": "văn học",
+        "sentenceEng": "Her literature collection fills two shelves.",
+        "sentenceMeaning": "Bộ sưu tập văn học của cô ấy đầy hai kệ."
+      },
+      {
+        "vocabulary": "poem",
+        "transcription": "/ˈpəʊɪm/",
+        "meaning": "bài thơ",
+        "sentenceEng": "He wrote the poem in one evening.",
+        "sentenceMeaning": "Anh ấy viết bài thơ trong một buổi tối."
+      },
+      {
+        "vocabulary": "creative",
+        "transcription": "/kriˈeɪtɪv/",
+        "meaning": "sáng tạo",
+        "sentenceEng": "The brief left room for creative work.",
+        "sentenceMeaning": "Bản brief để chỗ cho sáng tạo."
+      },
+      {
+        "vocabulary": "masterpiece",
+        "transcription": "/ˈmɑːstəpiːs/",
+        "meaning": "kiệt tác",
+        "sentenceEng": "Critics called it a masterpiece.",
+        "sentenceMeaning": "Giới phê bình gọi đó là một kiệt tác."
+      }
+    ]
+  },
+  {
+    "topic": "Máy tính và Internet",
+    "vocabularies": [
+      {
+        "vocabulary": "computer",
+        "transcription": "/kəmˈpjuːtə(r)/",
+        "meaning": "máy tính",
+        "sentenceEng": "The computer restarts every night.",
+        "sentenceMeaning": "Máy tính khởi động lại mỗi đêm."
+      },
+      {
+        "vocabulary": "laptop",
+        "transcription": "/ˈlæptɒp/",
+        "meaning": "máy tính xách tay",
+        "sentenceEng": "My laptop runs hot under load.",
+        "sentenceMeaning": "Laptop của tôi nóng lên khi tải nặng."
+      },
+      {
+        "vocabulary": "keyboard",
+        "transcription": "/ˈkiːbɔːd/",
+        "meaning": "bàn phím",
+        "sentenceEng": "The keyboard has a stuck key.",
+        "sentenceMeaning": "Bàn phím có một phím bị kẹt."
+      },
+      {
+        "vocabulary": "screen",
+        "transcription": "/skriːn/",
+        "meaning": "màn hình",
+        "sentenceEng": "Split the screen to compare files.",
+        "sentenceMeaning": "Chia đôi màn hình để so sánh file."
+      },
+      {
+        "vocabulary": "software",
+        "transcription": "/ˈsɒftweə(r)/",
+        "meaning": "phần mềm",
+        "sentenceEng": "The software updates automatically.",
+        "sentenceMeaning": "Phần mềm tự động cập nhật."
+      },
+      {
+        "vocabulary": "hardware",
+        "transcription": "/ˈhɑːdweə(r)/",
+        "meaning": "phần cứng",
+        "sentenceEng": "The bug turned out to be hardware.",
+        "sentenceMeaning": "Hóa ra lỗi nằm ở phần cứng."
+      },
+      {
+        "vocabulary": "browser",
+        "transcription": "/ˈbraʊzə(r)/",
+        "meaning": "trình duyệt",
+        "sentenceEng": "Clear the browser cache first.",
+        "sentenceMeaning": "Xóa cache trình duyệt trước đã."
+      },
+      {
+        "vocabulary": "website",
+        "transcription": "/ˈwebsaɪt/",
+        "meaning": "trang web",
+        "sentenceEng": "The website loads slowly on mobile.",
+        "sentenceMeaning": "Trang web tải chậm trên di động."
+      },
+      {
+        "vocabulary": "download",
+        "transcription": "/ˌdaʊnˈləʊd/",
+        "meaning": "tải xuống",
+        "sentenceEng": "The download stopped at ninety percent.",
+        "sentenceMeaning": "Việc tải xuống dừng ở chín mươi phần trăm."
+      },
+      {
+        "vocabulary": "upload",
+        "transcription": "/ˌʌpˈləʊd/",
+        "meaning": "tải lên",
+        "sentenceEng": "Upload the file before you leave.",
+        "sentenceMeaning": "Tải file lên trước khi bạn rời đi."
+      },
+      {
+        "vocabulary": "password",
+        "transcription": "/ˈpɑːswɜːd/",
+        "meaning": "mật khẩu",
+        "sentenceEng": "Change the password every quarter.",
+        "sentenceMeaning": "Đổi mật khẩu mỗi quý."
+      },
+      {
+        "vocabulary": "username",
+        "transcription": "/ˈjuːzəneɪm/",
+        "meaning": "tên đăng nhập",
+        "sentenceEng": "The username is already taken.",
+        "sentenceMeaning": "Tên đăng nhập này đã có người dùng."
+      },
+      {
+        "vocabulary": "log in",
+        "transcription": "/lɒɡ ɪn/",
+        "meaning": "đăng nhập",
+        "sentenceEng": "You need to log in again.",
+        "sentenceMeaning": "Bạn cần đăng nhập lại."
+      },
+      {
+        "vocabulary": "sign up",
+        "transcription": "/saɪn ʌp/",
+        "meaning": "đăng ký",
+        "sentenceEng": "Users can sign up with an email.",
+        "sentenceMeaning": "Người dùng có thể đăng ký bằng email."
+      },
+      {
+        "vocabulary": "server",
+        "transcription": "/ˈsɜːvə(r)/",
+        "meaning": "máy chủ",
+        "sentenceEng": "The server went down for ten minutes.",
+        "sentenceMeaning": "Máy chủ sập trong mười phút."
+      },
+      {
+        "vocabulary": "database",
+        "transcription": "/ˈdeɪtəbeɪs/",
+        "meaning": "cơ sở dữ liệu",
+        "sentenceEng": "The database needs an index here.",
+        "sentenceMeaning": "Cơ sở dữ liệu cần một index ở chỗ này."
+      },
+      {
+        "vocabulary": "network",
+        "transcription": "/ˈnetwɜːk/",
+        "meaning": "mạng",
+        "sentenceEng": "The network is unstable in this room.",
+        "sentenceMeaning": "Mạng không ổn định trong phòng này."
+      },
+      {
+        "vocabulary": "wireless",
+        "transcription": "/ˈwaɪələs/",
+        "meaning": "không dây",
+        "sentenceEng": "The wireless signal drops near the wall.",
+        "sentenceMeaning": "Tín hiệu không dây yếu gần bức tường."
+      },
+      {
+        "vocabulary": "bug",
+        "transcription": "/bʌɡ/",
+        "meaning": "lỗi phần mềm",
+        "sentenceEng": "The bug only appears in production.",
+        "sentenceMeaning": "Lỗi chỉ xuất hiện trên môi trường thật."
+      },
+      {
+        "vocabulary": "update",
+        "transcription": "/ˈʌpdeɪt/",
+        "meaning": "cập nhật",
+        "sentenceEng": "Install the security update today.",
+        "sentenceMeaning": "Hãy cài bản cập nhật bảo mật hôm nay."
+      },
+      {
+        "vocabulary": "backup",
+        "transcription": "/ˈbækʌp/",
+        "meaning": "bản sao lưu",
+        "sentenceEng": "Restore from last night's backup.",
+        "sentenceMeaning": "Khôi phục từ bản sao lưu tối qua."
+      },
+      {
+        "vocabulary": "cloud",
+        "transcription": "/klaʊd/",
+        "meaning": "đám mây",
+        "sentenceEng": "We moved storage to the cloud.",
+        "sentenceMeaning": "Chúng tôi chuyển lưu trữ lên đám mây."
+      },
+      {
+        "vocabulary": "virus",
+        "transcription": "/ˈvaɪrəs/",
+        "meaning": "virus máy tính",
+        "sentenceEng": "A virus spread through a shared drive.",
+        "sentenceMeaning": "Một virus lây qua ổ đĩa dùng chung."
+      },
+      {
+        "vocabulary": "firewall",
+        "transcription": "/ˈfaɪəwɔːl/",
+        "meaning": "tường lửa",
+        "sentenceEng": "The firewall blocked that port.",
+        "sentenceMeaning": "Tường lửa đã chặn cổng đó."
+      },
+      {
+        "vocabulary": "email",
+        "transcription": "/ˈiːmeɪl/",
+        "meaning": "thư điện tử",
+        "sentenceEng": "Send the report by email.",
+        "sentenceMeaning": "Gửi báo cáo qua email."
+      },
+      {
+        "vocabulary": "attachment",
+        "transcription": "/əˈtætʃmənt/",
+        "meaning": "tệp đính kèm",
+        "sentenceEng": "The attachment is too large.",
+        "sentenceMeaning": "Tệp đính kèm quá lớn."
+      },
+      {
+        "vocabulary": "search engine",
+        "transcription": "/sɜːtʃ ˈendʒɪn/",
+        "meaning": "công cụ tìm kiếm",
+        "sentenceEng": "The search engine indexed the page.",
+        "sentenceMeaning": "Công cụ tìm kiếm đã lập chỉ mục trang này."
+      },
+      {
+        "vocabulary": "social media",
+        "transcription": "/ˈsəʊʃl ˈmiːdiə/",
+        "meaning": "mạng xã hội",
+        "sentenceEng": "We announced it on social media.",
+        "sentenceMeaning": "Chúng tôi công bố trên mạng xã hội."
+      }
+    ]
+  },
+  {
+    "topic": "Sức khỏe và y tế",
+    "vocabularies": [
+      {
+        "vocabulary": "health",
+        "transcription": "/helθ/",
+        "meaning": "sức khỏe",
+        "sentenceEng": "Sleep matters more to health than people think.",
+        "sentenceMeaning": "Giấc ngủ quan trọng với sức khỏe hơn người ta nghĩ."
+      },
+      {
+        "vocabulary": "hospital",
+        "transcription": "/ˈhɒspɪtl/",
+        "meaning": "bệnh viện",
+        "sentenceEng": "The hospital is ten minutes away.",
+        "sentenceMeaning": "Bệnh viện cách đây mười phút."
+      },
+      {
+        "vocabulary": "clinic",
+        "transcription": "/ˈklɪnɪk/",
+        "meaning": "phòng khám",
+        "sentenceEng": "The clinic opens at seven.",
+        "sentenceMeaning": "Phòng khám mở cửa lúc bảy giờ."
+      },
+      {
+        "vocabulary": "doctor",
+        "transcription": "/ˈdɒktə(r)/",
+        "meaning": "bác sĩ",
+        "sentenceEng": "Book an appointment with the doctor.",
+        "sentenceMeaning": "Đặt lịch hẹn với bác sĩ."
+      },
+      {
+        "vocabulary": "nurse",
+        "transcription": "/nɜːs/",
+        "meaning": "y tá",
+        "sentenceEng": "The nurse checked his temperature.",
+        "sentenceMeaning": "Y tá đo nhiệt độ cho anh ấy."
+      },
+      {
+        "vocabulary": "patient",
+        "transcription": "/ˈpeɪʃnt/",
+        "meaning": "bệnh nhân",
+        "sentenceEng": "The patient waited in the corridor.",
+        "sentenceMeaning": "Bệnh nhân chờ ở hành lang."
+      },
+      {
+        "vocabulary": "appointment",
+        "transcription": "/əˈpɔɪntmənt/",
+        "meaning": "lịch hẹn",
+        "sentenceEng": "My appointment is at four.",
+        "sentenceMeaning": "Lịch hẹn của tôi lúc bốn giờ."
+      },
+      {
+        "vocabulary": "prescription",
+        "transcription": "/prɪˈskrɪpʃn/",
+        "meaning": "đơn thuốc",
+        "sentenceEng": "The pharmacy needs the prescription.",
+        "sentenceMeaning": "Nhà thuốc cần đơn thuốc."
+      },
+      {
+        "vocabulary": "medicine",
+        "transcription": "/ˈmedsn/",
+        "meaning": "thuốc",
+        "sentenceEng": "Take the medicine after meals.",
+        "sentenceMeaning": "Uống thuốc sau bữa ăn."
+      },
+      {
+        "vocabulary": "pharmacy",
+        "transcription": "/ˈfɑːməsi/",
+        "meaning": "hiệu thuốc",
+        "sentenceEng": "The pharmacy on the corner stays open late.",
+        "sentenceMeaning": "Hiệu thuốc ở góc phố mở đến khuya."
+      },
+      {
+        "vocabulary": "symptom",
+        "transcription": "/ˈsɪmptəm/",
+        "meaning": "triệu chứng",
+        "sentenceEng": "Describe your symptoms to the doctor.",
+        "sentenceMeaning": "Hãy mô tả triệu chứng cho bác sĩ."
+      },
+      {
+        "vocabulary": "fever",
+        "transcription": "/ˈfiːvə(r)/",
+        "meaning": "sốt",
+        "sentenceEng": "He had a fever for two days.",
+        "sentenceMeaning": "Anh ấy sốt hai ngày."
+      },
+      {
+        "vocabulary": "cough",
+        "transcription": "/kɒf/",
+        "meaning": "ho",
+        "sentenceEng": "The cough got worse at night.",
+        "sentenceMeaning": "Cơn ho nặng hơn vào ban đêm."
+      },
+      {
+        "vocabulary": "headache",
+        "transcription": "/ˈhedeɪk/",
+        "meaning": "đau đầu",
+        "sentenceEng": "A headache kept her from working.",
+        "sentenceMeaning": "Cơn đau đầu khiến cô ấy không làm việc được."
+      },
+      {
+        "vocabulary": "cold",
+        "transcription": "/kəʊld/",
+        "meaning": "cảm lạnh",
+        "sentenceEng": "A cold usually clears in a week.",
+        "sentenceMeaning": "Cảm lạnh thường khỏi trong một tuần."
+      },
+      {
+        "vocabulary": "flu",
+        "transcription": "/fluː/",
+        "meaning": "cúm",
+        "sentenceEng": "The flu spreads quickly in offices.",
+        "sentenceMeaning": "Cúm lây nhanh trong văn phòng."
+      },
+      {
+        "vocabulary": "injury",
+        "transcription": "/ˈɪndʒəri/",
+        "meaning": "chấn thương",
+        "sentenceEng": "The injury kept him off the field.",
+        "sentenceMeaning": "Chấn thương khiến anh ấy phải nghỉ thi đấu."
+      },
+      {
+        "vocabulary": "treatment",
+        "transcription": "/ˈtriːtmənt/",
+        "meaning": "điều trị",
+        "sentenceEng": "The treatment lasts six weeks.",
+        "sentenceMeaning": "Việc điều trị kéo dài sáu tuần."
+      },
+      {
+        "vocabulary": "surgery",
+        "transcription": "/ˈsɜːdʒəri/",
+        "meaning": "phẫu thuật",
+        "sentenceEng": "The surgery went smoothly.",
+        "sentenceMeaning": "Ca phẫu thuật diễn ra suôn sẻ."
+      },
+      {
+        "vocabulary": "vaccine",
+        "transcription": "/ˈvæksiːn/",
+        "meaning": "vắc xin",
+        "sentenceEng": "The vaccine is given in two doses.",
+        "sentenceMeaning": "Vắc xin được tiêm hai liều."
+      },
+      {
+        "vocabulary": "recover",
+        "transcription": "/rɪˈkʌvə(r)/",
+        "meaning": "hồi phục",
+        "sentenceEng": "She recovered faster than expected.",
+        "sentenceMeaning": "Cô ấy hồi phục nhanh hơn dự kiến."
+      },
+      {
+        "vocabulary": "checkup",
+        "transcription": "/ˈtʃekʌp/",
+        "meaning": "khám sức khỏe định kỳ",
+        "sentenceEng": "I go for a checkup once a year.",
+        "sentenceMeaning": "Tôi đi khám định kỳ mỗi năm một lần."
+      },
+      {
+        "vocabulary": "emergency",
+        "transcription": "/iˈmɜːdʒənsi/",
+        "meaning": "cấp cứu",
+        "sentenceEng": "Call this number in an emergency.",
+        "sentenceMeaning": "Gọi số này trong trường hợp cấp cứu."
+      },
+      {
+        "vocabulary": "ambulance",
+        "transcription": "/ˈæmbjələns/",
+        "meaning": "xe cứu thương",
+        "sentenceEng": "The ambulance arrived within minutes.",
+        "sentenceMeaning": "Xe cứu thương đến trong vài phút."
+      },
+      {
+        "vocabulary": "bandage",
+        "transcription": "/ˈbændɪdʒ/",
+        "meaning": "băng gạc",
+        "sentenceEng": "Change the bandage every morning.",
+        "sentenceMeaning": "Thay băng mỗi sáng."
+      },
+      {
+        "vocabulary": "insurance",
+        "transcription": "/ɪnˈʃʊərəns/",
+        "meaning": "bảo hiểm",
+        "sentenceEng": "Health insurance covers most of the cost.",
+        "sentenceMeaning": "Bảo hiểm y tế chi trả phần lớn chi phí."
+      },
+      {
+        "vocabulary": "exercise",
+        "transcription": "/ˈeksəsaɪz/",
+        "meaning": "tập thể dục",
+        "sentenceEng": "Regular exercise lowers stress.",
+        "sentenceMeaning": "Tập thể dục đều đặn giúp giảm căng thẳng."
+      },
+      {
+        "vocabulary": "nutrition",
+        "transcription": "/njuˈtrɪʃn/",
+        "meaning": "dinh dưỡng",
+        "sentenceEng": "Good nutrition supports recovery.",
+        "sentenceMeaning": "Dinh dưỡng tốt hỗ trợ hồi phục."
+      }
+    ]
+  },
+  {
+    "topic": "Điện thoại và thư tín",
+    "vocabularies": [
+      {
+        "vocabulary": "phone call",
+        "transcription": "/fəʊn kɔːl/",
+        "meaning": "cuộc gọi",
+        "sentenceEng": "The phone call lasted two minutes.",
+        "sentenceMeaning": "Cuộc gọi kéo dài hai phút."
+      },
+      {
+        "vocabulary": "dial",
+        "transcription": "/ˈdaɪəl/",
+        "meaning": "quay số",
+        "sentenceEng": "Dial the country code first.",
+        "sentenceMeaning": "Quay mã quốc gia trước."
+      },
+      {
+        "vocabulary": "answer",
+        "transcription": "/ˈɑːnsə(r)/",
+        "meaning": "trả lời (điện thoại)",
+        "sentenceEng": "Nobody answered the phone.",
+        "sentenceMeaning": "Không ai nghe máy."
+      },
+      {
+        "vocabulary": "hang up",
+        "transcription": "/hæŋ ʌp/",
+        "meaning": "cúp máy",
+        "sentenceEng": "He hung up before I finished.",
+        "sentenceMeaning": "Anh ấy cúp máy trước khi tôi nói xong."
+      },
+      {
+        "vocabulary": "hold on",
+        "transcription": "/həʊld ɒn/",
+        "meaning": "giữ máy",
+        "sentenceEng": "Hold on, I'll transfer you.",
+        "sentenceMeaning": "Giữ máy nhé, tôi sẽ nối máy cho bạn."
+      },
+      {
+        "vocabulary": "voicemail",
+        "transcription": "/ˈvɔɪsmeɪl/",
+        "meaning": "hộp thư thoại",
+        "sentenceEng": "Leave a message on my voicemail.",
+        "sentenceMeaning": "Để lại lời nhắn trong hộp thư thoại của tôi."
+      },
+      {
+        "vocabulary": "text message",
+        "transcription": "/tekst ˈmesɪdʒ/",
+        "meaning": "tin nhắn",
+        "sentenceEng": "Send a text message if I don't pick up.",
+        "sentenceMeaning": "Nhắn tin nếu tôi không bắt máy."
+      },
+      {
+        "vocabulary": "missed call",
+        "transcription": "/mɪst kɔːl/",
+        "meaning": "cuộc gọi nhỡ",
+        "sentenceEng": "I had three missed calls.",
+        "sentenceMeaning": "Tôi có ba cuộc gọi nhỡ."
+      },
+      {
+        "vocabulary": "ring",
+        "transcription": "/rɪŋ/",
+        "meaning": "đổ chuông",
+        "sentenceEng": "The phone rang during the meeting.",
+        "sentenceMeaning": "Điện thoại đổ chuông giữa cuộc họp."
+      },
+      {
+        "vocabulary": "signal",
+        "transcription": "/ˈsɪɡnəl/",
+        "meaning": "sóng",
+        "sentenceEng": "There is no signal in the basement.",
+        "sentenceMeaning": "Không có sóng ở tầng hầm."
+      },
+      {
+        "vocabulary": "charger",
+        "transcription": "/ˈtʃɑːdʒə(r)/",
+        "meaning": "bộ sạc",
+        "sentenceEng": "I left my charger at the office.",
+        "sentenceMeaning": "Tôi để quên bộ sạc ở văn phòng."
+      },
+      {
+        "vocabulary": "letter",
+        "transcription": "/ˈletə(r)/",
+        "meaning": "lá thư",
+        "sentenceEng": "The letter arrived a week late.",
+        "sentenceMeaning": "Lá thư đến muộn một tuần."
+      },
+      {
+        "vocabulary": "envelope",
+        "transcription": "/ˈenvələʊp/",
+        "meaning": "phong bì",
+        "sentenceEng": "Seal the envelope before posting.",
+        "sentenceMeaning": "Dán phong bì trước khi gửi."
+      },
+      {
+        "vocabulary": "stamp",
+        "transcription": "/stæmp/",
+        "meaning": "tem",
+        "sentenceEng": "This letter needs two stamps.",
+        "sentenceMeaning": "Lá thư này cần hai con tem."
+      },
+      {
+        "vocabulary": "address",
+        "transcription": "/əˈdres/",
+        "meaning": "địa chỉ",
+        "sentenceEng": "Check the address before sending.",
+        "sentenceMeaning": "Kiểm tra địa chỉ trước khi gửi."
+      },
+      {
+        "vocabulary": "postcode",
+        "transcription": "/ˈpəʊstkəʊd/",
+        "meaning": "mã bưu chính",
+        "sentenceEng": "The postcode is missing from the form.",
+        "sentenceMeaning": "Mẫu đơn thiếu mã bưu chính."
+      },
+      {
+        "vocabulary": "post office",
+        "transcription": "/ˈpəʊst ɒfɪs/",
+        "meaning": "bưu điện",
+        "sentenceEng": "The post office closes at five.",
+        "sentenceMeaning": "Bưu điện đóng cửa lúc năm giờ."
+      },
+      {
+        "vocabulary": "parcel",
+        "transcription": "/ˈpɑːsl/",
+        "meaning": "bưu kiện",
+        "sentenceEng": "The parcel is heavier than expected.",
+        "sentenceMeaning": "Bưu kiện nặng hơn dự kiến."
+      },
+      {
+        "vocabulary": "postman",
+        "transcription": "/ˈpəʊstmən/",
+        "meaning": "người đưa thư",
+        "sentenceEng": "The postman comes before noon.",
+        "sentenceMeaning": "Người đưa thư đến trước buổi trưa."
+      },
+      {
+        "vocabulary": "deliver",
+        "transcription": "/dɪˈlɪvə(r)/",
+        "meaning": "giao (thư, hàng)",
+        "sentenceEng": "They deliver on Saturdays too.",
+        "sentenceMeaning": "Họ giao cả vào thứ Bảy."
+      },
+      {
+        "vocabulary": "sender",
+        "transcription": "/ˈsendə(r)/",
+        "meaning": "người gửi",
+        "sentenceEng": "The sender left no return address.",
+        "sentenceMeaning": "Người gửi không để địa chỉ hồi đáp."
+      },
+      {
+        "vocabulary": "recipient",
+        "transcription": "/rɪˈsɪpiənt/",
+        "meaning": "người nhận",
+        "sentenceEng": "The recipient was not at home.",
+        "sentenceMeaning": "Người nhận không có ở nhà."
+      },
+      {
+        "vocabulary": "email",
+        "transcription": "/ˈiːmeɪl/",
+        "meaning": "thư điện tử",
+        "sentenceEng": "I replied to your email this morning.",
+        "sentenceMeaning": "Tôi đã trả lời email của bạn sáng nay."
+      },
+      {
+        "vocabulary": "inbox",
+        "transcription": "/ˈɪnbɒks/",
+        "meaning": "hộp thư đến",
+        "sentenceEng": "My inbox is full of newsletters.",
+        "sentenceMeaning": "Hộp thư đến của tôi đầy bản tin."
+      },
+      {
+        "vocabulary": "reply",
+        "transcription": "/rɪˈplaɪ/",
+        "meaning": "hồi âm",
+        "sentenceEng": "A short reply is enough.",
+        "sentenceMeaning": "Một hồi âm ngắn là đủ."
+      },
+      {
+        "vocabulary": "forward",
+        "transcription": "/ˈfɔːwəd/",
+        "meaning": "chuyển tiếp",
+        "sentenceEng": "Forward the thread to the team.",
+        "sentenceMeaning": "Chuyển tiếp chuỗi thư cho cả nhóm."
+      },
+      {
+        "vocabulary": "attachment",
+        "transcription": "/əˈtætʃmənt/",
+        "meaning": "tệp đính kèm",
+        "sentenceEng": "You forgot the attachment again.",
+        "sentenceMeaning": "Bạn lại quên tệp đính kèm rồi."
+      },
+      {
+        "vocabulary": "urgent",
+        "transcription": "/ˈɜːdʒənt/",
+        "meaning": "khẩn",
+        "sentenceEng": "Mark the message as urgent.",
+        "sentenceMeaning": "Đánh dấu thư là khẩn."
+      }
+    ]
+  },
+  {
+    "topic": "Truyền hình và báo chí",
+    "vocabularies": [
+      {
+        "vocabulary": "television",
+        "transcription": "/ˈtelɪvɪʒn/",
+        "meaning": "truyền hình",
+        "sentenceEng": "Television still reaches older viewers.",
+        "sentenceMeaning": "Truyền hình vẫn tiếp cận được khán giả lớn tuổi."
+      },
+      {
+        "vocabulary": "channel",
+        "transcription": "/ˈtʃænl/",
+        "meaning": "kênh",
+        "sentenceEng": "This channel shows documentaries.",
+        "sentenceMeaning": "Kênh này chiếu phim tài liệu."
+      },
+      {
+        "vocabulary": "programme",
+        "transcription": "/ˈprəʊɡræm/",
+        "meaning": "chương trình",
+        "sentenceEng": "The programme airs on Thursdays.",
+        "sentenceMeaning": "Chương trình phát sóng vào thứ Năm."
+      },
+      {
+        "vocabulary": "broadcast",
+        "transcription": "/ˈbrɔːdkɑːst/",
+        "meaning": "phát sóng",
+        "sentenceEng": "The match was broadcast live.",
+        "sentenceMeaning": "Trận đấu được phát sóng trực tiếp."
+      },
+      {
+        "vocabulary": "news",
+        "transcription": "/njuːz/",
+        "meaning": "tin tức",
+        "sentenceEng": "The news covered the storm all day.",
+        "sentenceMeaning": "Tin tức đưa tin về cơn bão cả ngày."
+      },
+      {
+        "vocabulary": "newspaper",
+        "transcription": "/ˈnjuːzpeɪpə(r)/",
+        "meaning": "báo giấy",
+        "sentenceEng": "He reads a newspaper every morning.",
+        "sentenceMeaning": "Ông ấy đọc báo mỗi sáng."
+      },
+      {
+        "vocabulary": "magazine",
+        "transcription": "/ˌmæɡəˈziːn/",
+        "meaning": "tạp chí",
+        "sentenceEng": "The magazine comes out monthly.",
+        "sentenceMeaning": "Tạp chí ra hằng tháng."
+      },
+      {
+        "vocabulary": "headline",
+        "transcription": "/ˈhedlaɪn/",
+        "meaning": "tiêu đề báo",
+        "sentenceEng": "The headline was misleading.",
+        "sentenceMeaning": "Tiêu đề gây hiểu lầm."
+      },
+      {
+        "vocabulary": "article",
+        "transcription": "/ˈɑːtɪkl/",
+        "meaning": "bài báo",
+        "sentenceEng": "The article cited three sources.",
+        "sentenceMeaning": "Bài báo trích dẫn ba nguồn."
+      },
+      {
+        "vocabulary": "journalist",
+        "transcription": "/ˈdʒɜːnəlɪst/",
+        "meaning": "nhà báo",
+        "sentenceEng": "The journalist verified the claim.",
+        "sentenceMeaning": "Nhà báo đã kiểm chứng thông tin đó."
+      },
+      {
+        "vocabulary": "reporter",
+        "transcription": "/rɪˈpɔːtə(r)/",
+        "meaning": "phóng viên",
+        "sentenceEng": "A reporter waited outside the court.",
+        "sentenceMeaning": "Một phóng viên chờ bên ngoài tòa."
+      },
+      {
+        "vocabulary": "editor",
+        "transcription": "/ˈedɪtə(r)/",
+        "meaning": "biên tập viên",
+        "sentenceEng": "The editor cut the last paragraph.",
+        "sentenceMeaning": "Biên tập viên cắt đoạn cuối."
+      },
+      {
+        "vocabulary": "interview",
+        "transcription": "/ˈɪntəvjuː/",
+        "meaning": "cuộc phỏng vấn",
+        "sentenceEng": "The interview ran on the front page.",
+        "sentenceMeaning": "Cuộc phỏng vấn được đăng trang nhất."
+      },
+      {
+        "vocabulary": "press",
+        "transcription": "/pres/",
+        "meaning": "báo chí",
+        "sentenceEng": "The press was not allowed inside.",
+        "sentenceMeaning": "Báo chí không được phép vào trong."
+      },
+      {
+        "vocabulary": "media",
+        "transcription": "/ˈmiːdiə/",
+        "meaning": "truyền thông",
+        "sentenceEng": "Local media picked up the story.",
+        "sentenceMeaning": "Truyền thông địa phương đưa lại câu chuyện."
+      },
+      {
+        "vocabulary": "audience",
+        "transcription": "/ˈɔːdiəns/",
+        "meaning": "khán giả",
+        "sentenceEng": "The show lost half its audience.",
+        "sentenceMeaning": "Chương trình mất một nửa khán giả."
+      },
+      {
+        "vocabulary": "live",
+        "transcription": "/laɪv/",
+        "meaning": "trực tiếp",
+        "sentenceEng": "The debate went out live.",
+        "sentenceMeaning": "Cuộc tranh luận được phát trực tiếp."
+      },
+      {
+        "vocabulary": "documentary",
+        "transcription": "/ˌdɒkjuˈmentri/",
+        "meaning": "phim tài liệu",
+        "sentenceEng": "The documentary took two years to make.",
+        "sentenceMeaning": "Bộ phim tài liệu mất hai năm để thực hiện."
+      },
+      {
+        "vocabulary": "series",
+        "transcription": "/ˈsɪəriːz/",
+        "meaning": "loạt phim, sê-ri",
+        "sentenceEng": "The series has six episodes.",
+        "sentenceMeaning": "Loạt phim có sáu tập."
+      },
+      {
+        "vocabulary": "episode",
+        "transcription": "/ˈepɪsəʊd/",
+        "meaning": "tập phim",
+        "sentenceEng": "The last episode airs on Sunday.",
+        "sentenceMeaning": "Tập cuối phát sóng Chủ nhật."
+      },
+      {
+        "vocabulary": "advertisement",
+        "transcription": "/ədˈvɜːtɪsmənt/",
+        "meaning": "quảng cáo",
+        "sentenceEng": "The advertisement repeats too often.",
+        "sentenceMeaning": "Quảng cáo lặp lại quá nhiều."
+      },
+      {
+        "vocabulary": "subscribe",
+        "transcription": "/səbˈskraɪb/",
+        "meaning": "đăng ký theo dõi",
+        "sentenceEng": "Subscribe to get the weekly digest.",
+        "sentenceMeaning": "Đăng ký để nhận bản tin hằng tuần."
+      },
+      {
+        "vocabulary": "column",
+        "transcription": "/ˈkɒləm/",
+        "meaning": "chuyên mục",
+        "sentenceEng": "She writes a weekly column.",
+        "sentenceMeaning": "Cô ấy viết một chuyên mục hằng tuần."
+      },
+      {
+        "vocabulary": "publish",
+        "transcription": "/ˈpʌblɪʃ/",
+        "meaning": "xuất bản, đăng",
+        "sentenceEng": "They published the correction quietly.",
+        "sentenceMeaning": "Họ đăng cải chính một cách lặng lẽ."
+      },
+      {
+        "vocabulary": "source",
+        "transcription": "/sɔːs/",
+        "meaning": "nguồn tin",
+        "sentenceEng": "The source asked to stay anonymous.",
+        "sentenceMeaning": "Nguồn tin đề nghị giấu tên."
+      },
+      {
+        "vocabulary": "coverage",
+        "transcription": "/ˈkʌvərɪdʒ/",
+        "meaning": "sự đưa tin",
+        "sentenceEng": "Coverage of the event was thin.",
+        "sentenceMeaning": "Việc đưa tin về sự kiện khá mỏng."
+      },
+      {
+        "vocabulary": "censorship",
+        "transcription": "/ˈsensəʃɪp/",
+        "meaning": "kiểm duyệt",
+        "sentenceEng": "Censorship rules vary by country.",
+        "sentenceMeaning": "Quy định kiểm duyệt khác nhau theo từng nước."
+      },
+      {
+        "vocabulary": "fake news",
+        "transcription": "/feɪk njuːz/",
+        "meaning": "tin giả",
+        "sentenceEng": "Fake news spreads faster than corrections.",
+        "sentenceMeaning": "Tin giả lan nhanh hơn cả tin cải chính."
+      }
+    ]
+  }
+]

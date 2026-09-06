@@ -16,7 +16,7 @@ import { isUsernameOrEmailTaken, registerUser } from '../storage/userStorage';
 
 type Props = {
   onNavigateToLogin: () => void;
-  onRegisterSuccess: () => void;
+  onRegisterSuccess: (fullName: string) => void;
 };
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -86,21 +86,22 @@ export default function RegisterScreen({ onNavigateToLogin, onRegisterSuccess }:
         return;
       }
 
+      const fullName = form.fullName.trim();
       await registerUser({
-        fullName: form.fullName.trim(),
+        fullName,
         username: form.username.trim(),
         email: form.email.trim(),
         password: form.password,
       });
 
-      onRegisterSuccess();
+      onRegisterSuccess(fullName);
     } finally {
       setSubmitting(false);
     }
   };
 
   return (
-    <KeyboardAvoidingView style={styles.flex} behavior={Platform.OS === 'ios' ? 'padding' : undefined}>
+    <KeyboardAvoidingView style={styles.flex} behavior={Platform.OS === 'ios' ? 'padding' : 'height'}>
       <ScrollView contentContainerStyle={styles.container} keyboardShouldPersistTaps="handled">
         <Text style={styles.title}>
           Tạo tài khoản <Text style={styles.titleBrand}>EngUt</Text>
