@@ -12,6 +12,7 @@ English-learning app (Expo/React Native). Helps users memorize vocabulary fast b
 - `@react-native-async-storage/async-storage` — all local persistence (accounts, word groups).
 - `@expo/vector-icons` (Ionicons) — UI icons (buttons, form fields, nav).
 - Cute per-topic/menu illustrations are PNGs downloaded from Google's **Noto Emoji** repo (Apache 2.0, no attribution required) into `assets/topics/` and `assets/menu/` — see "Sourcing images" below.
+- `expo-speech` — on-device text-to-speech for the flash card word-pronunciation button (`Speech.speak(word, { language: 'en-US' })`); no network call, so it doesn't break offline-first.
 - Web support (`react-dom`, `react-native-web`, `@expo/metro-runtime`) is installed so the app can also run via `npx expo start --web`, useful for fast iteration/testing without a device.
 
 ## Screen flow (state machine in `App.tsx`)
@@ -29,11 +30,15 @@ Login ──(register link)──> Register ──(success, auto-login)──┐
                                                                        ▼
                                                                  FlashCardScreen
                                                           (tap "Nhóm từ" → CreateGroupModal popup)
+                                                                       │ tap an existing group card
+                                                                       ▼
+                                                              FlashCardStudyScreen
 ```
 
 - Login and Register both land on **Home** directly on success (register auto-logs-in; it no longer bounces back to Login).
 - Any not-yet-built destination (Ngữ Pháp / Luyện Tập / Kiểm tra menu items, "Dò bài ngẫu nhiên") routes to the generic `SuccessScreen` placeholder (shows "SUCCESS" + subtitle + a labeled back button). This is the standing pattern for stubbing out future features — always give tap feedback and a way back, never a dead click.
-- Home and TopicDetail (and FlashCard) share the exact same header via `src/components/AppHeaderCard.tsx` (logo + greeting + progress bar + logout button). When a design says "keep the header as-is", it means reuse this component unchanged rather than re-implementing it.
+- Home and TopicDetail (and FlashCard, and FlashCardStudy) share the exact same header via `src/components/AppHeaderCard.tsx` (logo + greeting + progress bar + logout button). When a design says "keep the header as-is", it means reuse this component unchanged rather than re-implementing it.
+- `src/screens/FlashCardStudyScreen.tsx` is the actual flip-card study view for one word group (opened by tapping a group card in `FlashCardScreen`): a two-sided card (front = word/phonetic/example in the active direction, back = the translation, flipped via `Animated` rotateY), a single `PanResponder` handling both tap-to-flip and horizontal swipe-to-navigate (swipe right = next word, swipe left = previous — matches the user's stated direction, not the more common inverse), an EN-VN/VN-EN direction toggle, a position counter, and a shuffle toggle that reshuffles `order` (an index array separate from the group's stored `wordIndices`, so shuffling never mutates storage). Word audio uses `expo-speech`'s `Speech.speak(text, { language: 'en-US' })` — the only "audio" dependency in the app, still fully on-device (TTS, no network/API call).
 
 ## Data
 

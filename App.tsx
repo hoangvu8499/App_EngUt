@@ -6,10 +6,13 @@ import RegisterScreen from './src/screens/RegisterScreen';
 import HomeScreen from './src/screens/HomeScreen';
 import TopicDetailScreen, { TopicMenuKey } from './src/screens/TopicDetailScreen';
 import FlashCardScreen, { FlashCardAction } from './src/screens/FlashCardScreen';
+import FlashCardStudyScreen from './src/screens/FlashCardStudyScreen';
 import SuccessScreen from './src/screens/SuccessScreen';
 import { seedDefaultUser } from './src/storage/userStorage';
+import { topics } from './src/data/topics';
+import { WordGroup } from './src/data/wordGroups';
 
-type Screen = 'login' | 'register' | 'home' | 'topicDetail' | 'flashCard' | 'placeholderSuccess';
+type Screen = 'login' | 'register' | 'home' | 'topicDetail' | 'flashCard' | 'flashCardStudy' | 'placeholderSuccess';
 type SuccessReturnTo = 'topicDetail' | 'flashCard';
 
 const MENU_LABELS: Record<TopicMenuKey, string> = {
@@ -29,6 +32,7 @@ export default function App() {
   const [selectedTopic, setSelectedTopic] = useState('');
   const [placeholderSubtitle, setPlaceholderSubtitle] = useState('');
   const [successReturnTo, setSuccessReturnTo] = useState<SuccessReturnTo>('topicDetail');
+  const [selectedGroup, setSelectedGroup] = useState<WordGroup | null>(null);
 
   useEffect(() => {
     seedDefaultUser();
@@ -91,11 +95,23 @@ export default function App() {
             setScreen('placeholderSuccess');
           }}
           onSelectGroup={(group) => {
-            setPlaceholderSubtitle(`${selectedTopic} · ${group.name}`);
-            setSuccessReturnTo('flashCard');
-            setScreen('placeholderSuccess');
+            setSelectedGroup(group);
+            setScreen('flashCardStudy');
           }}
           onBackToHome={() => setScreen('home')}
+          onLogout={() => setScreen('login')}
+        />
+      )}
+      {screen === 'flashCardStudy' && selectedGroup && (
+        <FlashCardStudyScreen
+          fullName={fullName}
+          topicName={selectedTopic}
+          groupName={selectedGroup.name}
+          groupColor={selectedGroup.color}
+          words={selectedGroup.wordIndices
+            .map((index) => topics.find((item) => item.topic === selectedTopic)?.vocabularies[index])
+            .filter((word): word is NonNullable<typeof word> => Boolean(word))}
+          onBackToFlashCard={() => setScreen('flashCard')}
           onLogout={() => setScreen('login')}
         />
       )}
