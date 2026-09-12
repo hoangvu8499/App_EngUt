@@ -1,0 +1,47 @@
+# Usage:
+#   docker compose up dev       # Expo web dev server with live reload -> http://localhost:8081
+#   docker compose run --rm test # tsc --noEmit, matches CLAUDE.md's "type-check after every change"
+#   docker compose up preprod   # serves the real static export -> http://localhost:8082
+#   docker compose up prod      # nginx serving the same export   -> http://localhost:8080
+#
+# Native Android/iOS builds are out of scope here — this project is offline-first
+# with no backend, and native builds need a device/emulator or EAS, not a container.
+
+services:
+  dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: dev
+    ports:
+      - "8081:8081"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - EXPO_NO_TELEMETRY=1
+
+  test:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: test
+    volumes:
+      - .:/app
+      - /app/node_modules
+
+  preprod:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: preprod
+    ports:
+      - "8082:8081"
+
+  prod:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: prod
+    ports:
+      - "8080:80"

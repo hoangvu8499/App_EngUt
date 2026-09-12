@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react';
-import { Animated, PanResponder, Pressable, StyleSheet, Text, View } from 'react-native';
+import { Alert, Animated, PanResponder, Pressable, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import * as Speech from 'expo-speech';
 
@@ -89,26 +89,27 @@ export default function FlashCardStudyScreen({
 
   const handleSpeak = () => {
     if (word) {
-      Speech.speak(word.vocabulary, { language: 'en-US' });
+      Speech.speak(word.vocabulary, {
+        language: 'en-US',
+        onError: (error) => Alert.alert('Không thể phát âm', error.message),
+      });
     }
   };
 
-  const panResponder = useRef(
-    PanResponder.create({
-      onStartShouldSetPanResponder: () => false,
-      onMoveShouldSetPanResponder: (_, gesture) =>
-        Math.abs(gesture.dx) > 15 && Math.abs(gesture.dx) > Math.abs(gesture.dy) * 1.5,
-      onPanResponderRelease: (_, gesture) => {
-        if (Math.abs(gesture.dx) < TAP_TOLERANCE && Math.abs(gesture.dy) < TAP_TOLERANCE) {
-          handleFlip();
-        } else if (gesture.dx > SWIPE_THRESHOLD) {
-          goTo(position + 1);
-        } else if (gesture.dx < -SWIPE_THRESHOLD) {
-          goTo(position - 1);
-        }
-      },
-    })
-  ).current;
+  const panResponder = PanResponder.create({
+    onStartShouldSetPanResponder: () => true,
+    onMoveShouldSetPanResponder: (_, gesture) =>
+      Math.abs(gesture.dx) > 15 && Math.abs(gesture.dx) > Math.abs(gesture.dy) * 1.5,
+    onPanResponderRelease: (_, gesture) => {
+      if (Math.abs(gesture.dx) < TAP_TOLERANCE && Math.abs(gesture.dy) < TAP_TOLERANCE) {
+        handleFlip();
+      } else if (gesture.dx > SWIPE_THRESHOLD) {
+        goTo(position + 1);
+      } else if (gesture.dx < -SWIPE_THRESHOLD) {
+        goTo(position - 1);
+      }
+    },
+  });
 
   if (!word) {
     return (

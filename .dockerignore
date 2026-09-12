@@ -1,0 +1,11 @@
+node_modules
+.expo
+dist
+web-build
+.git
+.gitignore
+android
+ios
+*.tsbuildinfo
+expo-env.d.ts
+.DS_Store
