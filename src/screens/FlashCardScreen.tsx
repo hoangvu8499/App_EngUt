@@ -9,24 +9,21 @@ import { WordGroup } from '../data/wordGroups';
 import { addWordGroup, getGroupsForTopic } from '../storage/wordGroupStorage';
 import AppHeaderCard from '../components/AppHeaderCard';
 import CreateGroupModal from '../components/CreateGroupModal';
-
-export type FlashCardAction = 'random';
+import RandomReviewModal from '../components/RandomReviewModal';
 
 type Props = {
   fullName: string;
   topicName: string;
-  onSelectAction: (action: FlashCardAction) => void;
   onSelectGroup: (group: WordGroup) => void;
-  onBackToHome: () => void;
+  onBackToTopicDetail: () => void;
   onLogout: () => void;
 };
 
 export default function FlashCardScreen({
   fullName,
   topicName,
-  onSelectAction,
   onSelectGroup,
-  onBackToHome,
+  onBackToTopicDetail,
   onLogout,
 }: Props) {
   const progressPercent = getProgressPercent();
@@ -34,6 +31,7 @@ export default function FlashCardScreen({
 
   const [groups, setGroups] = useState<WordGroup[]>([]);
   const [modalVisible, setModalVisible] = useState(false);
+  const [randomReviewVisible, setRandomReviewVisible] = useState(false);
 
   const loadGroups = useCallback(async () => {
     const stored = await getGroupsForTopic(topicName);
@@ -71,7 +69,10 @@ export default function FlashCardScreen({
             <Ionicons name="folder-outline" size={20} color={colors.primary} />
             <Text style={styles.actionButtonText}>Nhóm từ</Text>
           </Pressable>
-          <Pressable style={[styles.actionButton, styles.actionButtonOrange]} onPress={() => onSelectAction('random')}>
+          <Pressable
+            style={[styles.actionButton, styles.actionButtonOrange]}
+            onPress={() => setRandomReviewVisible(true)}
+          >
             <Ionicons name="dice-outline" size={20} color="#D97706" />
             <Text style={styles.actionButtonText}>Dò bài ngẫu nhiên</Text>
           </Pressable>
@@ -113,9 +114,9 @@ export default function FlashCardScreen({
         )}
       </ScrollView>
 
-      <Pressable style={styles.homeButton} onPress={onBackToHome}>
-        <Ionicons name="home" size={18} color="#FFFFFF" />
-        <Text style={styles.homeButtonText}>Trở về Trang chủ</Text>
+      <Pressable style={styles.homeButton} onPress={onBackToTopicDetail}>
+        <Ionicons name="arrow-back" size={18} color="#FFFFFF" />
+        <Text style={styles.homeButtonText}>Trở về Chủ đề</Text>
       </Pressable>
 
       <CreateGroupModal
@@ -124,6 +125,12 @@ export default function FlashCardScreen({
         existingGroups={groups}
         onClose={() => setModalVisible(false)}
         onConfirm={handleConfirmGroup}
+      />
+
+      <RandomReviewModal
+        visible={randomReviewVisible}
+        words={vocabularies}
+        onClose={() => setRandomReviewVisible(false)}
       />
     </View>
   );
