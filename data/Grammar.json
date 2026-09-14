@@ -1,0 +1,558 @@
+[
+  {
+    "topic": "Cơ thể con người",
+    "title": "Thì hiện tại đơn",
+    "titleEnglish": "Simple Present",
+    "usage": [
+      "Diễn tả thói quen, hành động lặp đi lặp lại thường xuyên.",
+      "Diễn tả sự thật hiển nhiên, chân lý, quy luật tự nhiên.",
+      "Diễn tả lịch trình, thời gian biểu cố định (tàu, xe, phim...)."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + V(s/es) (với động từ thường) / S + am/is/are + N/Adj" },
+      { "label": "Phủ định", "formula": "S + do/does not + V(nguyên mẫu)" },
+      { "label": "Nghi vấn", "formula": "Do/Does + S + V(nguyên mẫu)?" }
+    ],
+    "signalWords": "always, usually, often, sometimes, never, every day/week/year",
+    "examples": [
+      { "sentenceEng": "She works at a hospital every day.", "sentenceMeaning": "Cô ấy làm việc ở bệnh viện mỗi ngày." },
+      { "sentenceEng": "Water boils at 100 degrees Celsius.", "sentenceMeaning": "Nước sôi ở 100 độ C." },
+      { "sentenceEng": "The train leaves at 7 a.m. sharp.", "sentenceMeaning": "Tàu khởi hành lúc 7 giờ sáng đúng." },
+      { "sentenceEng": "I do not drink coffee in the evening.", "sentenceMeaning": "Tôi không uống cà phê vào buổi tối." },
+      { "sentenceEng": "Does he play football on weekends?", "sentenceMeaning": "Anh ấy có chơi bóng đá vào cuối tuần không?" }
+    ]
+  },
+  {
+    "topic": "Ngoại hình",
+    "title": "Thì hiện tại tiếp diễn",
+    "titleEnglish": "Present Continuous",
+    "usage": [
+      "Diễn tả hành động đang xảy ra ngay tại thời điểm nói.",
+      "Diễn tả hành động tạm thời đang diễn ra trong một khoảng thời gian gần hiện tại.",
+      "Diễn tả một kế hoạch đã được sắp xếp trong tương lai gần."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + am/is/are + V-ing" },
+      { "label": "Phủ định", "formula": "S + am/is/are + not + V-ing" },
+      { "label": "Nghi vấn", "formula": "Am/Is/Are + S + V-ing?" }
+    ],
+    "signalWords": "now, right now, at the moment, at present, Look!, Listen!",
+    "examples": [
+      { "sentenceEng": "I am reading an English grammar book now.", "sentenceMeaning": "Bây giờ tôi đang đọc một cuốn sách ngữ pháp tiếng Anh." },
+      { "sentenceEng": "They are building a new bridge this year.", "sentenceMeaning": "Năm nay họ đang xây một cây cầu mới." },
+      { "sentenceEng": "Listen! Someone is knocking on the door.", "sentenceMeaning": "Nghe kìa! Có ai đó đang gõ cửa." },
+      { "sentenceEng": "She is not watching TV at the moment.", "sentenceMeaning": "Cô ấy hiện không đang xem tivi." },
+      { "sentenceEng": "Are you meeting your friends tomorrow evening?", "sentenceMeaning": "Bạn có gặp bạn bè vào tối mai không?" }
+    ]
+  },
+  {
+    "topic": "Tính cách",
+    "title": "Thì hiện tại hoàn thành",
+    "titleEnglish": "Present Perfect",
+    "usage": [
+      "Diễn tả hành động xảy ra trong quá khứ nhưng còn liên quan/ảnh hưởng đến hiện tại.",
+      "Diễn tả kinh nghiệm, trải nghiệm tính đến thời điểm hiện tại.",
+      "Diễn tả hành động vừa mới xảy ra."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + have/has + V3/ed" },
+      { "label": "Phủ định", "formula": "S + have/has + not + V3/ed" },
+      { "label": "Nghi vấn", "formula": "Have/Has + S + V3/ed?" }
+    ],
+    "signalWords": "already, just, yet, ever, never, since, for, so far, recently",
+    "examples": [
+      { "sentenceEng": "I have already finished my homework.", "sentenceMeaning": "Tôi đã làm xong bài tập về nhà rồi." },
+      { "sentenceEng": "She has lived in Hanoi for ten years.", "sentenceMeaning": "Cô ấy đã sống ở Hà Nội được mười năm." },
+      { "sentenceEng": "Have you ever been to Japan?", "sentenceMeaning": "Bạn đã bao giờ đến Nhật Bản chưa?" },
+      { "sentenceEng": "We have not seen that movie yet.", "sentenceMeaning": "Chúng tôi chưa xem bộ phim đó." },
+      { "sentenceEng": "He has just arrived at the airport.", "sentenceMeaning": "Anh ấy vừa mới đến sân bay." }
+    ]
+  },
+  {
+    "topic": "Cảm xúc",
+    "title": "Thì hiện tại hoàn thành tiếp diễn",
+    "titleEnglish": "Present Perfect Continuous",
+    "usage": [
+      "Nhấn mạnh tính liên tục của hành động bắt đầu trong quá khứ và kéo dài đến hiện tại.",
+      "Diễn tả hành động vừa mới kết thúc và có kết quả/ảnh hưởng rõ ràng ở hiện tại.",
+      "Nhấn mạnh khoảng thời gian diễn ra hành động (dùng với for/since)."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + have/has + been + V-ing" },
+      { "label": "Phủ định", "formula": "S + have/has + not + been + V-ing" },
+      { "label": "Nghi vấn", "formula": "Have/Has + S + been + V-ing?" }
+    ],
+    "signalWords": "for, since, all day, all week, recently, lately",
+    "examples": [
+      { "sentenceEng": "I have been studying English for three hours.", "sentenceMeaning": "Tôi đã học tiếng Anh được ba tiếng đồng hồ rồi." },
+      { "sentenceEng": "She has been working here since 2019.", "sentenceMeaning": "Cô ấy đã làm việc ở đây từ năm 2019." },
+      { "sentenceEng": "Why are your clothes wet? Have you been swimming?", "sentenceMeaning": "Sao quần áo bạn ướt vậy? Bạn vừa mới đi bơi à?" },
+      { "sentenceEng": "They have not been talking to each other recently.", "sentenceMeaning": "Gần đây họ không nói chuyện với nhau." },
+      { "sentenceEng": "Has he been waiting for you long?", "sentenceMeaning": "Anh ấy đã đợi bạn lâu chưa?" }
+    ]
+  },
+  {
+    "topic": "Gia đình",
+    "title": "Thì quá khứ đơn",
+    "titleEnglish": "Simple Past",
+    "usage": [
+      "Diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ, có thời gian xác định.",
+      "Diễn tả các hành động xảy ra liên tiếp trong quá khứ.",
+      "Diễn tả thói quen trong quá khứ nay không còn nữa."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + V2/ed" },
+      { "label": "Phủ định", "formula": "S + did not + V(nguyên mẫu)" },
+      { "label": "Nghi vấn", "formula": "Did + S + V(nguyên mẫu)?" }
+    ],
+    "signalWords": "yesterday, last night/week/year, ago, in 2010, when I was young",
+    "examples": [
+      { "sentenceEng": "I visited my grandparents last weekend.", "sentenceMeaning": "Tôi đã đến thăm ông bà vào cuối tuần trước." },
+      { "sentenceEng": "She graduated from university two years ago.", "sentenceMeaning": "Cô ấy tốt nghiệp đại học hai năm trước." },
+      { "sentenceEng": "They did not go to the party last night.", "sentenceMeaning": "Tối qua họ đã không đi dự tiệc." },
+      { "sentenceEng": "Did you finish the report yesterday?", "sentenceMeaning": "Bạn đã hoàn thành báo cáo hôm qua chưa?" },
+      { "sentenceEng": "When I was a child, I played in this park every day.", "sentenceMeaning": "Khi tôi còn nhỏ, tôi chơi ở công viên này mỗi ngày." }
+    ]
+  },
+  {
+    "topic": "Sở thích",
+    "title": "Thì quá khứ tiếp diễn",
+    "titleEnglish": "Past Continuous",
+    "usage": [
+      "Diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ.",
+      "Diễn tả hành động đang diễn ra thì bị một hành động khác xen vào.",
+      "Diễn tả hai hành động xảy ra song song trong quá khứ."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + was/were + V-ing" },
+      { "label": "Phủ định", "formula": "S + was/were + not + V-ing" },
+      { "label": "Nghi vấn", "formula": "Was/Were + S + V-ing?" }
+    ],
+    "signalWords": "at 8 p.m. last night, while, when, at this time yesterday",
+    "examples": [
+      { "sentenceEng": "I was cooking dinner at 7 p.m. yesterday.", "sentenceMeaning": "Lúc 7 giờ tối hôm qua tôi đang nấu bữa tối." },
+      { "sentenceEng": "While she was studying, her phone rang.", "sentenceMeaning": "Trong khi cô ấy đang học bài thì điện thoại reo." },
+      { "sentenceEng": "They were watching TV when the lights went out.", "sentenceMeaning": "Họ đang xem tivi thì mất điện." },
+      { "sentenceEng": "He was not paying attention during the meeting.", "sentenceMeaning": "Anh ấy đã không tập trung trong suốt cuộc họp." },
+      { "sentenceEng": "What were you doing at this time yesterday?", "sentenceMeaning": "Vào giờ này hôm qua bạn đang làm gì?" }
+    ]
+  },
+  {
+    "topic": "Quần áo và thời trang",
+    "title": "Thì quá khứ hoàn thành",
+    "titleEnglish": "Past Perfect",
+    "usage": [
+      "Diễn tả hành động xảy ra trước một hành động/thời điểm khác trong quá khứ.",
+      "Nhấn mạnh hành động nào xảy ra trước trong hai hành động quá khứ.",
+      "Thường dùng trong câu điều kiện loại 3 và câu tường thuật."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + had + V3/ed" },
+      { "label": "Phủ định", "formula": "S + had not + V3/ed" },
+      { "label": "Nghi vấn", "formula": "Had + S + V3/ed?" }
+    ],
+    "signalWords": "before, after, by the time, already (khi kết hợp với quá khứ đơn)",
+    "examples": [
+      { "sentenceEng": "By the time I arrived, the meeting had already started.", "sentenceMeaning": "Đến lúc tôi tới nơi thì cuộc họp đã bắt đầu rồi." },
+      { "sentenceEng": "She had finished her work before he came home.", "sentenceMeaning": "Cô ấy đã hoàn thành công việc trước khi anh ấy về nhà." },
+      { "sentenceEng": "They had never seen snow before they moved to Canada.", "sentenceMeaning": "Họ chưa từng thấy tuyết trước khi chuyển đến Canada." },
+      { "sentenceEng": "Had you eaten breakfast before you left this morning?", "sentenceMeaning": "Sáng nay bạn đã ăn sáng trước khi rời đi chưa?" },
+      { "sentenceEng": "I had not read that book before the film came out.", "sentenceMeaning": "Tôi đã chưa đọc cuốn sách đó trước khi phim ra mắt." }
+    ]
+  },
+  {
+    "topic": "Mua sắm",
+    "title": "Thì quá khứ hoàn thành tiếp diễn",
+    "titleEnglish": "Past Perfect Continuous",
+    "usage": [
+      "Nhấn mạnh tính liên tục của một hành động xảy ra trước một hành động khác trong quá khứ.",
+      "Diễn tả nguyên nhân dẫn đến một kết quả trong quá khứ.",
+      "Nhấn mạnh khoảng thời gian hành động diễn ra trước một mốc quá khứ khác."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + had been + V-ing" },
+      { "label": "Phủ định", "formula": "S + had not been + V-ing" },
+      { "label": "Nghi vấn", "formula": "Had + S + been + V-ing?" }
+    ],
+    "signalWords": "for, since, before, by the time",
+    "examples": [
+      { "sentenceEng": "She was tired because she had been working all day.", "sentenceMeaning": "Cô ấy mệt vì đã làm việc suốt cả ngày." },
+      { "sentenceEng": "They had been living in Paris for five years before they moved.", "sentenceMeaning": "Họ đã sống ở Paris được năm năm trước khi chuyển đi." },
+      { "sentenceEng": "He had been studying English for two years before he passed the exam.", "sentenceMeaning": "Anh ấy đã học tiếng Anh được hai năm trước khi đỗ kỳ thi." },
+      { "sentenceEng": "It had not been raining long when we left the house.", "sentenceMeaning": "Trời đã mưa chưa lâu khi chúng tôi rời khỏi nhà." },
+      { "sentenceEng": "Had you been waiting long before the bus arrived?", "sentenceMeaning": "Bạn đã đợi lâu trước khi xe buýt đến chưa?" }
+    ]
+  },
+  {
+    "topic": "Du lịch",
+    "title": "Thì tương lai đơn",
+    "titleEnglish": "Simple Future (will)",
+    "usage": [
+      "Diễn tả quyết định tức thời tại thời điểm nói.",
+      "Diễn tả dự đoán không có căn cứ rõ ràng về tương lai.",
+      "Diễn tả lời hứa, đề nghị, lời mời trong tương lai."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + will + V(nguyên mẫu)" },
+      { "label": "Phủ định", "formula": "S + will not (won't) + V(nguyên mẫu)" },
+      { "label": "Nghi vấn", "formula": "Will + S + V(nguyên mẫu)?" }
+    ],
+    "signalWords": "tomorrow, next week/month/year, soon, in the future, I think/promise",
+    "examples": [
+      { "sentenceEng": "I will call you as soon as I arrive.", "sentenceMeaning": "Tôi sẽ gọi cho bạn ngay khi tôi đến." },
+      { "sentenceEng": "I think it will rain tomorrow.", "sentenceMeaning": "Tôi nghĩ ngày mai trời sẽ mưa." },
+      { "sentenceEng": "She will help you with your homework.", "sentenceMeaning": "Cô ấy sẽ giúp bạn làm bài tập về nhà." },
+      { "sentenceEng": "They will not attend the conference next month.", "sentenceMeaning": "Họ sẽ không tham dự hội nghị vào tháng tới." },
+      { "sentenceEng": "Will you marry me?", "sentenceMeaning": "Em sẽ lấy anh chứ?" }
+    ]
+  },
+  {
+    "topic": "Trường học",
+    "title": "Thì tương lai gần",
+    "titleEnglish": "Near Future (be going to)",
+    "usage": [
+      "Diễn tả dự định, kế hoạch đã được lên trước đó.",
+      "Diễn tả dự đoán có căn cứ, dấu hiệu rõ ràng ở hiện tại."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + am/is/are + going to + V(nguyên mẫu)" },
+      { "label": "Phủ định", "formula": "S + am/is/are + not + going to + V(nguyên mẫu)" },
+      { "label": "Nghi vấn", "formula": "Am/Is/Are + S + going to + V(nguyên mẫu)?" }
+    ],
+    "signalWords": "look at those clouds, plan to, intend to",
+    "examples": [
+      { "sentenceEng": "We are going to travel to Da Lat next summer.", "sentenceMeaning": "Chúng tôi định đi du lịch Đà Lạt vào mùa hè tới." },
+      { "sentenceEng": "Look at those dark clouds! It is going to rain.", "sentenceMeaning": "Nhìn những đám mây đen kia kìa! Trời sắp mưa rồi." },
+      { "sentenceEng": "He is going to buy a new laptop this weekend.", "sentenceMeaning": "Anh ấy định mua một chiếc laptop mới vào cuối tuần này." },
+      { "sentenceEng": "She is not going to attend the party.", "sentenceMeaning": "Cô ấy sẽ không đi dự tiệc." },
+      { "sentenceEng": "Are you going to study abroad next year?", "sentenceMeaning": "Bạn có định du học vào năm tới không?" }
+    ]
+  },
+  {
+    "topic": "Bạn bè",
+    "title": "Thì tương lai tiếp diễn",
+    "titleEnglish": "Future Continuous",
+    "usage": [
+      "Diễn tả hành động đang xảy ra tại một thời điểm xác định trong tương lai.",
+      "Diễn tả hành động sẽ diễn ra theo đúng kế hoạch, lịch trình đã định."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + will be + V-ing" },
+      { "label": "Phủ định", "formula": "S + will not be + V-ing" },
+      { "label": "Nghi vấn", "formula": "Will + S + be + V-ing?" }
+    ],
+    "signalWords": "at this time tomorrow, at 8 p.m. next Sunday",
+    "examples": [
+      { "sentenceEng": "This time next week, I will be lying on a beach.", "sentenceMeaning": "Giờ này tuần sau, tôi sẽ đang nằm trên bãi biển." },
+      { "sentenceEng": "She will be attending a workshop at 9 a.m. tomorrow.", "sentenceMeaning": "Cô ấy sẽ đang tham dự một buổi hội thảo lúc 9 giờ sáng mai." },
+      { "sentenceEng": "We will be flying to London while you are at work.", "sentenceMeaning": "Chúng tôi sẽ đang bay đến London trong khi bạn đang làm việc." },
+      { "sentenceEng": "He will not be working this time next month.", "sentenceMeaning": "Giờ này tháng sau, anh ấy sẽ không đang làm việc." },
+      { "sentenceEng": "Will you be using the car this afternoon?", "sentenceMeaning": "Chiều nay bạn có đang sử dụng xe không?" }
+    ]
+  },
+  {
+    "topic": "Thời tiết",
+    "title": "Thì tương lai hoàn thành",
+    "titleEnglish": "Future Perfect",
+    "usage": [
+      "Diễn tả hành động sẽ hoàn thành trước một thời điểm hoặc một hành động khác trong tương lai."
+    ],
+    "structure": [
+      { "label": "Khẳng định", "formula": "S + will have + V3/ed" },
+      { "label": "Phủ định", "formula": "S + will not have + V3/ed" },
+      { "label": "Nghi vấn", "formula": "Will + S + have + V3/ed?" }
+    ],
+    "signalWords": "by the time, by 2030, by next year, before",
+    "examples": [
+      { "sentenceEng": "By next year, I will have graduated from university.", "sentenceMeaning": "Đến năm sau, tôi sẽ đã tốt nghiệp đại học." },
+      { "sentenceEng": "She will have finished the report by 5 p.m. today.", "sentenceMeaning": "Cô ấy sẽ hoàn thành bản báo cáo trước 5 giờ chiều hôm nay." },
+      { "sentenceEng": "By the time you arrive, we will have left already.", "sentenceMeaning": "Đến khi bạn tới nơi thì chúng tôi sẽ đã rời đi rồi." },
+      { "sentenceEng": "They will not have completed the project by Friday.", "sentenceMeaning": "Họ sẽ không hoàn thành dự án trước thứ Sáu." },
+      { "sentenceEng": "Will you have paid off your loan by 2027?", "sentenceMeaning": "Đến năm 2027 bạn sẽ trả hết nợ chưa?" }
+    ]
+  },
+  {
+    "topic": "Môi trường",
+    "title": "Câu bị động",
+    "titleEnglish": "Passive Voice",
+    "usage": [
+      "Dùng khi muốn nhấn mạnh vào đối tượng chịu tác động của hành động hơn là người/vật thực hiện hành động.",
+      "Dùng khi không biết rõ hoặc không cần nêu chủ thể thực hiện hành động.",
+      "Thường dùng trong văn phong trang trọng, khoa học, báo chí."
+    ],
+    "structure": [
+      { "label": "Công thức chung", "formula": "S + be (chia theo thì) + V3/ed + (by O)" },
+      { "label": "Ví dụ theo thì", "formula": "Hiện tại đơn: am/is/are + V3; Quá khứ đơn: was/were + V3" }
+    ],
+    "signalWords": "chuyển từ câu chủ động: tân ngữ câu chủ động -> chủ ngữ câu bị động",
+    "examples": [
+      { "sentenceEng": "The letter was written by Anna yesterday.", "sentenceMeaning": "Bức thư đã được Anna viết hôm qua." },
+      { "sentenceEng": "English is spoken in many countries around the world.", "sentenceMeaning": "Tiếng Anh được nói ở nhiều quốc gia trên thế giới." },
+      { "sentenceEng": "The bridge is being built by a Japanese company.", "sentenceMeaning": "Cây cầu đang được xây dựng bởi một công ty Nhật Bản." },
+      { "sentenceEng": "This house was built in 1990.", "sentenceMeaning": "Ngôi nhà này được xây vào năm 1990." },
+      { "sentenceEng": "The homework must be submitted before Friday.", "sentenceMeaning": "Bài tập về nhà phải được nộp trước thứ Sáu." }
+    ]
+  },
+  {
+    "topic": "Con vật nuôi",
+    "title": "Câu điều kiện loại 0 và loại 1",
+    "titleEnglish": "Conditional Sentences Type 0 & 1",
+    "usage": [
+      "Loại 0: diễn tả sự thật hiển nhiên, chân lý luôn đúng.",
+      "Loại 1: diễn tả điều kiện có thể xảy ra ở hiện tại hoặc tương lai và kết quả có thể xảy ra."
+    ],
+    "structure": [
+      { "label": "Loại 0", "formula": "If + S + V(hiện tại đơn), S + V(hiện tại đơn)" },
+      { "label": "Loại 1", "formula": "If + S + V(hiện tại đơn), S + will + V(nguyên mẫu)" }
+    ],
+    "signalWords": "if, unless (= if...not)",
+    "examples": [
+      { "sentenceEng": "If you heat water to 100°C, it boils.", "sentenceMeaning": "Nếu bạn đun nước đến 100°C, nước sẽ sôi." },
+      { "sentenceEng": "If it rains, the plants grow well.", "sentenceMeaning": "Nếu trời mưa, cây cối phát triển tốt." },
+      { "sentenceEng": "If it rains tomorrow, we will cancel the picnic.", "sentenceMeaning": "Nếu ngày mai trời mưa, chúng tôi sẽ hủy buổi dã ngoại." },
+      { "sentenceEng": "If you study hard, you will pass the exam.", "sentenceMeaning": "Nếu bạn học chăm chỉ, bạn sẽ vượt qua kỳ thi." },
+      { "sentenceEng": "Unless you hurry, you will miss the bus.", "sentenceMeaning": "Nếu bạn không nhanh lên, bạn sẽ lỡ xe buýt." }
+    ]
+  },
+  {
+    "topic": "Món ăn và thực phẩm",
+    "title": "Câu điều kiện loại 2",
+    "titleEnglish": "Conditional Sentences Type 2",
+    "usage": [
+      "Diễn tả một điều kiện không có thật hoặc khó xảy ra ở hiện tại/tương lai và kết quả giả định của nó.",
+      "Thường dùng để đưa ra lời khuyên với cấu trúc 'If I were you'."
+    ],
+    "structure": [
+      { "label": "Cấu trúc", "formula": "If + S + V2/ed (were với tất cả các ngôi), S + would/could + V(nguyên mẫu)" }
+    ],
+    "signalWords": "if I were you, if I were a bird...",
+    "examples": [
+      { "sentenceEng": "If I were you, I would accept that job offer.", "sentenceMeaning": "Nếu tôi là bạn, tôi sẽ chấp nhận lời mời công việc đó." },
+      { "sentenceEng": "If I had a million dollars, I would travel around the world.", "sentenceMeaning": "Nếu tôi có một triệu đô la, tôi sẽ đi du lịch vòng quanh thế giới." },
+      { "sentenceEng": "If she studied harder, she would get better grades.", "sentenceMeaning": "Nếu cô ấy học chăm chỉ hơn, cô ấy sẽ đạt điểm tốt hơn." },
+      { "sentenceEng": "If he were here now, he could help us.", "sentenceMeaning": "Nếu anh ấy ở đây bây giờ, anh ấy có thể giúp chúng tôi." },
+      { "sentenceEng": "What would you do if you won the lottery?", "sentenceMeaning": "Bạn sẽ làm gì nếu bạn trúng số?" }
+    ]
+  },
+  {
+    "topic": "Thức uống",
+    "title": "Câu điều kiện loại 3",
+    "titleEnglish": "Conditional Sentences Type 3",
+    "usage": [
+      "Diễn tả một điều kiện không có thật trong quá khứ và kết quả giả định trái ngược với những gì đã thực sự xảy ra.",
+      "Thường dùng để diễn tả sự tiếc nuối, trách móc về quá khứ."
+    ],
+    "structure": [
+      { "label": "Cấu trúc", "formula": "If + S + had + V3/ed, S + would/could have + V3/ed" }
+    ],
+    "signalWords": "if only, I wish (quá khứ hoàn thành)",
+    "examples": [
+      { "sentenceEng": "If I had studied harder, I would have passed the exam.", "sentenceMeaning": "Nếu tôi đã học chăm chỉ hơn, tôi đã vượt qua kỳ thi rồi." },
+      { "sentenceEng": "If she had left earlier, she would not have missed the train.", "sentenceMeaning": "Nếu cô ấy đã rời đi sớm hơn, cô ấy đã không lỡ chuyến tàu." },
+      { "sentenceEng": "If we had known about the traffic, we would have taken another route.", "sentenceMeaning": "Nếu chúng tôi đã biết về tình trạng kẹt xe, chúng tôi đã đi đường khác." },
+      { "sentenceEng": "If he had saved money, he could have bought a house.", "sentenceMeaning": "Nếu anh ấy đã tiết kiệm tiền, anh ấy đã có thể mua nhà." },
+      { "sentenceEng": "Would you have helped me if I had asked?", "sentenceMeaning": "Bạn có sẽ giúp tôi không nếu tôi đã hỏi?" }
+    ]
+  },
+  {
+    "topic": "Màu sắc",
+    "title": "Câu tường thuật",
+    "titleEnglish": "Reported Speech",
+    "usage": [
+      "Dùng để thuật lại lời nói của người khác mà không trích dẫn nguyên văn.",
+      "Khi động từ tường thuật chia ở quá khứ, các thì trong câu trực tiếp thường phải lùi lại một bậc (backshift).",
+      "Đại từ nhân xưng, trạng từ chỉ thời gian/nơi chốn cũng thay đổi cho phù hợp."
+    ],
+    "structure": [
+      { "label": "Câu kể", "formula": "S + said (that) / told O (that) + S + V(lùi thì)" },
+      { "label": "Câu hỏi Yes/No", "formula": "S + asked/wondered + if/whether + S + V(lùi thì)" },
+      { "label": "Câu hỏi Wh-", "formula": "S + asked + Wh-word + S + V(lùi thì)" }
+    ],
+    "signalWords": "said, told, asked, explained, wondered",
+    "examples": [
+      { "sentenceEng": "\"I am tired,\" she said. -> She said (that) she was tired.", "sentenceMeaning": "\"Tôi mệt,\" cô ấy nói. -> Cô ấy nói rằng cô ấy mệt." },
+      { "sentenceEng": "\"I will call you,\" he said. -> He said he would call me.", "sentenceMeaning": "\"Tôi sẽ gọi cho bạn,\" anh ấy nói. -> Anh ấy nói rằng anh ấy sẽ gọi cho tôi." },
+      { "sentenceEng": "\"Do you like coffee?\" she asked me. -> She asked me if I liked coffee.", "sentenceMeaning": "\"Bạn có thích cà phê không?\" cô ấy hỏi tôi. -> Cô ấy hỏi tôi rằng tôi có thích cà phê không." },
+      { "sentenceEng": "\"Where do you live?\" he asked. -> He asked where I lived.", "sentenceMeaning": "\"Bạn sống ở đâu?\" anh ấy hỏi. -> Anh ấy hỏi tôi sống ở đâu." },
+      { "sentenceEng": "\"Close the door,\" the teacher said. -> The teacher told us to close the door.", "sentenceMeaning": "\"Đóng cửa lại,\" thầy giáo nói. -> Thầy giáo bảo chúng tôi đóng cửa lại." }
+    ]
+  },
+  {
+    "topic": "Công việc và nghề nghiệp",
+    "title": "Mệnh đề quan hệ",
+    "titleEnglish": "Relative Clauses",
+    "usage": [
+      "Dùng để bổ nghĩa, cung cấp thêm thông tin cho danh từ đứng trước nó.",
+      "who/that: thay cho người làm chủ ngữ; whom/that: thay cho người làm tân ngữ.",
+      "which/that: thay cho vật; whose: chỉ sở hữu; where: chỉ nơi chốn; when: chỉ thời gian."
+    ],
+    "structure": [
+      { "label": "Xác định", "formula": "N (person/thing) + who/which/that/whose/where/when + mệnh đề" },
+      { "label": "Không xác định", "formula": "N, who/which/whose..., mệnh đề, (ngăn cách bằng dấu phẩy)" }
+    ],
+    "signalWords": "who, whom, which, that, whose, where, when",
+    "examples": [
+      { "sentenceEng": "The man who is standing over there is my teacher.", "sentenceMeaning": "Người đàn ông đang đứng ở đằng kia là thầy giáo của tôi." },
+      { "sentenceEng": "This is the book that I told you about.", "sentenceMeaning": "Đây là cuốn sách mà tôi đã kể cho bạn nghe." },
+      { "sentenceEng": "I have a friend whose father is a famous doctor.", "sentenceMeaning": "Tôi có một người bạn có bố là một bác sĩ nổi tiếng." },
+      { "sentenceEng": "That is the house where I was born.", "sentenceMeaning": "Đó là ngôi nhà nơi tôi được sinh ra." },
+      { "sentenceEng": "My sister, who lives in Paris, is visiting us next week.", "sentenceMeaning": "Chị gái tôi, người sống ở Paris, sẽ đến thăm chúng tôi vào tuần tới." }
+    ]
+  },
+  {
+    "topic": "Kinh doanh",
+    "title": "So sánh hơn và so sánh nhất",
+    "titleEnglish": "Comparatives and Superlatives",
+    "usage": [
+      "So sánh hơn: dùng để so sánh giữa hai người/vật/sự việc.",
+      "So sánh nhất: dùng để so sánh một người/vật/sự việc với tất cả những đối tượng còn lại trong một nhóm.",
+      "Tính từ ngắn (1 âm tiết) thêm -er/-est; tính từ dài (2 âm tiết trở lên) dùng more/most."
+    ],
+    "structure": [
+      { "label": "So sánh hơn", "formula": "S + V + adj-er/more + adj + than + O" },
+      { "label": "So sánh nhất", "formula": "S + V + the + adj-est/most + adj + (in/of...)" }
+    ],
+    "signalWords": "than, the ... in/of, as...as",
+    "examples": [
+      { "sentenceEng": "This building is taller than that one.", "sentenceMeaning": "Tòa nhà này cao hơn tòa nhà kia." },
+      { "sentenceEng": "She is more intelligent than her brother.", "sentenceMeaning": "Cô ấy thông minh hơn anh trai của mình." },
+      { "sentenceEng": "Mount Everest is the highest mountain in the world.", "sentenceMeaning": "Everest là ngọn núi cao nhất thế giới." },
+      { "sentenceEng": "This is the most interesting book I have ever read.", "sentenceMeaning": "Đây là cuốn sách thú vị nhất mà tôi từng đọc." },
+      { "sentenceEng": "My house is as big as yours.", "sentenceMeaning": "Nhà tôi to bằng nhà bạn." }
+    ]
+  },
+  {
+    "topic": "Chào hỏi và giới thiệu bản thân",
+    "title": "Động từ khiếm khuyết",
+    "titleEnglish": "Modal Verbs",
+    "usage": [
+      "can/could: diễn tả khả năng, sự cho phép.",
+      "must/have to: diễn tả sự bắt buộc, cần thiết.",
+      "should/ought to: diễn tả lời khuyên.",
+      "may/might: diễn tả khả năng, sự cho phép mang tính trang trọng."
+    ],
+    "structure": [
+      { "label": "Cấu trúc", "formula": "S + modal verb + V(nguyên mẫu)" },
+      { "label": "Phủ định", "formula": "S + modal verb + not + V(nguyên mẫu)" }
+    ],
+    "signalWords": "can, could, must, should, may, might, have to, need to",
+    "examples": [
+      { "sentenceEng": "She can speak three languages fluently.", "sentenceMeaning": "Cô ấy có thể nói thành thạo ba ngôn ngữ." },
+      { "sentenceEng": "You must wear a seatbelt while driving.", "sentenceMeaning": "Bạn phải thắt dây an toàn khi lái xe." },
+      { "sentenceEng": "You should see a doctor if you feel sick.", "sentenceMeaning": "Bạn nên đi khám bác sĩ nếu cảm thấy không khỏe." },
+      { "sentenceEng": "It might rain later this afternoon.", "sentenceMeaning": "Có thể chiều nay trời sẽ mưa." },
+      { "sentenceEng": "Students must not use phones during the exam.", "sentenceMeaning": "Học sinh không được sử dụng điện thoại trong giờ thi." }
+    ]
+  },
+  {
+    "topic": "Nghệ thuật",
+    "title": "Danh động từ và động từ nguyên mẫu",
+    "titleEnglish": "Gerund (V-ing) vs Infinitive (to-V)",
+    "usage": [
+      "Một số động từ chỉ theo sau bởi V-ing: enjoy, avoid, finish, mind, suggest, consider...",
+      "Một số động từ chỉ theo sau bởi to-V: want, decide, plan, hope, promise, agree...",
+      "Một số động từ đổi nghĩa khi theo sau bởi V-ing hoặc to-V: remember, stop, try..."
+    ],
+    "structure": [
+      { "label": "V + V-ing", "formula": "enjoy/avoid/finish/mind/suggest + V-ing" },
+      { "label": "V + to-V", "formula": "want/decide/plan/hope/promise + to V" }
+    ],
+    "signalWords": "enjoy, avoid, want, decide, stop, remember, try",
+    "examples": [
+      { "sentenceEng": "I enjoy reading books in my free time.", "sentenceMeaning": "Tôi thích đọc sách vào thời gian rảnh." },
+      { "sentenceEng": "She decided to study abroad next year.", "sentenceMeaning": "Cô ấy quyết định sẽ du học vào năm tới." },
+      { "sentenceEng": "He avoids eating fast food to stay healthy.", "sentenceMeaning": "Anh ấy tránh ăn đồ ăn nhanh để giữ sức khỏe." },
+      { "sentenceEng": "They stopped to take a photo of the sunset.", "sentenceMeaning": "Họ dừng lại để chụp một bức ảnh hoàng hôn." },
+      { "sentenceEng": "Remember to lock the door before you leave.", "sentenceMeaning": "Nhớ khóa cửa trước khi bạn rời đi nhé." }
+    ]
+  },
+  {
+    "topic": "Máy tính và Internet",
+    "title": "Mạo từ",
+    "titleEnglish": "Articles: a / an / the",
+    "usage": [
+      "a/an: dùng trước danh từ đếm được số ít, đề cập lần đầu, chưa xác định (a trước phụ âm, an trước nguyên âm).",
+      "the: dùng trước danh từ đã được xác định, đã đề cập trước đó, hoặc là duy nhất.",
+      "Không dùng mạo từ trước danh từ số nhiều/không đếm được mang nghĩa chung chung."
+    ],
+    "structure": [
+      { "label": "a/an + N (số ít, chưa xác định)", "formula": "a book, an apple, a university" },
+      { "label": "the + N (đã xác định)", "formula": "the sun, the book I bought yesterday" }
+    ],
+    "signalWords": "lần đầu nhắc đến (a/an) vs đã biết/duy nhất (the)",
+    "examples": [
+      { "sentenceEng": "I saw a dog in the park this morning.", "sentenceMeaning": "Sáng nay tôi thấy một con chó trong công viên." },
+      { "sentenceEng": "She bought an umbrella because it was raining.", "sentenceMeaning": "Cô ấy đã mua một cái ô vì trời đang mưa." },
+      { "sentenceEng": "The dog I saw this morning was very friendly.", "sentenceMeaning": "Con chó mà tôi thấy sáng nay rất thân thiện." },
+      { "sentenceEng": "The sun rises in the east.", "sentenceMeaning": "Mặt trời mọc ở hướng đông." },
+      { "sentenceEng": "Could you pass me the salt, please?", "sentenceMeaning": "Bạn có thể đưa cho tôi lọ muối được không?" }
+    ]
+  },
+  {
+    "topic": "Sức khỏe và y tế",
+    "title": "Giới từ chỉ thời gian và nơi chốn",
+    "titleEnglish": "Prepositions of Time & Place",
+    "usage": [
+      "in: dùng cho tháng, năm, mùa, khoảng thời gian dài; và không gian lớn (thành phố, quốc gia).",
+      "on: dùng cho ngày, ngày tháng cụ thể; và bề mặt (đường phố, tầng...).",
+      "at: dùng cho giờ giấc cụ thể; và địa điểm cụ thể (một điểm chính xác)."
+    ],
+    "structure": [
+      { "label": "Thời gian", "formula": "in + tháng/năm/mùa; on + ngày; at + giờ" },
+      { "label": "Nơi chốn", "formula": "in + không gian lớn; on + bề mặt; at + địa điểm cụ thể" }
+    ],
+    "signalWords": "in, on, at",
+    "examples": [
+      { "sentenceEng": "I was born in 1998.", "sentenceMeaning": "Tôi sinh năm 1998." },
+      { "sentenceEng": "We are going to meet on Monday morning.", "sentenceMeaning": "Chúng tôi sẽ gặp nhau vào sáng thứ Hai." },
+      { "sentenceEng": "The class starts at 8 o'clock sharp.", "sentenceMeaning": "Lớp học bắt đầu đúng lúc 8 giờ." },
+      { "sentenceEng": "She lives in Ho Chi Minh City.", "sentenceMeaning": "Cô ấy sống ở Thành phố Hồ Chí Minh." },
+      { "sentenceEng": "Let's meet at the coffee shop on Nguyen Hue Street.", "sentenceMeaning": "Hãy gặp nhau ở quán cà phê trên đường Nguyễn Huệ." }
+    ]
+  },
+  {
+    "topic": "Điện thoại và thư tín",
+    "title": "Câu hỏi đuôi",
+    "titleEnglish": "Tag Questions",
+    "usage": [
+      "Dùng để xác nhận lại thông tin hoặc tìm kiếm sự đồng tình từ người nghe.",
+      "Câu chính khẳng định thì đuôi phủ định, câu chính phủ định thì đuôi khẳng định.",
+      "Động từ trong đuôi câu hỏi phải phù hợp với thì và chủ ngữ của mệnh đề chính."
+    ],
+    "structure": [
+      { "label": "Khẳng định + phủ định", "formula": "S + V (khẳng định), + trợ động từ + not + S(đại từ)?" },
+      { "label": "Phủ định + khẳng định", "formula": "S + V not (phủ định), + trợ động từ + S(đại từ)?" }
+    ],
+    "signalWords": "isn't it?, don't you?, didn't she?, won't they?",
+    "examples": [
+      { "sentenceEng": "You are a student, aren't you?", "sentenceMeaning": "Bạn là học sinh, phải không?" },
+      { "sentenceEng": "She doesn't like coffee, does she?", "sentenceMeaning": "Cô ấy không thích cà phê, phải không?" },
+      { "sentenceEng": "They went to the party last night, didn't they?", "sentenceMeaning": "Tối qua họ đã đi dự tiệc, phải không?" },
+      { "sentenceEng": "He can swim very well, can't he?", "sentenceMeaning": "Anh ấy có thể bơi rất giỏi, phải không?" },
+      { "sentenceEng": "Let's go for a walk, shall we?", "sentenceMeaning": "Chúng ta đi dạo nhé, được không?" }
+    ]
+  },
+  {
+    "topic": "Truyền hình và báo chí",
+    "title": "Câu ước",
+    "titleEnglish": "Wish Sentences",
+    "usage": [
+      "Wish + quá khứ đơn: diễn tả điều ước không có thật ở hiện tại.",
+      "Wish + quá khứ hoàn thành: diễn tả điều ước, sự tiếc nuối về một việc đã xảy ra/không xảy ra trong quá khứ.",
+      "Wish + would: diễn tả mong muốn ai đó thay đổi hành động ở hiện tại/tương lai (thường thể hiện sự phàn nàn)."
+    ],
+    "structure": [
+      { "label": "Wish ở hiện tại", "formula": "S + wish(es) + S + V2/ed (were với tất cả các ngôi)" },
+      { "label": "Wish ở quá khứ", "formula": "S + wish(es) + S + had + V3/ed" },
+      { "label": "Wish + would", "formula": "S + wish(es) + S + would + V(nguyên mẫu)" }
+    ],
+    "signalWords": "wish, if only",
+    "examples": [
+      { "sentenceEng": "I wish I had more free time.", "sentenceMeaning": "Tôi ước gì mình có nhiều thời gian rảnh hơn." },
+      { "sentenceEng": "She wishes she were taller.", "sentenceMeaning": "Cô ấy ước gì mình cao hơn." },
+      { "sentenceEng": "I wish I had studied harder for the exam.", "sentenceMeaning": "Tôi ước gì mình đã học chăm chỉ hơn cho kỳ thi." },
+      { "sentenceEng": "He wishes he had not sold his old car.", "sentenceMeaning": "Anh ấy ước gì mình đã không bán chiếc xe cũ." },
+      { "sentenceEng": "I wish you would stop making so much noise.", "sentenceMeaning": "Tôi ước gì bạn ngừng gây ồn ào như vậy." }
+    ]
+  }
+]

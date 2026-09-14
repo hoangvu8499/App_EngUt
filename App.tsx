@@ -7,12 +7,26 @@ import HomeScreen from './src/screens/HomeScreen';
 import TopicDetailScreen, { TopicMenuKey } from './src/screens/TopicDetailScreen';
 import FlashCardScreen from './src/screens/FlashCardScreen';
 import FlashCardStudyScreen from './src/screens/FlashCardStudyScreen';
+import GrammarScreen from './src/screens/GrammarScreen';
+import PracticeScreen from './src/screens/PracticeScreen';
+import PracticeExerciseScreen from './src/screens/PracticeExerciseScreen';
 import SuccessScreen from './src/screens/SuccessScreen';
 import { seedDefaultUser } from './src/storage/userStorage';
 import { topics } from './src/data/topics';
 import { WordGroup } from './src/data/wordGroups';
+import { getTopicPractice } from './src/data/practice';
 
-type Screen = 'login' | 'register' | 'home' | 'topicDetail' | 'flashCard' | 'flashCardStudy' | 'placeholderSuccess';
+type Screen =
+  | 'login'
+  | 'register'
+  | 'home'
+  | 'topicDetail'
+  | 'flashCard'
+  | 'flashCardStudy'
+  | 'grammar'
+  | 'practice'
+  | 'practiceExercise'
+  | 'placeholderSuccess';
 
 const MENU_LABELS: Record<TopicMenuKey, string> = {
   flashcard: 'Flash Card',
@@ -27,6 +41,7 @@ export default function App() {
   const [selectedTopic, setSelectedTopic] = useState('');
   const [placeholderSubtitle, setPlaceholderSubtitle] = useState('');
   const [selectedGroup, setSelectedGroup] = useState<WordGroup | null>(null);
+  const [selectedExerciseIndex, setSelectedExerciseIndex] = useState(0);
 
   useEffect(() => {
     seedDefaultUser();
@@ -71,6 +86,14 @@ export default function App() {
               setScreen('flashCard');
               return;
             }
+            if (menuKey === 'grammar') {
+              setScreen('grammar');
+              return;
+            }
+            if (menuKey === 'practice') {
+              setScreen('practice');
+              return;
+            }
             setPlaceholderSubtitle(`${selectedTopic} · ${MENU_LABELS[menuKey]}`);
             setScreen('placeholderSuccess');
           }}
@@ -103,6 +126,41 @@ export default function App() {
           onLogout={() => setScreen('login')}
         />
       )}
+      {screen === 'grammar' && (
+        <GrammarScreen
+          fullName={fullName}
+          topicName={selectedTopic}
+          onBackToTopicDetail={() => setScreen('topicDetail')}
+          onLogout={() => setScreen('login')}
+        />
+      )}
+      {screen === 'practice' && (
+        <PracticeScreen
+          fullName={fullName}
+          topicName={selectedTopic}
+          onSelectExercise={(exerciseIndex) => {
+            setSelectedExerciseIndex(exerciseIndex);
+            setScreen('practiceExercise');
+          }}
+          onBackToTopicDetail={() => setScreen('topicDetail')}
+          onLogout={() => setScreen('login')}
+        />
+      )}
+      {screen === 'practiceExercise' &&
+        (() => {
+          const exercise = getTopicPractice(selectedTopic)?.exercises[selectedExerciseIndex];
+          if (!exercise) return null;
+          return (
+            <PracticeExerciseScreen
+              fullName={fullName}
+              topicName={selectedTopic}
+              exerciseTitle={exercise.title}
+              sentences={exercise.sentences}
+              onBackToPractice={() => setScreen('practice')}
+              onLogout={() => setScreen('login')}
+            />
+          );
+        })()}
       {screen === 'placeholderSuccess' && (
         <SuccessScreen
           subtitle={placeholderSubtitle}
