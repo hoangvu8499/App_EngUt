@@ -148,6 +148,7 @@ export default function FlashCardStudyScreen({
 
         <View style={styles.cardWrapper} {...panResponder.panHandlers}>
           <Animated.View
+            pointerEvents={flipped ? 'none' : 'auto'}
             style={[
               styles.cardFace,
               { transform: [{ perspective: 1000 }, { rotateY: frontRotate }] },
@@ -168,6 +169,7 @@ export default function FlashCardStudyScreen({
           </Animated.View>
 
           <Animated.View
+            pointerEvents={flipped ? 'auto' : 'none'}
             style={[
               styles.cardFace,
               styles.cardBack,
