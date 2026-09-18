@@ -12,7 +12,7 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 
 import { colors } from '../theme/colors';
-import { getProgressPercent } from '../data/progress';
+import { useProgressPercent } from '../data/progress';
 import type { PracticeSentence } from '../data/practice';
 import AppHeaderCard from '../components/AppHeaderCard';
 
@@ -41,7 +41,7 @@ export default function PracticeExerciseScreen({
   onBackToPractice,
   onLogout,
 }: Props) {
-  const progressPercent = getProgressPercent();
+  const progressPercent = useProgressPercent();
   const [answers, setAnswers] = useState<string[]>(() => sentences.map(() => ''));
   const [error, setError] = useState<string | null>(null);
   const [submitted, setSubmitted] = useState(false);

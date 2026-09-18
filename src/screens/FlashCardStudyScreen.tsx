@@ -4,7 +4,7 @@ import { Ionicons } from '@expo/vector-icons';
 import * as Speech from 'expo-speech';
 
 import { colors } from '../theme/colors';
-import { getProgressPercent } from '../data/progress';
+import { useProgressPercent } from '../data/progress';
 import type { VocabularyItem } from '../data/topics';
 import AppHeaderCard from '../components/AppHeaderCard';
 
@@ -45,7 +45,7 @@ export default function FlashCardStudyScreen({
   onBackToFlashCard,
   onLogout,
 }: Props) {
-  const progressPercent = getProgressPercent();
+  const progressPercent = useProgressPercent();
   const [order, setOrder] = useState<number[]>(() => sequentialOrder(words.length));
   const [shuffled, setShuffled] = useState(false);
   const [position, setPosition] = useState(0);

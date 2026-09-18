@@ -4,17 +4,18 @@ import { StatusBar } from 'expo-status-bar';
 import LoginScreen from './src/screens/LoginScreen';
 import RegisterScreen from './src/screens/RegisterScreen';
 import HomeScreen from './src/screens/HomeScreen';
-import TopicDetailScreen, { TopicMenuKey } from './src/screens/TopicDetailScreen';
+import TopicDetailScreen from './src/screens/TopicDetailScreen';
 import FlashCardScreen from './src/screens/FlashCardScreen';
 import FlashCardStudyScreen from './src/screens/FlashCardStudyScreen';
 import GrammarScreen from './src/screens/GrammarScreen';
 import PracticeScreen from './src/screens/PracticeScreen';
 import PracticeExerciseScreen from './src/screens/PracticeExerciseScreen';
-import SuccessScreen from './src/screens/SuccessScreen';
+import QuizScreen from './src/screens/QuizScreen';
 import { seedDefaultUser } from './src/storage/userStorage';
 import { topics } from './src/data/topics';
 import { WordGroup } from './src/data/wordGroups';
 import { getTopicPractice } from './src/data/practice';
+import { loadProgress } from './src/data/progress';
 
 type Screen =
   | 'login'
@@ -26,25 +27,18 @@ type Screen =
   | 'grammar'
   | 'practice'
   | 'practiceExercise'
-  | 'placeholderSuccess';
-
-const MENU_LABELS: Record<TopicMenuKey, string> = {
-  flashcard: 'Flash Card',
-  grammar: 'Ngữ Pháp',
-  practice: 'Luyện Tập',
-  quiz: 'Kiểm tra',
-};
+  | 'quiz';
 
 export default function App() {
   const [screen, setScreen] = useState<Screen>('login');
   const [fullName, setFullName] = useState('');
   const [selectedTopic, setSelectedTopic] = useState('');
-  const [placeholderSubtitle, setPlaceholderSubtitle] = useState('');
   const [selectedGroup, setSelectedGroup] = useState<WordGroup | null>(null);
   const [selectedExerciseIndex, setSelectedExerciseIndex] = useState(0);
 
   useEffect(() => {
     seedDefaultUser();
+    loadProgress();
   }, []);
 
   return (
@@ -94,8 +88,7 @@ export default function App() {
               setScreen('practice');
               return;
             }
-            setPlaceholderSubtitle(`${selectedTopic} · ${MENU_LABELS[menuKey]}`);
-            setScreen('placeholderSuccess');
+            setScreen('quiz');
           }}
           onBackToHome={() => setScreen('home')}
           onLogout={() => setScreen('login')}
@@ -161,11 +154,12 @@ export default function App() {
             />
           );
         })()}
-      {screen === 'placeholderSuccess' && (
-        <SuccessScreen
-          subtitle={placeholderSubtitle}
-          backLabel="Quay lại chủ đề"
-          onBack={() => setScreen('topicDetail')}
+      {screen === 'quiz' && (
+        <QuizScreen
+          fullName={fullName}
+          topicName={selectedTopic}
+          onBackToTopicDetail={() => setScreen('topicDetail')}
+          onLogout={() => setScreen('login')}
         />
       )}
       <StatusBar style="auto" />

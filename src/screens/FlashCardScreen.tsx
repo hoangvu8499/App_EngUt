@@ -3,7 +3,7 @@ import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
 import { colors } from '../theme/colors';
-import { getProgressPercent } from '../data/progress';
+import { useProgressPercent } from '../data/progress';
 import { topics } from '../data/topics';
 import { WordGroup } from '../data/wordGroups';
 import { addWordGroup, getGroupsForTopic } from '../storage/wordGroupStorage';
@@ -26,7 +26,7 @@ export default function FlashCardScreen({
   onBackToTopicDetail,
   onLogout,
 }: Props) {
-  const progressPercent = getProgressPercent();
+  const progressPercent = useProgressPercent();
   const vocabularies = topics.find((item) => item.topic === topicName)?.vocabularies ?? [];
 
   const [groups, setGroups] = useState<WordGroup[]>([]);

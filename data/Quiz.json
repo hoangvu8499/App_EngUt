@@ -1,0 +1,2155 @@
+[
+  {
+    "topic": "Cơ thể con người",
+    "sentences": [
+      {
+        "vietnamese": "Khuôn mặt của bạn có hai mắt, một mũi và một miệng phải không?",
+        "english": "Does your face have two eyes, one nose, and one mouth?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tóc của tôi ở trên đầu, không phải ở trên cổ hay tai.",
+        "english": "My hair is on my head, not on my neck or my ear.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Lưỡi và răng của anh ấy ở bên trong miệng.",
+        "english": "His tongue and his teeth are inside his mouth.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Khuỷu tay của bạn không gần bàn chân.",
+        "english": "Your elbow is not near your foot.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cánh tay tôi nối vai với bàn tay.",
+        "english": "My arm connects my shoulder to my hand.",
+        "extraVocabulary": [
+          {
+            "word": "connects",
+            "meaning": "nối"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn có năm ngón tay trên mỗi bàn tay và năm ngón chân trên mỗi bàn chân không?",
+        "english": "Do you have five fingers on each hand and five toes on each foot?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Eo, lưng và ngực của cô ấy đều có làn da mịn màng.",
+        "english": "Her waist, her back, and her chest all have smooth skin.",
+        "extraVocabulary": [
+          {
+            "word": "smooth",
+            "meaning": "mịn màng"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đầu gối của bạn nằm giữa chân và bàn chân.",
+        "english": "Your knee sits between your leg and your foot.",
+        "extraVocabulary": [
+          {
+            "word": "sits",
+            "meaning": "nằm ở vị trí"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Dạ dày không có xương ở bên trong.",
+        "english": "The stomach does not have any bones inside it.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Máu chảy đến tim và não mỗi ngày.",
+        "english": "Blood flows to the heart and the brain every day.",
+        "extraVocabulary": [
+          {
+            "word": "flows",
+            "meaning": "chảy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Ngoại hình",
+    "sentences": [
+      {
+        "vietnamese": "Anh ấy đang cao lên, đẹp trai hơn và vạm vỡ hơn mỗi năm.",
+        "english": "He is getting taller, more handsome, and more well-built every year.",
+        "extraVocabulary": [
+          {
+            "word": "getting",
+            "meaning": "trở nên"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Hôm nay trông cô ấy xinh đẹp và thanh lịch hơn.",
+        "english": "She is looking more beautiful and more elegant today.",
+        "extraVocabulary": [
+          {
+            "word": "looking",
+            "meaning": "trông có vẻ"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Năm nay anh ấy chưa bị hói, nhưng anh ấy đang gầy đi.",
+        "english": "He is not getting bald this year, but he is getting skinny.",
+        "extraVocabulary": [
+          {
+            "word": "getting",
+            "meaning": "trở nên"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Dạo này cô ấy đang trở nên mảnh mai hơn hay mũm mĩm hơn?",
+        "english": "Is she becoming more slim or more chubby these days?",
+        "extraVocabulary": [
+          {
+            "word": "becoming",
+            "meaning": "trở nên"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Da sáng của cô ấy đang rám nắng, không nhợt nhạt, vào mùa hè này.",
+        "english": "Her fair skin is turning tanned, not pale, this summer.",
+        "extraVocabulary": [
+          {
+            "word": "turning",
+            "meaning": "trở nên, chuyển sang"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tháng này anh ấy không để râu quai nón hay ria mép.",
+        "english": "He is not growing a beard or a moustache this month.",
+        "extraVocabulary": [
+          {
+            "word": "growing",
+            "meaning": "để (râu, tóc)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tuần này cô ấy đang làm tóc xoăn thay vì tóc thẳng.",
+        "english": "She is getting curly hair instead of straight hair this week.",
+        "extraVocabulary": [
+          {
+            "word": "getting",
+            "meaning": "làm cho có được"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Hôm nay bạn có đang xỏ khuyên hay xăm hình không?",
+        "english": "Are you getting a piercing or a tattoo today?",
+        "extraVocabulary": [
+          {
+            "word": "getting",
+            "meaning": "làm cho có được"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếp nhăn và tàn nhang của anh ấy đang lộ rõ hơn dạo này.",
+        "english": "His wrinkles and his freckles are showing more these days.",
+        "extraVocabulary": [
+          {
+            "word": "showing",
+            "meaning": "lộ ra, hiện ra"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Họ không trông thừa cân hay đầy đặn nữa.",
+        "english": "They are not looking overweight or plump anymore.",
+        "extraVocabulary": [
+          {
+            "word": "looking",
+            "meaning": "trông có vẻ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Tính cách",
+    "sentences": [
+      {
+        "vietnamese": "Cô ấy luôn tốt bụng, hào phóng và thân thiện với mọi người.",
+        "english": "She has always been kind, generous, and friendly to everyone.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Gần đây anh ấy đã không trung thực hay lịch sự.",
+        "english": "He has not been honest or polite recently.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn đã bao giờ kiên nhẫn, cẩn thận và nghiêm túc chưa?",
+        "english": "Have you ever been patient, careful, and serious?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy đã trở nên tự tin hơn và bớt nhút nhát hơn kể từ năm ngoái.",
+        "english": "He has become more confident and less shy since last year.",
+        "extraVocabulary": [
+          {
+            "word": "become",
+            "meaning": "trở nên"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Năm nay họ đã không thô lỗ hay ích kỷ.",
+        "english": "They have not been rude or selfish this year.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy đã rất chăm chỉ, đáng tin cậy và vui vẻ cho đến nay.",
+        "english": "She has been very hard-working, reliable, and cheerful so far.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy đã bao giờ kiêu ngạo, bướng bỉnh hay trầm tính chưa?",
+        "english": "Has he ever been arrogant, stubborn, or quiet?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Chúng tôi đã trở nên sáng tạo, tham vọng và lạc quan hơn trong năm nay.",
+        "english": "We have already become more creative, ambitious, and optimistic this year.",
+        "extraVocabulary": [
+          {
+            "word": "become",
+            "meaning": "trở nên"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Gần đây cô ấy đã không cẩu thả, lười biếng hay bi quan.",
+        "english": "She has not been careless, lazy, or pessimistic recently.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy luôn dũng cảm, khiêm tốn, hòa đồng và rộng lượng.",
+        "english": "He has always been brave, humble, sociable, and generous-hearted.",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Cảm xúc",
+    "sentences": [
+      {
+        "vietnamese": "Cả tuần này tôi đã cảm thấy vui vẻ và hào hứng, không buồn.",
+        "english": "I have been feeling happy and excited, not sad, all week.",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Gần đây cô ấy không cảm thấy thư giãn hay bình tĩnh.",
+        "english": "She has not been feeling relaxed or calm lately.",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn đã cảm thấy hồi hộp, bất an hay sợ hãi từ hôm qua phải không?",
+        "english": "Have you been feeling nervous, anxious, or scared since yesterday?",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Anh ấy đã cảm thấy mệt mỏi, cáu kỉnh và tức giận trong ba ngày qua.",
+        "english": "He has been feeling tired, grumpy, and angry for three days.",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tuần này họ không cảm thấy chán hay cô đơn.",
+        "english": "They have not been feeling bored or lonely this week.",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Cả tuần này cô ấy đã cảm thấy tự hào và biết ơn.",
+        "english": "She has been feeling proud and grateful all week.",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Gần đây anh ấy có đang cảm thấy ghen tị, bực bội hay thất vọng không?",
+        "english": "Has he been feeling jealous, frustrated, or disappointed recently?",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Cả ngày nay chúng tôi đã cảm thấy hy vọng, hài lòng và tràn đầy năng lượng.",
+        "english": "We have been feeling hopeful, content, and energetic all day.",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Gần đây tôi không cảm thấy bối rối, tò mò hay ngạc nhiên.",
+        "english": "I have not been feeling confused, curious, or surprised lately.",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Cả buổi chiều nay cô ấy đã cảm thấy sốc, xấu hổ, nhẹ nhõm và khổ sở.",
+        "english": "She has been feeling shocked, embarrassed, relieved, and miserable all afternoon.",
+        "extraVocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "cảm thấy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Gia đình",
+    "sentences": [
+      {
+        "vietnamese": "Bố và mẹ tôi đã gọi điện cho ông bà của tôi vào hôm qua.",
+        "english": "My father and my mother called my grandparents yesterday.",
+        "extraVocabulary": [
+          {
+            "word": "called",
+            "meaning": "gọi điện"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Cháu trai và cháu gái tôi đã không gặp anh chị em họ của họ vào năm ngoái.",
+        "english": "My nephew and my niece did not meet their cousin last year.",
+        "extraVocabulary": [
+          {
+            "word": "meet",
+            "meaning": "gặp"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Chú và dì của bạn có giúp đỡ anh trai và chị gái của bạn vào tháng trước không?",
+        "english": "Did your uncle and your aunt help your brother and your sister last month?",
+        "extraVocabulary": [
+          {
+            "word": "help",
+            "meaning": "giúp đỡ"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Ông và bà tôi đã kết hôn vào năm 1970.",
+        "english": "My grandfather and my grandmother married in 1970.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Chú tôi và vợ của chú ấy đã không ly hôn vào năm ngoái.",
+        "english": "My uncle and his wife did not divorce last year.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cha dượng và mẹ kế của bạn có gặp họ hàng của bạn không?",
+        "english": "Did your stepfather and your stepmother meet your relatives?",
+        "extraVocabulary": [
+          {
+            "word": "meet",
+            "meaning": "gặp"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Ông bà tôi đã đến thăm đứa cháu nhỏ của họ vào mùa hè trước.",
+        "english": "My grandparents visited their grandchild last summer.",
+        "extraVocabulary": [
+          {
+            "word": "visited",
+            "meaning": "đến thăm"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Anh em sinh đôi của chồng tôi đã không còn độc thân.",
+        "english": "My husband's twin brother did not stay single.",
+        "extraVocabulary": [
+          {
+            "word": "stay",
+            "meaning": "duy trì (tình trạng)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Gia đình bên vợ/chồng của bạn có giúp đỡ bố mẹ và con cái của bạn vào tuần trước không?",
+        "english": "Did your in-laws help your parents and your children last week?",
+        "extraVocabulary": [
+          {
+            "word": "help",
+            "meaning": "giúp đỡ"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Con trai và con gái tôi đã giúp đỡ gia đình chúng tôi vào tuần trước.",
+        "english": "My son and my daughter helped our family last week.",
+        "extraVocabulary": [
+          {
+            "word": "helped",
+            "meaning": "giúp đỡ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Sở thích",
+    "sentences": [
+      {
+        "vietnamese": "Tôi đang đọc sách lúc tám giờ tối qua.",
+        "english": "I was reading at eight last night.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy đang hát trong khi anh ấy đang chơi guitar.",
+        "english": "She was singing while he was playing guitar.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy không nấu ăn; anh ấy đang làm bánh.",
+        "english": "He was not cooking; he was baking.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn có đang chơi piano trong khi cô ấy đang hát không?",
+        "english": "Were you playing piano while she was singing?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Giờ này hôm qua, chúng tôi đang đi bộ đường dài.",
+        "english": "At this time yesterday, we were hiking.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tôi không chơi game; tôi đang vẽ.",
+        "english": "I was not gaming; I was drawing.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy có đang đan len trong khi bạn đang làm bánh không?",
+        "english": "Was she knitting while you were baking?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Trong khi đang cắm trại, chúng tôi cũng đang câu cá.",
+        "english": "While we were camping, we were fishing too.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tối qua bạn đang vẽ tranh gì vậy?",
+        "english": "What were you painting last night?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy đang luyện tập nhiếp ảnh trong khi chúng tôi đang du lịch.",
+        "english": "He was practicing photography while we were traveling.",
+        "extraVocabulary": [
+          {
+            "word": "practicing",
+            "meaning": "đang luyện tập"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Quần áo và thời trang",
+    "sentences": [
+      {
+        "vietnamese": "Đến lúc đó, tôi đã mua một chiếc áo khoác mới rồi.",
+        "english": "By then, I had already bought a new jacket.",
+        "extraVocabulary": [
+          {
+            "word": "bought",
+            "meaning": "đã mua (quá khứ của buy)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đến lúc đó, cô ấy đã chọn một chiếc váy đẹp rồi.",
+        "english": "By then, she had already chosen a beautiful dress.",
+        "extraVocabulary": [
+          {
+            "word": "chosen",
+            "meaning": "đã chọn (quá khứ phân từ của choose)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đến lúc đó, anh ấy vẫn chưa đóng gói đôi giày bốt.",
+        "english": "By then, he had not packed his boots yet.",
+        "extraVocabulary": [
+          {
+            "word": "packed",
+            "meaning": "đã đóng gói (quá khứ phân từ của pack)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn đã từng mặc bộ vest đó trước đây chưa?",
+        "english": "Had you worn that suit before?",
+        "extraVocabulary": [
+          {
+            "word": "worn",
+            "meaning": "đã mặc (quá khứ phân từ của wear)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đến lúc đó, tôi đã đội mũ và đeo găng tay rồi.",
+        "english": "By then, I had already put on my hat and gloves.",
+        "extraVocabulary": [
+          {
+            "word": "put on",
+            "meaning": "đội/mang vào"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đến lúc đó, cô ấy vẫn chưa làm mất chiếc túi xách.",
+        "english": "By then, she had not lost her handbag yet.",
+        "extraVocabulary": [
+          {
+            "word": "lost",
+            "meaning": "đã làm mất (quá khứ phân từ của lose)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đến lúc đó, anh ấy đã quên chiếc ba lô của mình chưa?",
+        "english": "Had he forgotten his backpack by then?",
+        "extraVocabulary": [
+          {
+            "word": "forgotten",
+            "meaning": "đã quên (quá khứ phân từ của forget)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đến lúc đó, họ đã mượn khăn quàng và cà vạt của tôi rồi.",
+        "english": "By then, they had already borrowed my scarf and tie.",
+        "extraVocabulary": [
+          {
+            "word": "borrowed",
+            "meaning": "đã mượn (quá khứ phân từ của borrow)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Sau khi cô ấy đã mang giày thể thao vào, cô ấy rời đi.",
+        "english": "After she had put on her sneakers, she left.",
+        "extraVocabulary": [
+          {
+            "word": "put on",
+            "meaning": "mang vào"
+          },
+          {
+            "word": "left",
+            "meaning": "đã rời đi (quá khứ của leave)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn đã mặc gì trước khi bạn mua chiếc đồng phục mới?",
+        "english": "What had you worn before you bought the new uniform?",
+        "extraVocabulary": [
+          {
+            "word": "worn",
+            "meaning": "đã mặc (quá khứ phân từ của wear)"
+          },
+          {
+            "word": "bought",
+            "meaning": "đã mua (quá khứ của buy)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Mua sắm",
+    "sentences": [
+      {
+        "vietnamese": "Cô ấy đã mua sắm được hai tiếng trước khi tìm được một món hời.",
+        "english": "She had been shopping for two hours before she found a bargain.",
+        "extraVocabulary": [
+          {
+            "word": "found",
+            "meaning": "đã tìm thấy (quá khứ của find)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Chúng tôi đã xếp hàng ở quầy thanh toán được hai mươi phút.",
+        "english": "We had been queuing at the checkout for twenty minutes.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy đã không bán được nhiều trước đợt giảm giá.",
+        "english": "He had not been selling much before the sale.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn đã thử nhiều sản phẩm trước khi chọn một cái chưa?",
+        "english": "Had you been trying on many products before you chose one?",
+        "extraVocabulary": [
+          {
+            "word": "chose",
+            "meaning": "đã chọn (quá khứ của choose)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Trung tâm thương mại đã áp dụng giảm giá lớn từ sáng.",
+        "english": "The mall had been offering a big discount since morning.",
+        "extraVocabulary": [
+          {
+            "word": "offering",
+            "meaning": "đang áp dụng/đưa ra"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nhân viên bán hàng đã không giúp khách hàng được lâu.",
+        "english": "The shop assistant had not been helping customers for long.",
+        "extraVocabulary": [
+          {
+            "word": "helping",
+            "meaning": "đang giúp đỡ"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Giá đã tăng trước đợt giảm giá đó phải không?",
+        "english": "Had the price been rising before the sale?",
+        "extraVocabulary": [
+          {
+            "word": "rising",
+            "meaning": "đang tăng"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tôi đã thanh toán bằng thẻ tín dụng từ năm ngoái.",
+        "english": "I had been paying by credit card since last year.",
+        "extraVocabulary": [
+          {
+            "word": "paying",
+            "meaning": "đang thanh toán"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Họ đã chờ tiền hoàn lại được một tuần.",
+        "english": "They had been waiting for a refund for a week.",
+        "extraVocabulary": [
+          {
+            "word": "waiting",
+            "meaning": "đang chờ đợi"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn đã mua sắm trực tuyến bao lâu trước khi hàng giao đến?",
+        "english": "How long had you been shopping online before the delivery arrived?",
+        "extraVocabulary": [
+          {
+            "word": "arrived",
+            "meaning": "đã đến"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Du lịch",
+    "sentences": [
+      {
+        "vietnamese": "Tôi sẽ đặt một nhà nghỉ tập thể cho chuyến đi.",
+        "english": "I will book a hostel for the trip.",
+        "extraVocabulary": [
+          {
+            "word": "book",
+            "meaning": "đặt (chỗ)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tôi nghĩ chuyến bay sẽ bị hoãn.",
+        "english": "I think the flight will be delayed.",
+        "extraVocabulary": [
+          {
+            "word": "delayed",
+            "meaning": "bị hoãn/trì hoãn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tôi sẽ gửi cho bạn lịch trình sớm.",
+        "english": "I will send you the itinerary soon.",
+        "extraVocabulary": [
+          {
+            "word": "send",
+            "meaning": "gửi"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Chúng tôi sẽ không ghé thăm khu nghỉ dưỡng đó nữa.",
+        "english": "We will not visit that resort again.",
+        "extraVocabulary": [
+          {
+            "word": "visit",
+            "meaning": "ghé thăm"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn sẽ mua bảo hiểm du lịch trước chuyến bay chứ?",
+        "english": "Will you buy travel insurance before the flight?",
+        "extraVocabulary": [
+          {
+            "word": "buy",
+            "meaning": "mua"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Hướng dẫn viên sẽ chỉ cho chúng tôi điểm đến.",
+        "english": "The guide will show us the destination.",
+        "extraVocabulary": [
+          {
+            "word": "show",
+            "meaning": "chỉ/hướng dẫn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Vị khách du lịch sẽ không mang hành lý nặng.",
+        "english": "The tourist will not carry heavy luggage.",
+        "extraVocabulary": [
+          {
+            "word": "carry",
+            "meaning": "mang/khuân"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Công ty du lịch sẽ sắp xếp visa cho chúng tôi chứ?",
+        "english": "Will the travel agency arrange our visa?",
+        "extraVocabulary": [
+          {
+            "word": "arrange",
+            "meaning": "sắp xếp"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tôi nghĩ chuyến du thuyền này sẽ nằm trong ngân sách.",
+        "english": "I think this cruise will stay within budget.",
+        "extraVocabulary": [
+          {
+            "word": "stay",
+            "meaning": "nằm trong/duy trì"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Chúng tôi sẽ làm thủ tục sớm ở sân bay.",
+        "english": "We will check in early at the airport.",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Trường học",
+    "sentences": [
+      {
+        "vietnamese": "Tối nay tôi sẽ học môn khoa học.",
+        "english": "I am going to study science this evening.",
+        "extraVocabulary": [
+          {
+            "word": "study",
+            "meaning": "học"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nhìn lên bảng đen kìa! Giáo viên sắp giải thích bài học.",
+        "english": "Look at the blackboard! The teacher is going to explain the lesson.",
+        "extraVocabulary": [
+          {
+            "word": "explain",
+            "meaning": "giải thích"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Học sinh này sẽ không nộp bài tập lớn đúng hạn.",
+        "english": "The student is not going to submit the assignment on time.",
+        "extraVocabulary": [
+          {
+            "word": "submit",
+            "meaning": "nộp"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Ngày mai bạn có định làm bài thi lịch sử không?",
+        "english": "Are you going to take the history exam tomorrow?",
+        "extraVocabulary": [
+          {
+            "word": "take",
+            "meaning": "làm (bài thi)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Hiệu trưởng sẽ đến thăm lớp học của chúng tôi.",
+        "english": "The principal is going to visit our classroom.",
+        "extraVocabulary": [
+          {
+            "word": "visit",
+            "meaning": "đến thăm"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Chúng tôi sẽ không sử dụng thư viện trong giờ giải lao.",
+        "english": "We are not going to use the library during the break.",
+        "extraVocabulary": [
+          {
+            "word": "use",
+            "meaning": "sử dụng"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Giáo viên có định kiểm tra vở ghi của chúng tôi sau bài học không?",
+        "english": "Is the teacher going to check our notebooks after the lesson?",
+        "extraVocabulary": [
+          {
+            "word": "check",
+            "meaning": "kiểm tra"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Điểm số của cô ấy sẽ được cải thiện.",
+        "english": "Her grade is going to improve.",
+        "extraVocabulary": [
+          {
+            "word": "improve",
+            "meaning": "cải thiện"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tôi sẽ mượn một cây bút chì và một cục tẩy.",
+        "english": "I am going to borrow a pencil and an eraser.",
+        "extraVocabulary": [
+          {
+            "word": "borrow",
+            "meaning": "mượn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn sẽ học môn gì cho kỳ thi?",
+        "english": "What subject are you going to study for the exam?",
+        "extraVocabulary": [
+          {
+            "word": "study",
+            "meaning": "học"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Bạn bè",
+    "sentences": [
+      {
+        "vietnamese": "Giờ này ngày mai, tôi sẽ đang đi chơi cùng người bạn thân nhất của mình.",
+        "english": "At this time tomorrow, I will be hanging out with my best friend.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn cùng phòng của tôi sẽ đang hàn huyên với một người bạn cùng lớp cũ lúc 8 giờ tối nay.",
+        "english": "My roommate will be catching up with an old classmate at 8 p.m. tonight.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Giờ này tuần sau, các đồng đội vui vẻ của tôi sẽ đang đi chơi cùng nhau.",
+        "english": "This time next week, my cheerful teammates will be hanging out together.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Đồng nghiệp đáng tin cậy của tôi sẽ không đang hòa hợp với người quen mới vào Chủ nhật tới.",
+        "english": "My reliable colleague will not be getting along with the new acquaintance next Sunday.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh bạn thân thiết hay nói của tôi sẽ không đang đi chơi cùng chúng tôi lúc 8 giờ tối mai.",
+        "english": "My talkative buddy will not be hanging out with us at 8 p.m. tomorrow.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn có đang đi chơi cùng người bạn thân của mình vào giờ này ngày mai không?",
+        "english": "Will you be hanging out with your pal at this time tomorrow?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn của bạn có đang hàn huyên với các đồng đội lúc 8 giờ tối nay không?",
+        "english": "Will your mate be catching up with his teammates at 8 p.m. tonight?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Người bạn đồng hành hào phóng và biết quan tâm của tôi sẽ đang hòa hợp tốt với bạn cùng lớp mới.",
+        "english": "My generous and caring companion will be getting along well with the new classmate.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Giờ này tháng sau, người bạn hướng ngoại và hài hước của tôi sẽ đang hàn huyên với một đồng nghiệp đáng tin.",
+        "english": "This time next month, my outgoing and funny friend will be catching up with a trustworthy colleague.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Giờ này tuần sau, những người bạn trung thành và tôn trọng của tôi sẽ không đang giận nhau nữa.",
+        "english": "This time next week, my loyal and respectful friends will not be falling out anymore.",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Thời tiết",
+    "sentences": [
+      {
+        "vietnamese": "Đến cuối tuần này, trời sẽ đã nắng và mát được năm ngày.",
+        "english": "By this weekend, it will have been sunny and cool for five days.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Sẽ đã có một trận mưa rào nhẹ trước đầu giờ chiều.",
+        "english": "There will have been a light shower by early afternoon.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Đến ngày mai, sẽ đã có hai cơn bão nhiệt đới trong tháng này.",
+        "english": "By tomorrow, there will have been two typhoons this month.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Sẽ chưa có mưa đá hay sương giá nào trước cuối tuần này.",
+        "english": "There will not have been any hail or frost by the end of this week.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Nhiệt độ sẽ chưa xuống dưới mười độ tính đến tối nay.",
+        "english": "The temperature will not have been below ten degrees by tonight.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Đến tối nay, trời đã có gió lớn và bão suốt cả ngày chưa?",
+        "english": "Will it have been windy and stormy all day by this evening?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Sẽ đã có cầu vồng sau trận mưa phùn này chưa?",
+        "english": "Will there have been a rainbow after this drizzle?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Đến tối nay, trời sẽ đã có sương mù từ sáng sớm.",
+        "english": "By tonight, it will have been foggy since early morning.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Đến năm 2030, khí hậu sẽ đã ấm hơn và khô hơn so với hiện nay.",
+        "english": "By 2030, the climate will have been much warmer and drier than today.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Sẽ đã có sấm và sét trước trận lũ lụt.",
+        "english": "There will have been thunder and lightning before the flood.",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Môi trường",
+    "sentences": [
+      {
+        "vietnamese": "Rác nhựa này được tái chế mỗi tháng.",
+        "english": "This plastic waste is recycled every month.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Điện mặt trời và năng lượng gió được sử dụng thay cho nhiên liệu hóa thạch ở đây.",
+        "english": "Solar power and wind energy are used instead of fossil fuels here.",
+        "extraVocabulary": [
+          {
+            "word": "used",
+            "meaning": "được sử dụng"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Môi trường sống này đã bị làm nhiễm bẩn bởi rác nhựa vào năm ngoái.",
+        "english": "This habitat was contaminated by plastic waste last year.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Hệ sinh thái đã không bị tổn hại bởi hạn hán lần này.",
+        "english": "The ecosystem was not harmed by the drought this time.",
+        "extraVocabulary": [
+          {
+            "word": "harmed",
+            "meaning": "bị tổn hại"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Môi trường đang bị tổn hại bởi biến đổi khí hậu và ô nhiễm.",
+        "english": "The environment is being damaged by climate change and pollution.",
+        "extraVocabulary": [
+          {
+            "word": "damaged",
+            "meaning": "bị tổn hại"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Môi trường sống này có đang bị phá hủy bởi nạn phá rừng không?",
+        "english": "Is this habitat being destroyed by deforestation?",
+        "extraVocabulary": [
+          {
+            "word": "destroyed",
+            "meaning": "bị phá hủy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nhiên liệu hóa thạch phải được thay thế bằng năng lượng tái tạo sớm.",
+        "english": "Fossil fuels must be replaced by renewable energy soon.",
+        "extraVocabulary": [
+          {
+            "word": "replaced",
+            "meaning": "được thay thế"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Rác phân hủy sinh học không nên bị vứt vào bãi chôn lấp.",
+        "english": "Biodegradable waste should not be thrown into the landfill.",
+        "extraVocabulary": [
+          {
+            "word": "thrown",
+            "meaning": "bị vứt"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đa dạng sinh học có được bảo vệ thông qua công tác bảo tồn và tính bền vững không?",
+        "english": "Is biodiversity protected through conservation and sustainability?",
+        "extraVocabulary": [
+          {
+            "word": "protected",
+            "meaning": "được bảo vệ"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nóng lên toàn cầu được gây ra bởi hiệu ứng nhà kính và khí thải từ nhiên liệu hóa thạch.",
+        "english": "Global warming is caused by the greenhouse effect and emissions from fossil fuels.",
+        "extraVocabulary": [
+          {
+            "word": "caused",
+            "meaning": "được gây ra"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Con vật nuôi",
+    "sentences": [
+      {
+        "vietnamese": "Nếu bạn nhận nuôi một chú chó con, bạn sẽ cần cho nó ăn mỗi ngày.",
+        "english": "If you adopt a puppy, you will need to feed it every day.",
+        "extraVocabulary": [
+          {
+            "word": "need",
+            "meaning": "cần"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu chúng tôi nhận nuôi chú mèo con này, nó sẽ sống cùng chúng tôi.",
+        "english": "If we adopt this kitten, it will live with us.",
+        "extraVocabulary": [
+          {
+            "word": "live",
+            "meaning": "sống"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu bạn cho cá vàng ăn quá nhiều, nó sẽ chết.",
+        "english": "If you feed the goldfish too much, it will die.",
+        "extraVocabulary": [
+          {
+            "word": "die",
+            "meaning": "chết"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu bạn không cho con thỏ ăn, nó sẽ không lớn tốt được.",
+        "english": "If you do not feed the rabbit, it will not grow well.",
+        "extraVocabulary": [
+          {
+            "word": "grow",
+            "meaning": "lớn lên"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn có nhận nuôi con rùa này không nếu tôi không thể nuôi nó nữa?",
+        "english": "Will you adopt this turtle if I cannot keep it anymore?",
+        "extraVocabulary": [
+          {
+            "word": "keep",
+            "meaning": "nuôi, giữ"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu thú cưng bị ốm, bác sĩ thú y sẽ khám cho nó.",
+        "english": "If a pet gets sick, the vet will examine it.",
+        "extraVocabulary": [
+          {
+            "word": "sick",
+            "meaning": "bị ốm"
+          },
+          {
+            "word": "examine",
+            "meaning": "khám bệnh"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu bạn đeo dây dắt cho một con chó, nó đi bên cạnh bạn.",
+        "english": "If you put a leash on a dog, it walks beside you.",
+        "extraVocabulary": [
+          {
+            "word": "put",
+            "meaning": "đeo, gắn vào"
+          },
+          {
+            "word": "walks",
+            "meaning": "đi bộ"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu bạn mở lồng, con vẹt bay ra ngoài.",
+        "english": "If you open the cage, the parrot flies out.",
+        "extraVocabulary": [
+          {
+            "word": "open",
+            "meaning": "mở"
+          },
+          {
+            "word": "flies out",
+            "meaning": "bay ra ngoài"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn có cho con ngựa ăn không nếu con trâu không đói?",
+        "english": "Will you feed the horse if the buffalo is not hungry?",
+        "extraVocabulary": [
+          {
+            "word": "hungry",
+            "meaning": "đói"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu bạn nhận nuôi hai con chuột hamster, chúng sẽ cần một cái lồng.",
+        "english": "If you adopt two hamsters, they will need a cage.",
+        "extraVocabulary": [
+          {
+            "word": "need",
+            "meaning": "cần"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Món ăn và thực phẩm",
+    "sentences": [
+      {
+        "vietnamese": "Nếu tôi là bạn, tôi sẽ gọi pizza thay vì salad.",
+        "english": "If I were you, I would order pizza instead of salad.",
+        "extraVocabulary": [
+          {
+            "word": "order",
+            "meaning": "gọi (món)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu chúng tôi có trứng, sữa và bơ, chúng tôi sẽ nướng một cái bánh ngọt.",
+        "english": "If we had eggs, milk, and butter, we would bake a cake.",
+        "extraVocabulary": [
+          {
+            "word": "bake",
+            "meaning": "nướng"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu tôi ăn nhiều sô cô la và kem như vậy, tôi sẽ thấy khó chịu.",
+        "english": "If I ate this much chocolate and ice cream, I would feel sick.",
+        "extraVocabulary": [
+          {
+            "word": "ate",
+            "meaning": "ăn (quá khứ của eat)"
+          },
+          {
+            "word": "feel sick",
+            "meaning": "cảm thấy khó chịu"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu tôi không thích súp, tôi sẽ ăn bánh mì và phô mai thay vào đó.",
+        "english": "If I did not like soup, I would eat bread and cheese instead.",
+        "extraVocabulary": [
+          {
+            "word": "like",
+            "meaning": "thích"
+          },
+          {
+            "word": "eat",
+            "meaning": "ăn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn sẽ chọn gì nếu hôm nay bạn chỉ có thể ăn mì hoặc cơm?",
+        "english": "What would you choose if you could only eat noodles or rice today?",
+        "extraVocabulary": [
+          {
+            "word": "choose",
+            "meaning": "chọn"
+          },
+          {
+            "word": "eat",
+            "meaning": "ăn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu cô ấy nấu thịt lợn và thịt bò cùng nhau, chúng tôi sẽ thử món súp đó.",
+        "english": "If she cooked pork and beef together, we would try the soup.",
+        "extraVocabulary": [
+          {
+            "word": "cooked",
+            "meaning": "nấu"
+          },
+          {
+            "word": "try",
+            "meaning": "thử (món ăn)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu tôi là bạn, tôi sẽ thêm nhiều cà rốt, hành tây và cà chua hơn vào món salad.",
+        "english": "If I were you, I would add more carrots, onions, and tomatoes to the salad.",
+        "extraVocabulary": [
+          {
+            "word": "add",
+            "meaning": "thêm"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu anh ấy không ăn thịt, anh ấy sẽ chọn cá thay vào đó.",
+        "english": "If he did not eat meat, he would choose fish instead.",
+        "extraVocabulary": [
+          {
+            "word": "eat",
+            "meaning": "ăn"
+          },
+          {
+            "word": "choose",
+            "meaning": "chọn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu tôi có xoài, chuối và dưa hấu, tôi sẽ làm một món salad.",
+        "english": "If I had mango, banana, and watermelon, I would make a salad.",
+        "extraVocabulary": [
+          {
+            "word": "make",
+            "meaning": "làm"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Bạn có thử món xúc xích và khoai tây này không nếu tôi nấu nó?",
+        "english": "Would you try this sausage and potato dish if I cooked it?",
+        "extraVocabulary": [
+          {
+            "word": "try",
+            "meaning": "thử (món ăn)"
+          },
+          {
+            "word": "dish",
+            "meaning": "món ăn"
+          },
+          {
+            "word": "cooked",
+            "meaning": "nấu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Thức uống",
+    "sentences": [
+      {
+        "vietnamese": "Nếu tôi đã pha một ít trà xanh, tôi đã cảm thấy thư giãn hơn.",
+        "english": "If I had made some green tea, I would have felt more relaxed.",
+        "extraVocabulary": [
+          {
+            "word": "relaxed",
+            "meaning": "thư giãn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu cô ấy đã không uống nhiều cà phê đá như vậy, cô ấy đã ngủ ngon hơn.",
+        "english": "If she had not drunk so much iced coffee, she would have slept better.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Nếu chúng tôi đã gọi trà sữa trân châu thay vì sinh tố, chúng tôi đã tiết kiệm được ít tiền.",
+        "english": "If we had ordered bubble tea instead of a smoothie, we would have saved some money.",
+        "extraVocabulary": [
+          {
+            "word": "money",
+            "meaning": "tiền"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu anh ấy đã mang theo nước tăng lực, anh ấy đã không cảm thấy mệt như vậy.",
+        "english": "If he had brought an energy drink, he would not have felt so tired.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn có sẽ thử rượu vang trắng không nếu tôi đã mời bạn một ít?",
+        "english": "Would you have tried the white wine if I had offered you some?",
+        "extraVocabulary": [
+          {
+            "word": "offered",
+            "meaning": "mời, đề nghị"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu họ đã cho thêm đá vào nước chanh, nó đã có vị lạnh hơn nhiều.",
+        "english": "If they had added more ice to the lemonade, it would have tasted much colder.",
+        "extraVocabulary": [
+          {
+            "word": "tasted",
+            "meaning": "có vị"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu bố tôi đã không uống bia tối đó, ông ấy đã lái xe về nhà an toàn.",
+        "english": "If my father had not drunk beer that night, he would have driven home safely.",
+        "extraVocabulary": [
+          {
+            "word": "driven",
+            "meaning": "lái (xe)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu chúng tôi đã có sâm banh, chúng tôi đã ăn mừng đúng cách hơn.",
+        "english": "If we had had some champagne, we would have celebrated properly.",
+        "extraVocabulary": [
+          {
+            "word": "celebrated",
+            "meaning": "ăn mừng"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu bạn đã không thích sữa lắc nhiều như vậy, tôi đã không mua nó mỗi cuối tuần.",
+        "english": "If you had not liked the milkshake so much, I would not have bought it every weekend.",
+        "extraVocabulary": [
+          {
+            "word": "weekend",
+            "meaning": "cuối tuần"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nếu cửa hàng đã phục vụ trà thảo mộc, tôi đã gọi nó thay vì trà đen.",
+        "english": "If the shop had served herbal tea, I would have ordered it instead of black tea.",
+        "extraVocabulary": [
+          {
+            "word": "shop",
+            "meaning": "cửa hàng"
+          },
+          {
+            "word": "served",
+            "meaning": "phục vụ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Màu sắc",
+    "sentences": [
+      {
+        "vietnamese": "Cô ấy nói rằng cô ấy thích màu xanh lá đậm.",
+        "english": "She said that she loved dark green.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy nói với tôi rằng xe của anh ấy màu bạc, không phải màu xám.",
+        "english": "He told me that his car was silver, not grey.",
+        "extraVocabulary": [
+          {
+            "word": "car",
+            "meaning": "xe ô tô"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Cô ấy hỏi tôi liệu tôi thích màu xanh hải quân hay màu đỏ rượu hơn.",
+        "english": "She asked me if I preferred navy or burgundy.",
+        "extraVocabulary": [
+          {
+            "word": "preferred",
+            "meaning": "thích hơn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Họ nói rằng những bức tường sẽ được sơn màu be nhạt.",
+        "english": "They said that the walls would be painted a light beige.",
+        "extraVocabulary": [
+          {
+            "word": "walls",
+            "meaning": "những bức tường"
+          },
+          {
+            "word": "painted",
+            "meaning": "sơn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Anh ấy hỏi chiếc váy màu ngọc lam đến từ đâu.",
+        "english": "He asked where the turquoise dress had come from.",
+        "extraVocabulary": [
+          {
+            "word": "dress",
+            "meaning": "chiếc váy"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Cô ấy tự hỏi liệu màu đỏ thẫm có quá đậm cho tấm thiệp mời hay không.",
+        "english": "She wondered whether crimson was too dark for the invitation.",
+        "extraVocabulary": [
+          {
+            "word": "invitation",
+            "meaning": "tấm thiệp mời"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Nhà thiết kế bảo chúng tôi chọn giữa màu san hô và màu đào.",
+        "english": "The designer told us to choose between coral and peach.",
+        "extraVocabulary": [
+          {
+            "word": "designer",
+            "meaning": "nhà thiết kế"
+          },
+          {
+            "word": "choose",
+            "meaning": "chọn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tôi nói rằng màu ngà trông đẹp hơn màu trắng trên những tấm thiệp.",
+        "english": "I said that ivory looked better than white on the cards.",
+        "extraVocabulary": [
+          {
+            "word": "cards",
+            "meaning": "những tấm thiệp"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Anh ấy hỏi tôi tại sao tôi đã chọn màu ô liu thay vì màu xanh bạc hà cho căn phòng.",
+        "english": "He asked me why I had chosen olive instead of mint for the room.",
+        "extraVocabulary": [
+          {
+            "word": "room",
+            "meaning": "căn phòng"
+          },
+          {
+            "word": "chosen",
+            "meaning": "đã chọn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Chị tôi nói rằng màu hồng sen hợp với chị ấy hơn màu hồng.",
+        "english": "My sister said that magenta suited her more than pink.",
+        "extraVocabulary": [
+          {
+            "word": "suited",
+            "meaning": "hợp với"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Công việc và nghề nghiệp",
+    "sentences": [
+      {
+        "vietnamese": "Kỹ sư đã thiết kế cây cầu này giờ đang làm quản lý.",
+        "english": "The engineer who designed this bridge now works as a manager.",
+        "extraVocabulary": [
+          {
+            "word": "bridge",
+            "meaning": "cây cầu"
+          },
+          {
+            "word": "designed",
+            "meaning": "đã thiết kế"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đây là bản sơ yếu lý lịch mà tôi đã gửi cho buổi phỏng vấn tuần trước.",
+        "english": "This is the resume that I sent for the interview last week.",
+        "extraVocabulary": [
+          {
+            "word": "sent",
+            "meaning": "đã gửi"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tôi có một đồng nghiệp có mức lương đã được tăng sau khi cô ấy được thăng chức.",
+        "english": "I have a colleague whose salary was raised after her promotion.",
+        "extraVocabulary": [
+          {
+            "word": "raised",
+            "meaning": "được tăng"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đó là công ty nơi kế toán đã nộp đơn xin việc.",
+        "english": "That is the company where the accountant applied for a job.",
+        "extraVocabulary": [
+          {
+            "word": "company",
+            "meaning": "công ty"
+          },
+          {
+            "word": "job",
+            "meaning": "công việc"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đầu bếp, người đã từ chức tháng trước, giờ đang làm việc tự do.",
+        "english": "The chef, who resigned last month, is now working freelance.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Đây là tuần mà hạn chót đến.",
+        "english": "This is the week when the deadline arrives.",
+        "extraVocabulary": [
+          {
+            "word": "week",
+            "meaning": "tuần"
+          },
+          {
+            "word": "arrives",
+            "meaning": "đến"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Phi công đã lái máy bay đưa chúng tôi đến Paris từng là lính cứu hỏa.",
+        "english": "The pilot who flew us to Paris used to be a firefighter.",
+        "extraVocabulary": [
+          {
+            "word": "flew",
+            "meaning": "lái (máy bay)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Lập trình viên mà chúng tôi đã tuyển năm ngoái vừa được thăng chức lớn.",
+        "english": "The developer whom we hired last year just got a big promotion.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy có phải là người phục vụ bàn làm thêm giờ mỗi cuối tuần không?",
+        "english": "Is she the waiter who works overtime every weekend?",
+        "extraVocabulary": [
+          {
+            "word": "weekend",
+            "meaning": "cuối tuần"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Kiến trúc sư có văn phòng gần chỗ tôi làm việc có một sự nghiệp lâu dài trong thiết kế.",
+        "english": "The architect whose office is near mine has had a long career in design.",
+        "extraVocabulary": [
+          {
+            "word": "office",
+            "meaning": "văn phòng"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Kinh doanh",
+    "sentences": [
+      {
+        "vietnamese": "Nhà cung cấp mới của chúng tôi rẻ hơn nhà cung cấp trước đây.",
+        "english": "Our new supplier is cheaper than our previous one.",
+        "extraVocabulary": [
+          {
+            "word": "cheaper",
+            "meaning": "rẻ hơn"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Chiến lược của công ty khởi nghiệp này quyết liệt hơn đối thủ cạnh tranh lớn nhất của nó.",
+        "english": "This startup's strategy is more aggressive than its biggest competitor's.",
+        "extraVocabulary": [
+          {
+            "word": "aggressive",
+            "meaning": "quyết liệt, táo bạo"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Doanh thu năm nay của chúng tôi cao nhất trong lịch sử công ty.",
+        "english": "Our revenue this year is the highest in the company's history.",
+        "extraVocabulary": [
+          {
+            "word": "history",
+            "meaning": "lịch sử"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Hợp đồng này có thuận lợi hơn thỏa thuận đối tác trước đây không?",
+        "english": "Is this contract more favorable than the last partnership deal?",
+        "extraVocabulary": [
+          {
+            "word": "favorable",
+            "meaning": "thuận lợi"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Ngân sách của khách hàng nhỏ hơn nhà cung cấp mong đợi.",
+        "english": "The client's budget is smaller than the supplier expected.",
+        "extraVocabulary": [
+          {
+            "word": "expected",
+            "meaning": "mong đợi"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Đây là lần ra mắt sản phẩm thành công nhất mà thương hiệu của chúng tôi từng có.",
+        "english": "This is the most successful product launch our brand has ever had.",
+        "extraVocabulary": [
+          {
+            "word": "successful",
+            "meaning": "thành công"
+          },
+          {
+            "word": "product",
+            "meaning": "sản phẩm"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Khoản lỗ quý này của chúng tôi nhỏ hơn khoản lỗ năm ngoái.",
+        "english": "Our loss this quarter is smaller than last year's loss.",
+        "extraVocabulary": [
+          {
+            "word": "quarter",
+            "meaning": "quý (kinh doanh)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Các bên liên quan ít tự tin về đề xuất này hơn so với đề xuất trước.",
+        "english": "The stakeholders are less confident about this proposal than about the last one.",
+        "extraVocabulary": [
+          {
+            "word": "confident",
+            "meaning": "tự tin"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Thị trường nào lớn nhất cho việc kinh doanh của chúng tôi hiện nay?",
+        "english": "Which market is the largest for our business right now?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Lợi nhuận năm nay của chúng tôi cao bằng mục tiêu năm ngoái.",
+        "english": "Our profit this year is as high as last year's target.",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Chào hỏi và giới thiệu bản thân",
+    "sentences": [
+      {
+        "vietnamese": "Bạn có thể nói \"rất vui được gặp bạn\" sau cái bắt tay.",
+        "english": "You could say \"nice to meet you\" after the handshake.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy phải giới thiệu bản thân trước khi hỏi về sở thích của bạn.",
+        "english": "He must introduce himself before he asks about your hobby.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn nên nói \"xin lỗi\" trước khi hỏi \"Bạn đến từ đâu?\"",
+        "english": "You should say \"excuse me\" before you ask \"Where are you from?\"",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Chúng tôi có thể sẽ không nghe rõ tên của bạn trong lúc chuyện xã giao.",
+        "english": "We might not catch your name during the small talk.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn có thể cho tôi biết quốc tịch và quê nhà của bạn không?",
+        "english": "Could you tell me your nationality and your hometown?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn không cần phải nói \"xin lỗi\" nếu đó không phải lỗi của bạn.",
+        "english": "You do not have to say \"sorry\" if it was not your fault.",
+        "extraVocabulary": [
+          {
+            "word": "fault",
+            "meaning": "lỗi"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Học sinh nên chào giáo viên của họ bằng câu \"chào buổi sáng\" mỗi ngày.",
+        "english": "Students should greet their teacher with \"good morning\" every day.",
+        "extraVocabulary": [
+          {
+            "word": "students",
+            "meaning": "học sinh"
+          },
+          {
+            "word": "teacher",
+            "meaning": "giáo viên"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Tôi có thể hỏi tuổi và nghề nghiệp của bạn được không?",
+        "english": "May I ask your age and your occupation?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn phải trả lời \"tôi khỏe, cảm ơn\" một cách lịch sự khi ai đó hỏi \"bạn khỏe không?\"",
+        "english": "You must answer \"I'm fine, thanks\" politely when someone asks \"How are you?\"",
+        "extraVocabulary": [
+          {
+            "word": "answer",
+            "meaning": "trả lời"
+          },
+          {
+            "word": "politely",
+            "meaning": "một cách lịch sự"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Chúng ta nên nói \"tạm biệt\" hay \"hẹn gặp lại\" vào cuối cuộc họp?",
+        "english": "Should we say \"goodbye\" or \"see you later\" at the end of the meeting?",
+        "extraVocabulary": [
+          {
+            "word": "meeting",
+            "meaning": "cuộc họp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Nghệ thuật",
+    "sentences": [
+      {
+        "vietnamese": "Cô ấy thích vẽ tranh phong cảnh vào thời gian rảnh của mình.",
+        "english": "She enjoys painting landscapes in her free time.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Người nghệ sĩ đã quyết định bán kiệt tác của mình cho bảo tàng.",
+        "english": "The artist decided to sell his masterpiece to the museum.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy tránh biểu diễn trước đông đảo khán giả.",
+        "english": "He avoids performing in front of a large audience.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Diễn viên đó không muốn diễn trong vở kịch đó năm nay.",
+        "english": "The actor doesn't want to act in that play this year.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn có dự định đến thăm triển lãm mới tại phòng trưng bày không?",
+        "english": "Do you plan to visit the new exhibition at the gallery?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Dàn nhạc đã tập luyện xong cho buổi hòa nhạc chưa?",
+        "english": "Has the orchestra finished practicing for the concert?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tôi hy vọng sẽ được thấy nhiều tác phẩm điêu khắc hơn trong triển lãm tiếp theo.",
+        "english": "I hope to see more sculptures in the next exhibition.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Hãy nhớ mang theo cọ vẽ và vải toan đến lớp nhé.",
+        "english": "Please remember to bring your brush and canvas to class.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy không phiền khi nghe nhạc trong lúc vẽ.",
+        "english": "She doesn't mind listening to music while she paints.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Giáo viên đã đề nghị đến thăm bảo tàng để nghiên cứu những bức tranh nổi tiếng.",
+        "english": "The teacher suggested visiting the museum to study famous paintings.",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Máy tính và Internet",
+    "sentences": [
+      {
+        "vietnamese": "Cô ấy có một mật khẩu mới cho email của mình.",
+        "english": "She has a new password for her email.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Mật khẩu mà cô ấy tạo ra rất mạnh.",
+        "english": "The password she created is very strong.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tôi cần một bản cập nhật cho phần mềm này.",
+        "english": "I need an update for this software.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bản cập nhật đã sửa một lỗi phần mềm trong mạng.",
+        "english": "The update fixed a bug in the network.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy đã tải xuống một tường lửa để bảo vệ máy tính của mình.",
+        "english": "He downloaded a firewall to protect his computer.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tường lửa đã chặn một virus vào hôm qua.",
+        "english": "The firewall blocked a virus yesterday.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Ở đây có mạng không dây không?",
+        "english": "Is there a wireless network here?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cơ sở dữ liệu trên máy chủ cần một bản sao lưu.",
+        "english": "The database on the server needs a backup.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn đã tạo một tên đăng nhập trước khi đăng ký chưa?",
+        "english": "Did you create a username before you signed up?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Mạng xã hội và công cụ tìm kiếm rất phổ biến hiện nay.",
+        "english": "Social media and search engines are very popular nowadays.",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Sức khỏe và y tế",
+    "sentences": [
+      {
+        "vietnamese": "Lịch hẹn của tôi với bác sĩ là lúc 9 giờ.",
+        "english": "My appointment with the doctor is at 9 o'clock.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy đã đi khám sức khỏe định kỳ tại phòng khám vào hôm qua.",
+        "english": "She had a checkup at the clinic yesterday.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy bị cúm vào tháng Mười Hai.",
+        "english": "He had the flu in December.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Y tá làm việc trong bệnh viện này mỗi ngày.",
+        "english": "The nurse works in this hospital every day.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tôi sẽ phẫu thuật vào sáng thứ Hai.",
+        "english": "I will have surgery on Monday morning.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cơn sốt của cô ấy bắt đầu vào thứ Sáu.",
+        "english": "Her fever started on Friday.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Đơn thuốc đang ở trên bàn của bác sĩ.",
+        "english": "The prescription is on the doctor's desk.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Xe cứu thương đã đến bệnh viện trong mười phút.",
+        "english": "The ambulance arrived at the hospital in ten minutes.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bảo hiểm của bạn có chi trả cho việc điều trị tại bệnh viện này không?",
+        "english": "Does your insurance cover treatment at this hospital?",
+        "extraVocabulary": [
+          {
+            "word": "cover",
+            "meaning": "chi trả (bảo hiểm)"
+          }
+        ]
+      },
+      {
+        "vietnamese": "Có một hiệu thuốc trên đường Lê Lợi gần bệnh viện.",
+        "english": "There is a pharmacy on Le Loi Street near the hospital.",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Điện thoại và thư tín",
+    "sentences": [
+      {
+        "vietnamese": "Bạn đã gửi lá thư hôm qua, phải không?",
+        "english": "You sent the letter yesterday, didn't you?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy đã không trả lời cuộc gọi, phải không?",
+        "english": "She didn't answer the phone call, did she?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Người đưa thư giao bưu kiện mỗi sáng, phải không?",
+        "english": "The postman delivers parcels every morning, doesn't he?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn sẽ hồi âm tin nhắn của tôi sớm, phải không?",
+        "english": "You will reply to my text message soon, won't you?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy đã quay nhầm số, phải không?",
+        "english": "She dialed the wrong number, didn't she?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Ở đây không có sóng, phải không?",
+        "english": "There isn't a signal here, is there?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn đã quên dán tem lên phong bì, phải không?",
+        "english": "You forgot to put a stamp on the envelope, didn't you?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bưu kiện vẫn chưa đến bưu điện, phải không?",
+        "english": "The parcel hasn't arrived at the post office yet, has it?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Bạn có thể kiểm tra hộp thư thoại sau, phải không?",
+        "english": "You can check your voicemail later, can't you?",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tệp đính kèm này khẩn cấp, phải không?",
+        "english": "This attachment is urgent, isn't it?",
+        "extraVocabulary": []
+      }
+    ]
+  },
+  {
+    "topic": "Truyền hình và báo chí",
+    "sentences": [
+      {
+        "vietnamese": "Tôi ước gì mình là một nhà báo nổi tiếng.",
+        "english": "I wish I were a famous journalist.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Cô ấy ước gì mình có nhiều thời gian hơn để đọc báo giấy.",
+        "english": "She wishes she had more time to read the newspaper.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy ước gì mình làm phóng viên cho kênh đó.",
+        "english": "He wishes he worked as a reporter for that channel.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tôi ước gì mình đã xem cuộc phỏng vấn trực tiếp hôm qua.",
+        "english": "I wish I had watched the live interview yesterday.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Họ ước gì đã đăng ký theo dõi tạp chí đó sớm hơn.",
+        "english": "They wish they had subscribed to that magazine earlier.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Biên tập viên ước gì cô ấy đã đăng bài báo đó sớm hơn.",
+        "english": "The editor wishes she had published the article sooner.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tôi ước gì tờ báo đó ngừng đăng tin giả.",
+        "english": "I wish the newspaper would stop publishing fake news.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Chúng tôi ước gì kênh này phát sóng nhiều phim tài liệu hơn.",
+        "english": "We wish this channel would broadcast more documentaries.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Tôi ước gì khán giả ngừng nói chuyện trong chương trình trực tiếp.",
+        "english": "I wish the audience would stop talking during the live programme.",
+        "extraVocabulary": []
+      },
+      {
+        "vietnamese": "Anh ấy ước gì có ít sự kiểm duyệt hơn trong báo chí.",
+        "english": "He wishes there were less censorship in the press.",
+        "extraVocabulary": []
+      }
+    ]
+  }
+]

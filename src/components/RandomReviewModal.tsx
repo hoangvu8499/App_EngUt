@@ -16,6 +16,7 @@ import * as Speech from 'expo-speech';
 
 import { colors } from '../theme/colors';
 import type { VocabularyItem } from '../data/topics';
+import { shuffledSlice } from '../utils/shuffle';
 
 const QUIZ_SIZE = 10;
 
@@ -33,12 +34,7 @@ type Props = {
 };
 
 function buildQuiz(words: VocabularyItem[]): QuizItem[] {
-  const shuffled = [...words];
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  }
-  return shuffled.slice(0, Math.min(QUIZ_SIZE, shuffled.length)).map((word) => ({
+  return shuffledSlice(words, QUIZ_SIZE).map((word) => ({
     word,
     mode: Math.random() < 0.5 ? 'meaning' : 'audio',
   }));

@@ -2,7 +2,7 @@ import { ScrollView, StyleSheet, Text, View, Pressable } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
 import { colors } from '../theme/colors';
-import { getProgressPercent } from '../data/progress';
+import { useProgressPercent } from '../data/progress';
 import { getGrammarLesson } from '../data/grammar';
 import AppHeaderCard from '../components/AppHeaderCard';
 
@@ -14,7 +14,7 @@ type Props = {
 };
 
 export default function GrammarScreen({ fullName, topicName, onBackToTopicDetail, onLogout }: Props) {
-  const progressPercent = getProgressPercent();
+  const progressPercent = useProgressPercent();
   const lesson = getGrammarLesson(topicName);
 
   return (

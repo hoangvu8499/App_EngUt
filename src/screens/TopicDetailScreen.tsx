@@ -2,7 +2,7 @@ import { Image, Pressable, ScrollView, StyleSheet, Text, View } from 'react-nati
 import { Ionicons } from '@expo/vector-icons';
 
 import { colors } from '../theme/colors';
-import { getProgressPercent } from '../data/progress';
+import { useProgressPercent, isTopicPassed } from '../data/progress';
 import AppHeaderCard from '../components/AppHeaderCard';
 
 export type TopicMenuKey = 'flashcard' | 'grammar' | 'practice' | 'quiz';
@@ -55,7 +55,8 @@ type Props = {
 };
 
 export default function TopicDetailScreen({ fullName, topicName, onSelectMenuItem, onBackToHome, onLogout }: Props) {
-  const progressPercent = getProgressPercent();
+  const progressPercent = useProgressPercent();
+  const passed = isTopicPassed(topicName);
 
   return (
     <View style={styles.container}>
@@ -77,6 +78,9 @@ export default function TopicDetailScreen({ fullName, topicName, onSelectMenuIte
               <Text style={styles.menuTitle}>{item.title}</Text>
               <Text style={styles.menuSubtitle}>{item.subtitle}</Text>
             </View>
+            {item.key === 'quiz' && passed ? (
+              <Ionicons name="checkmark-circle" size={22} color={colors.success} />
+            ) : null}
           </Pressable>
         ))}
       </ScrollView>

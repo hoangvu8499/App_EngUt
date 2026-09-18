@@ -4,7 +4,7 @@ import { FlatList, Image, Pressable, StyleSheet, Text, View } from 'react-native
 import { colors } from '../theme/colors';
 import { topics } from '../data/topics';
 import { getTopicVisual } from '../data/topicVisuals';
-import { getProgressPercent } from '../data/progress';
+import { useProgressPercent } from '../data/progress';
 import AppHeaderCard from '../components/AppHeaderCard';
 
 type Props = {
@@ -14,7 +14,7 @@ type Props = {
 };
 
 export default function HomeScreen({ fullName, onSelectTopic, onLogout }: Props) {
-  const progressPercent = getProgressPercent();
+  const progressPercent = useProgressPercent();
 
   const cards = useMemo(
     () => topics.map((item, index) => ({ name: item.topic, ...getTopicVisual(item.topic, index) })),
